@@ -1,0 +1,22 @@
+[[!meta  date="2000-09-04"]]
+Wow, what a day! I'm getting a bit older today. Some kind people
+have sent me some cards (and some e-cards).
+
+After the day began that way, I was pleased to learn that my
+September issue of [Linux Journal](http://www.linuxjournal.com)
+arrived.
+
+Then, it was so nice to see a birthday present in form of a new
+kernel ([Linux 2.2.17](http://www.linux.com)) being released.
+Hopefully it will make the feedback and VM system a bit easier on
+the user (now, I just need
+[André Hedrick's IDE](http://www.linux-ide.org) patch and
+[Reiser FS](http://devlinux.net/namesys/) ported to 2.2.17). And
+there's the news that [KDE](http://www.kde.org) may be packaged to
+[Debian](http://www.debian.org), now that Qt is being dually
+licensed, which is übercool.
+
+The day is not over yet and I just got my glasses fixed and now I
+can see the world much clearer. Uh... If all days were like
+this...
+[[!tag  uncategorized]]
