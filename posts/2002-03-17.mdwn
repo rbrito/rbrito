@@ -1,0 +1,16 @@
+[[!meta  date="2002-03-17"]]
+Got [mplayer](http://mplayer.sf.net/) working well in PowerPC (G3,
+600MHz), with the new [ffmpeg](http://ffmpeg.sf.net/). I had to use
+-ao sdl to get it working. The video wasn't as smooth as with -ao
+null, but it was OK, at least. I am under the impression that using
+-vo sdl:x11 is better than using -vo x11, at least with the Rage
+Mobility 128. BTW, it was also possible to play DivX 5 movies with
+this setup (the new Star Wars clip).
+
+The USB keyboard and USB mouse work fine under Linux. It was just a
+simple matter of recompiling the [kernel](http://www.kernel.org/)
+with USB HID support enabled (in my case, as modules). They also
+work fine with [MacOS X](http://www.apple.com/macosx/)
+
+
+[[!tag  uncategorized]]
