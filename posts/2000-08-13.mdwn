@@ -1,0 +1,10 @@
+[[!meta  date="2000-08-13"]]
+Oh, my! I stayed up to 7am without any sleep to get the card to do
+just a sucky 1024x768x16bits with a similarly bad refresh rate. And
+the card is sloooow. Or so it seems. But
+[Google](http://www.google.com) tells me other people are also
+having problems with it, which makes me a little bit more
+comfortable (at least I'm not going nuts thinking that I'm
+consistently making stupid mistakes -- which are more common than
+what I'd like to admit).
+[[!tag  uncategorized]]
