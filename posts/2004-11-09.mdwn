@@ -1,0 +1,16 @@
+[[!meta  date="2004-11-09"]]
+What a strange year this one has been. I was almost killed today in
+a car accident. Modulo some pain and the lack of a car, everything
+is fine right now. But I wished that everything were slightly
+different.
+
+On the good news front,
+[Firefox 1.0](http://www.mozilla.org/products/firefox/) was
+released today, which is one of the most anticipated software
+releases of the year. Nice to counter-balance the other bad news.
+
+I also updated [my mini-tour](../latex/index.html) for making
+presentations in LaTeX with PPower4.
+
+
+[[!tag  uncategorized]]
