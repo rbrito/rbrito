@@ -1,0 +1,50 @@
+[[!meta  date="2004-11-03"]]
+It's been quite a long time since I last wrote anything here. In
+the mean time, [orkut](http://www.orkut.com/) has changed my life
+(for the worse) and it seems that I'm now "up for adoption" again.
+Maybe [Oz](http://www.cs.newcastle.edu.au/~nbi/) isn't that far
+away. Or maybe it is. I still don't know. The last missing piece
+(the
+[Test of English as a Foreign Language](http://www.toefl.org/)) was
+completed and the only problem now is the competition for
+scholarships.
+
+In the mean time, I
+[packaged](http://lists.debian.org/debian-mentors/2004/10/msg00325.html)
+[PPower4](http://www-sp.iti.informatik.tu-darmstadt.de/software/ppower4/),
+which works perfectly now with all the
+[Free](http://www.kaffe.org/) [JVMs](http://www.sablevm.org/) in
+[Debian's testing](http://www.debian.org/releases/testing/), which
+means that one can depend on even less non-free software.
+
+In fact, the very reason that Free JVMs entered testing were the
+reason for me to pick up [Java](http://java.sun.com/). It seems to
+be a nice language and the fact that it doesn't present a problem
+to [Free Software](http://www.fsf.org/) makes it a plausible
+addition in my book.
+
+I also patched iTunes 4.7 to work with iPod Download. The
+hard-coded blacklist that Apple put in iTunes isn't nice.
+
+[Ubuntu Linux](http://www.ubuntulinux.org/), on the contrary **is**
+nice. Also nice is the fact that
+[algorithms](http://texcatalogue.sarovar.org/entries/algorithms.html)
+is now Free (and soon will be back into
+[teTeX](http://www.tug.org/tetex/), which is what ships with
+[Debian](http://www.debian.org/)). I am happy, because this means
+that my local home directory will get a tiny bit smaller, with less
+cruft. And [The Global Operating System](http://www.debian.org/)
+even more powerful.
+
+And [faac](http://sf.net/projects/faac/)'s package made by
+Christian Marillat now works with the MP4 wrapper, which means that
+now I can use [grip](http://nostatic.org/grip/) with AAC files for
+[iPod](http://www.apple.com/ipod/) and use its space in a slighlyt
+more efficient manner (well, at least I hope so).
+
+Oh, BTW, I hate daylight savings time and it seems that now I'm
+back in love with Elementary Number Theory. If only Elementary
+Number Theory liked me...
+
+
+[[!tag  uncategorized]]
