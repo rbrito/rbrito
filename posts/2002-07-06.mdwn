@@ -1,0 +1,43 @@
+[[!meta  date="2002-07-06"]]
+Took the day to see how things regarding the old PowerMac
+9500/180MP were with a
+[newer XFree86](http://people.debian.org/~branden/). Apparently,
+[XFree86 4.2](http://www.xfree86.org/) doesn't support the XVideo
+extension for the imstt adapter, which is quite a pity.
+
+What this means is that I am not able to use
+[Xine](http://xine.sf.net/) or [Mplayer](http://www.mplayerhq.hu/)
+to efficiently play videos on this computer.
+
+I can see some things that make this computer slow:
+
+* It has a modest amount of RAM for today's standards (64MB,
+  which is particularly little for PowerPC);
+* I don't know if it's RAM chips are in an interleaved
+  configuration or not;
+* If it had a faster/better supported video card (say, like a
+  [ATI](http://www.ati.com/) Mach64), things would perhaps be better,
+  but this is just a guess. I don't know if the Mach64 sports XVideo
+  support under PowerPC, but perhaps the
+  [Gatos](http://gatos.sf.net/) project might help here;
+* I have no idea why this computer, while having a SCSI interface
+  and drive, is so slow while it is using the disk. I see two things:
+  it freezes most things the user (that's me!) whenever it is writing
+  (reading?) anything to (from?) the disk and the transfer speeds are
+  quite sloooow. I wonder if this is a problem of the Linux SCSI
+  infra-structure, if it is a problem of the hardware or if it is a
+  problem of configuration. It probably isn't a problem with Linux,
+  since I also see the slowness with [MacOS](http://www.apple.com/)
+  Classic (8).
+
+Anyway, just for fun, I tried to install
+[MacOS X 10.1](http://www.apple.com/macosx/) on this old computer.
+The catch is that MacOS X can't be installed on anything this old.
+Well, at least, that's what Apple says. I had to grab a copy of
+MacOS 9 (in German!) just to bootstrap the system. Then, using
+[XPostFacto](http://eshop.macsales.com/OSXCenter/XPostFacto/), the
+installation was quite smooth (and slow). But with one gotcha at
+the first reboot: a kernel panic.
+
+After that, I went to sleep.
+[[!tag  uncategorized]]
