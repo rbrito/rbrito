@@ -1,0 +1,9 @@
+[[!meta  date="2005-01-06"]]
+Started the new Summer Course on Topics on Programming. A great
+opportunity to get the things "the right way" and put an
+introduction on Mathematical Induction, on Rescursion and on
+Algorithm/Loop Invariants, since they aren't covered in details for
+novices in any of the books that I know.
+
+
+[[!tag  uncategorized]]
