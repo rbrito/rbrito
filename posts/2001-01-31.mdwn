@@ -1,0 +1,48 @@
+[[!meta  date="2001-01-31"]]
+Happy New Millennium! So many things have happened since the last
+time I've updated my diary and I guess that since I can't summarize
+everything accurately, I'll just list what I think are the
+remarkable facts:
+
+I have now put my new computer (a [Duron](http://www.amd.com)
+600MHz with a lovely [Asus](http://www.asus.com) A7V motherboard)
+to actual use. Of course, I made a backup of my older computer, so
+that I was prepared for worst (read on);
+[Linux 2.4.0](http://www.kernel.org) has finally been released and
+it includes a lot of new goodies. While I think that it is still
+not the right time to switch to the new version, it is indeed quite
+tempting (but I'll resist that temptation, since I've read a lot of
+people complaining of data corruption with the new IDE drivers when
+used with VIA chipsets -- and my motherboard features, guess what,
+a VIA chipset, of course).
+At the time of this writing (Feb 4th), Linux 2.4.1 was already
+released, with many minor fixes;
+A [new version](http://www.debian.org/releases/testing) of the
+Linux Distribution that I use,
+[Debian GNU/Linux](http://www.debian.org) is now getting more and
+more functionality. It is ready for the new Linux 2.4.0 kernel, but
+still under development (read: prone to break). Oh, why can't new
+software be stable? In the mean time, I'm using Debian's
+[potato](http://www.debian.org/releases/potato).
+One week after I have started to use my new computer, my 40GB
+Samsung drive broke. Ouch. Fortunately, I had taken backups of
+everything from my old computer and any new data that I had on my
+new computer was still readable. So, now, I'm using a new 30GB
+[Quantum](http://www.quantum.com) drive and everything seems to be
+working fine again. Nice.
+I am now reading more and more things about my Mastership work. It
+will be in a sub-area of computer science called
+[Computational (Molecular) Biology](../compbio/index.html). In
+particular, I'm studying now alignments of multiple sequences. The
+theory is quite general and applies to alignments of sequences over
+any alphabets, but the biological motivation is to study and
+compare (sub)sequences of DNA and of proteins;
+I must confess that while I was reading slowly in the beginning,
+without much motivation, now I'm quite excited about the subject.
+It has really grown on me and now I see how much I still have to
+catch up to read bleading edge papers (it is also surprising that
+this area of knowledge has evolved so much in so little time, but I
+guess that this is natural whenever there are economic interests in
+a given field). Now, I want to learn more!
+
+[[!tag  uncategorized]]
