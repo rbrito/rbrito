@@ -1,0 +1,26 @@
+[[!meta  date="2002-12-29"]]
+It's been quite a while since I last updated my diary. Many things
+preventing me from updating it, which is good (well, at least part
+of the things are good).
+
+Been working towards finishing my M.Sc. degree. It seems that the
+end never comes!
+
+I've also been using [MacOS X](http://www.apple.com/macosx/)
+(Jaguar) a lot lately. In some ways, it is a nice operating system.
+But the lack of a real package management system is a bad thing. I
+think that I've been spoiled by [Debian](http://www.debian.org/)'s
+incredible (and clean) service. Unfortunately,
+[Fink](http://fink.sf.net/) isn't as good as Debian. And there are
+quite few programs in binary form from Fink. And they don't have a
+menu system like Debian's `menu`. And they don't even have
+[Windowmaker](http://www.windowmaker.org/) available! And AUCTeX.
+etc
+
+Saw that [Limewire](http://www.limewire.com/) is uploaded to
+Debian's incoming repository, which is cool. Also discovered this
+[muttprint](http://muttprint.sf.net/) package, which sounds
+promising. Packaged for Debian also, of course.
+
+
+[[!tag  uncategorized]]
