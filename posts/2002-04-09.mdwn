@@ -1,0 +1,15 @@
+[[!meta  date="2002-04-09"]]
+Sent
+[an e-mail](http://mail.python.org/pipermail/tutor/2002-April/013664.html)
+to the Python Tutor mailing list regarding what I think is a bug. I
+still think it is.
+
+[Opera](http://www.opera.com/) is growing more and more on me. I
+think that I will register a copy in the future. It can at least
+[print things which Mozilla can't](http://www.nupedia.com/article.phtml?id=678).
+
+And I really like [Nupedia](http://www.nupedia.com/). A great
+effort which deserves more input.
+
+
+[[!tag  uncategorized]]
