@@ -1,0 +1,33 @@
+[[!meta  date="2001-05-18"]]
+It's been a long time since I last updated my diary. Let's see if I
+can get things up to date (and let me see if I can keep me
+organized and productive).
+
+Today, the day started quite a bit messy: my computer, for some
+reason, didn't want to turn on. It was beeping with my monitor
+telling me to check the signal cable. "Humm... Time to buy another
+graphics card" (and just the thought of having to choose from among
+one less manufacturer of video cards scared me). I checked my
+mainboard manual and it confirmed that the beeps I heard were
+indeed problems with my graphics card (it's obvious that I didn't
+want to believe the unfortunate situation of buying another card).
+
+Having to use my computer anyway, I just removed my card from its
+slot, and installed it again. Luckily, things started working
+again. Whew! That was close! Anyway, I'm now watching this card
+closely. Very closely.
+
+Learned how to set up cookies with CGI scripts. Found out about
+[an site with recipes (for cooking)](http://www.recipesource.com/)
+while having my daily dose of
+[Slashdot.org](http://www.slashdot.org/).
+
+Perhaps due to lousy system administrators,
+[Iname](http://www.iname.com/)/[Mail.com](http://www.mail.com/) is
+not delivering my e-mails. AGAIN. Enough.
+
+BTW, I have to finish a take home exam on Approximation
+Algorithms.
+
+
+[[!tag  uncategorized]]
