@@ -1,0 +1,17 @@
+[[!meta  date="2005-04-16"]]
+I can't believe how 2.6 [kernels](http://www.kernel.org) are bigger
+than 2.4 kernels under similar compilation options! Maybe it's time
+to give [tiny-linux](http://www.selenic.com/tiny-about/) a try.
+
+I will also see if compiling kernels with
+[GCC 3.4](http://gcc.gnu.org/gcc-3.4/) makes a difference due to
+the new [-funit-at-a-time](http://lwn.net/Articles/67176/) option.
+Debian's sarge "official" compiler seems to be
+[GCC 3.3](http://gcc.gnu.org/gcc-3.3/).
+
+This machine is desperately in need of a memory upgrade, but it
+seems that not even [Crucial](http://www.crucial.com) has it
+available anymore. :-(
+
+
+[[!tag  uncategorized]]
