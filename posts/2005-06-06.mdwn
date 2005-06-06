@@ -1,0 +1,24 @@
+[[!meta  date="2005-06-06"]]
+Holy freaking day! Today we had
+[the announcement](http://www.apple.com/pr/library/2005/jun/06intel.html)
+that [Apple](http://www.apple.com/) will be switching to
+[Intel processors](http://www.intel.com). This is a major movement,
+in my very humber opinion. Does this mean that all the claims about
+PowerPC being more effective are not true anymore (well, that may
+be the case with Power 970 processors, but G3 processors seem to be
+quite nice regarding power comsumption).
+
+As if that weren't enough news for one day,
+[Debian](http://www.debian.org/) finally, after almost 3 (*three*)
+years,
+[released a new version of its distribution](http://www.debian.org/News/2005/20050606),
+codenamed sarge. This is the major news for the day (and for the
+month, if you ask me).
+
+And like if that weren't enough, Linus Torvalds also
+[announced kernel 2.6.12-rc6](http://www.kernel.org/pub/linux/kernel/v2.6/testing/patch-2.6.12-rc6.bz2),
+which is (hopefully) one of the final stages towards kernel 2.6.12
+proper.
+
+
+[[!tag  uncategorized]]
