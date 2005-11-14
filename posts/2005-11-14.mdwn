@@ -1,0 +1,13 @@
+[[!meta  date="2005-11-14"]]
+I think that I reached a point of balance between the minimality of
+programs in my system and the functionality that I desire.
+Actually, I would expect a little more functionality (perhaps
+provided by the ROX project).
+
+But now I can work without fear of loosing data, thanks to
+[mondo rescue](http://packages.debian.org/mondo), which is able to
+backup the essential parts of my system in just one CD-RW. Nice
+this sensation of being backed up.
+
+
+[[!tag  uncategorized]]
