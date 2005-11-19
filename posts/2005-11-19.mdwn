@@ -1,0 +1,6 @@
+[[!meta  date="2005-11-19"]]
+Purchased some books at discount prices. Nice. Now I can learn
+Lisp. Let's see how I like this new thing of macros *et al.*
+
+
+[[!tag  uncategorized]]
