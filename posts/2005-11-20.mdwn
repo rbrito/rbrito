@@ -1,0 +1,23 @@
+[[!meta  date="2005-11-20"]]
+I'm *so* impressed with the
+[recent improvements](http://packages.debian.org/emacs-snapshot-gtk)
+in [GNU](http://www.gnu.org/) [Emacs](http://www.emacswiki.org/)
+that I am sincerely considering using it as my "default operating
+system".
+
+Many people say that joking, but the new features along with a more
+user-friendly, really make that an interesting option.
+
+I use, by the way, the following extra packages from
+[Debian](http://www.debian.org/):
+
+    rbrito@dumont:~$ COLUMNS=88 dpkg -l | grep -- -el
+    ii  debian-el        26.3-1           Emacs helpers specific to Debian users
+    ii  emacs-goodies-el 26.3-1           Miscellaneous add-ons for Emacs
+    ii  gettext-el       0.14.5-2         Emacs po-mode for editing .po files
+    ii  post-el          2004.07.23-2     emacs major mode for editing mail
+    rbrito@dumont:~$
+
+
+
+[[!tag  uncategorized]]
