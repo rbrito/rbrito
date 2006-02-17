@@ -1,0 +1,14 @@
+[[!meta  date="2006-02-17"]]
+Got a new [Internet](http://www.flash.net.br/) connection. It's
+cable modem and the quality is variable. I'm still evaluating it,
+though. Some problems like reverse-DNS not properly configured
+comes to mind.
+
+On the other hand, the DHCP connection is "authenticated" by the
+MAC address of the card. When I showed that it was so easy to fake,
+the cable guy didn't even believe what he saw. Is this bad news?
+
+My car has almost turned junk due to vandalism of freshmen that
+just got into the College. Poor souls. They don't know what to
+expect when they take classes.
+[[!tag  uncategorized]]
