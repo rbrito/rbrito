@@ -1,0 +1,15 @@
+[[!meta  date="2006-03-02"]]
+Nice. Let's see if this MathML thing works as intended: a b
+
+Well, actually, it does. But only after I changed the extension of
+the file from html to xhtml. What a crazy thing is this? What is
+the purpose of that damned XML header on this file? Isn't it to
+tell the damn server that this is an XML file? I suppose that the
+server here may be broken.
+
+Oh, and talking about broken things, my
+[cable modem](http://www.flash.net.br/) just got fried after
+today's thunderstorm. Wow. Nice to have a backup plan.
+
+
+[[!tag  uncategorized]]
