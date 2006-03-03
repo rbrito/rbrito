@@ -1,0 +1,31 @@
+[[!meta  date="2006-03-03"]]
+One good thing to have in mind is that when one is minimally
+serious about data structures, then on covering the topic of
+[hash tables](http://en.wikipedia.org/wiki/Hash_table), it is a
+quite good chance to talk about the
+["birthday paradox"](http://en.wikipedia.org/wiki/Birthday_paradox).
+In the analogy, each day would correspond to a slot in the hash
+table and each person would correspond to an item to be inserted
+into the table.
+
+If one takes this into account, the analysis of
+[collisions](http://en.wikipedia.org/wiki/Birthday_paradox#Collision_counting)
+is meaninful from a probabilistic point of view, which matters a
+lot.
+
+Changing the subject a little, in a replacement that lasted, say,
+15 minutes (tops), the cable modem is back again working, which
+means that playing with [tunneling](http://lartc.org/) under
+[Linux](http://www.kernel.org/) (especially, using the IPSec
+interface) is back again a possibility.
+
+Oh, and it seems that [Ubuntu](http://www.ubuntulinux.org)'s
+[dapper](http://www.ubuntu.com/ubuntu/releases) is "mom proof".
+Well, at least, she has been learning to use it with some hiccups,
+but, then, personal computers aren't things with which she plays
+everyday. She was surprised to know about
+[Wikipedia](http://www.wikipedia.org/) and its broad coverage. And,
+indeed, it is superb.
+
+
+[[!tag  uncategorized]]
