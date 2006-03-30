@@ -1,0 +1,28 @@
+[[!meta  date="2006-03-30"]]
+I've been (re-)discovering multimedia and all its wonders. It all
+started with me seeing how [Apple](http://www.apple.com/)'s
+[Front Row](http://www.apple.com/macmini/frontrow.html) application
+works. Ok, so I am behind the times. I'm fine with that, but
+catching up. The world is changing sooooo fast that it is hard to
+keep up. Podcasts, wireless networks, media centers, digital video,
+digital (still) cameras, megapixels and the like.
+
+Add to that the things that "need to be known" by a Computer
+Scientist/Mathematician-wannabe and we quickly arrive at the
+conclusion that the days are way too short with their current 24
+hours.
+
+It, unfortunately, sucks and the fact that Apple is now "changing
+gears" to support their [Intel](http://www.intel.com/)
+[Core](http://www.apple.com/macmini/intelcore.html) processors is a
+clear signal that their PowerPC line is dead and only waiting for
+its coffin to be burried.
+
+What the solution to this problem is? Partially, to employ Open
+Source technology to leverage this to current standards, using
+hardware that is already employed. We can *hardly*, expect the new
+machines to outnumber the installed resources that we already have.
+And have to keep working.
+
+
+[[!tag  uncategorized]]
