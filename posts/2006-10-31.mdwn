@@ -1,0 +1,22 @@
+[[!meta  date="2006-10-31"]]
+Today, I was a bit more productive than other days: the class on
+Graph Theory covered Matchings and I could prove half of Berge's
+theorem on Maximum Matchings. One might ask: "gee, only half the
+theorem" and yes, it was only the "easy" part of the theorem, but I
+made clear that all steps were understood (or, at least, accepted)
+by my students. They aren't trained with formal proofs,
+unfortunately.
+
+I also got in touch with developers of the
+[Debian TeX](http://lists.debian.org/debian-tex-maint/), which has
+the presence of some upstream developers of
+[TeX Live](http://www.tug.org/texlive/). The main thing to get in
+contact with them is that I started teaching some students of mine
+how to deal with [LaTeX](http://www.latex-project.org/), the
+wonderful infra-structure proviced by [CTAN](http://www.ctan.org/),
+the
+[TeX Catalogue OnLine](http://www.ctan.org/tex-archive/help/Catalogue/)
+and how [Debian](http://www.debian.org/) works in general.
+
+
+[[!tag  uncategorized]]
