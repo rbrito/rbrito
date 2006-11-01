@@ -1,0 +1,9 @@
+[[!meta  date="2006-11-01"]]
+Well, today, I finished Berge's theorem. I went step by step on
+showing them how the augmenting paths are created.
+
+The fact that I also had a good time with a student of mine helped
+me to resist the day of having being sleep-deprived.
+
+
+[[!tag  uncategorized]]
