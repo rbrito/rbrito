@@ -1,0 +1,24 @@
+[[!meta  date="2006-11-02"]]
+I have finally succeed, with the help of Raphaël Hertzog, to use
+the authenticated services of [Alioth](http://alioth.debian.org/)
+for continuing work with the
+[Subversion](http://subversion.tigris.org/) on
+[vrms](http://vrms.alioth.debian.org/).
+
+In the mean time, I have received a lot of constructive criticism
+from [Daniel Baumann](http://blog.daniel-baumann.ch/) for
+improvements to [vrms](http://vrms.alioth.debian.org/) packaging.
+
+I have been spending some time dealing with user support of
+[Algorithms](http://algorithms.berlios.de/) and a new version may
+see the light of the day quite soon, with some new features (e.g.,
+the ability of starting the numbers of pseudo code arbitrarily, the
+ability of specifying the size of font with which to typeset the
+code and the feature of including the algorithms in the list of
+figures).
+
+I will soon update my "Curriculum Lattes" to reflect those latest
+activities.
+
+
+[[!tag  uncategorized]]
