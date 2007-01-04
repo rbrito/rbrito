@@ -1,0 +1,6 @@
+[[!meta  date="2007-01-04"]]
+Talk about therapy. The course is a nice opportunity for me to
+review some elementary facts on Computing Science.
+
+
+[[!tag  uncategorized]]
