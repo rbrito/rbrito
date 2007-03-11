@@ -1,0 +1,18 @@
+[[!meta  title="Sourceforge, SSH keys, Free audiobooks, DVD's"]]
+[[!meta  date="2007-03-10 23:00:00"]]
+Found out about "The Right Way (TM)" to hash an existing SSH's <tt>known_hosts</tt> file (<code>ssh-keygen -H</code>) and how to remove a hashed host entry from your <tt>known_hosts</tt> file: <code>ssh-keygen -H -R host.name</code>.  I needed this for newer checkouts of LAME's CVS repository at <a href="http://sf.net/">Sourceforge</a>.
+
+Oh, BTW, just to save myself the trouble of looking it up again, here is the link to the place where sourceforge keeps their <a href="http://apps.sourceforge.net/trac/sitedocs/wiki/SSH%20key%20fingerprints">SSH key fingerprints</a>. I'm always lost trying to find it, so I thought that it would be best to record it here.
+
+Also discovered a <em>really</em> amazing thing: a <a href="http://librivox.org/">free source of audiobooks</a> in podcast format, while I was looking for René Descartes' "The Method". While surfing the net, I also found that there is this <a href="http://www.dominiopublico.gov.br/pesquisa/DetalheObraForm.do?select_action=&amp;co_obra=2274">very same text</a> in a <a href="http://www.dominiopublico.gov.br/">Brazilian site</a> backed by the government that hosts works in the public domain.
+
+Still downloading Pain of Salvation's Acoustic set. Now, I finally had some time to watch the somewhat incomplete VOBs and it, indeed, has the show. And it is an amazing piece of music. Recommended for all fans of good music.
+
+[[!tag  audiobooks]]
+[[!tag  computers]]
+[[!tag  dvds]]
+[[!tag  music]]
+[[!tag  opeth]]
+[[!tag  pain-of-salvation]]
+[[!tag  security]]
+[[!tag  ssh]]
