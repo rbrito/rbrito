@@ -1,0 +1,21 @@
+[[!meta  title="Playing with Package Proxies"]]
+[[!meta  date="2007-03-15 23:00:00"]]
+Have been playing with the great idea of <a href="http://lists.debian.org/debian-mentors/2009/03/msg00210.html">caching</a> <a href="http://lwn.net/Articles/318658/">deb</a> packages. I finally settled for the option of using <code><a href="http://git.debian.org/?p=pkg-ocaml-maint/packages/approx.git">approx</a></code>, which does a really nice job of caching packages.
+
+Actually, it fullfils quite a lot of requirements and even surpasses some of my expectations:
+<ul>
+	<li>It supports multiple architectures (in fact, this is important for me, as I use <code>i386</code>, <code>amd64</code>, and <code>powerpc</code>.</li>
+	<li>It can support multiple distributions (both different versions	of the same distribution and completely different distributions, as long as they use a repository	like <a href="http://www.debian.org/">Debian</a>'s, as is the case of <a href="http://www.ubuntu.com/">Ubuntu</a>).</li>
+	<li>It keeps its directory hierarchy neatly organized, like that of	Debian, in a package pool, which saves space and makes everything easier and faster to find (and has the advantage of being fast with filesystems that don't cope well with many entries in one directory).</li>
+</ul>
+The transition wasn't painless from <a href="http://packages.debian.org/apt-move"><code>apt-move</code></a>, since apt-move moves the files, but renames them in a way that they don't keep epochs in their names, which makes <code>approx-import</code> moan about the packages.
+
+For places where I am too lazy to import the packages, I just filled the cache redownloading the packages with something approximately like this:
+<pre>      apt-get -d --reinstall install $(dpkg -l | grep "^ii" | cut -d " " -f 3)</pre>
+Well, I hope that this experience happens to be useful for other people, so that they can benefit from it. Rebuilding packages with a package cacher is much more pleasant, especially if the package has a lot of build-dependencies.
+
+[[!tag  computers]]
+[[!tag  debian]]
+[[!tag  embedded]]
+[[!tag  linux]]
+[[!tag  ubuntu]]
