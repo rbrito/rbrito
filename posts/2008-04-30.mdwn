@@ -1,0 +1,27 @@
+[[!meta  date="2008-04-30"]]
+Upgraded my parent's computer from
+[Ubuntu](http://www.ubuntu.com/)'s Feisty (7.10) to Hardy (8.04).
+Now, some of the things that I'm used to when using
+[Debian](http://www.debian.org/)'s sid are available on their
+computer.
+
+Oh, I can't avoid to use this opportunity to complain once more
+about my [ISP](http://www.flash.net.br/). If I weren't doing the
+upgrade **really** early in the morning, I wouldn't have success,
+as I am (right now), without signal from them. These outages are
+getting on my nerves.
+
+In some math related news, I finally saw a proof of the intuitive
+fact the determinant of a 2x2 matrix is the signed area of the
+parallelogram with vectors given by the column vectors of the
+matrix.
+
+Also, my D-Link G122 (I think that that's the model) doesn't work
+with the `rt2500usb` driver that ships with the distribution: I can
+see that `iwconfig` lists `wlan0` as having wireless extensions, I
+can set the device, it can see the access point, I can enter the
+WEP key, but it doesn't seem to get a DHCP lease from the router.
+`:-(`
+
+
+[[!tag  uncategorized]]
