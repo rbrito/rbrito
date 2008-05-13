@@ -1,0 +1,22 @@
+[[!meta  date="2008-05-13"]]
+Didn't sleep too much today (actually I spent the whole night awake
+trying to understand the simple program presented on
+[Wikipedia](http://en.wikipedia.org/) for the generation of the
+[Farey Series](http://en.wikipedia.org/wiki/Farey_series) (as Hardy
+& Wright call them). Finally, looking at my copy of
+["Concrete Mathematics"](http://en.wikipedia.org/wiki/Concrete_Mathematics),
+I discovered a "bonus problem" (read: a very hard problem) that has
+a deceivingly simple solution that I was looking for the past few
+days to justify the program correctness.
+
+Latter, I went with my dad to "Galeria do Rock" to grab myself a
+copy of
+[Pain of Salvation](http://en.wikipedia.org/wiki/Pain_of_Salvation)'s
+"Be" (DVD+CD),
+[Tristania](http://en.wikipedia.org/wiki/Tristania_(band))'s
+"Widow's Weeds" and "Beyond the Veil", and
+[Opeth](http://en.wikipedia.org/wiki/Opeth)'s
+["Deliverance"](http://en.wikipedia.org/wiki/Deliverance_(Opeth_album)).
+
+
+[[!tag  uncategorized]]
