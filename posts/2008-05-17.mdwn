@@ -1,0 +1,16 @@
+[[!meta  date="2008-05-17"]]
+Seeing one of the [Dream Theater](http://www.dreamtheater.net/)'s
+[Official Bootlegs](http://www.ytsejamrecords.com/) (and some of
+their regular releases), I can't fail to notice that they have the
+2.0 Stereo part as [LPCM](http://en.wikipedia.org/wiki/LPCM) audio.
+Sometimes, these streams are in 24 bits. I would like to convert
+them to WAV files so that I can use [LAME](http://lame.sf.net/) to
+get the recordings on my portable digital music player.
+
+To this effect, I spent some moments coding a program that I called
+`lpcm2wav` that takes a raw input of an LPCM audio from a
+[DVD](http://en.wikipedia.org/wiki/DVD) video disc and outputs a
+WAV file suiltable for compression (in 48kHz, normally).
+
+
+[[!tag  uncategorized]]
