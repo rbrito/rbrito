@@ -1,0 +1,23 @@
+[[!meta  date="2008-05-23"]]
+Gave a second talk to the group of "Error Correcting Codes". This
+time, I carried my [S1MP3](http://en.wikipedia.org/wiki/S1MP3)
+player/recorder and recorded the talk. The nice thing is that
+[LAME](http://lame.sf.net/) with libsndfile1 can read those files
+directly, without any kind of conversion first, which automates
+things quite a lot.
+
+During the seminar, I talked about algorithm invariants, how to
+discover them, how close to mathematical induction they are, gave
+examples of some programs, described the bubble sort algorithm in
+our native/high level language, talked about its stability, talked
+about its invariant, talked about its time and space complexity,
+remarked that the algorithm works on any totally ordered set and,
+finally, to answer a question from the audience, talked about the
+limited precision of "integers" that we use on computers and
+multiprecision libraries used to hold values as large as we
+please.
+
+Today was also dad's birthday! Hippie!
+
+
+[[!tag  uncategorized]]
