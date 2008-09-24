@@ -1,0 +1,24 @@
+[[!meta  date="2008-09-24"]]
+Now I am officially a
+[Debian Maintainer](http://packages.debian.org/changelogs/pool/main/d/debian-maintainers/current/changelog#versionversion1.45).
+I'm very happy now. This means that I can upload my own packages to
+[Debian](http://www.debian.org/), without pestering
+[Rhonda](http://alfie.ist.org/) about them. But I still want her
+opinions on some packages, given the experience that she has.
+
+And it seems that I'll be part of another project,
+[lossyWAV](http://sf.net/projects/lossywav), given the current
+discussions on
+[hydrogenaudio forums](http://www.hydrogenaudio.org/forums/index.php?showtopic=65499&st=50&gopid=589938).
+
+Oh, and only today I realized that
+[Ubuntu's Intrepid Ibex](http://www.ubuntu.com/) alpha 6 was
+released. Time to go downloading things to use on my most recent
+purchase...
+
+On a more musically related note, Symphony X
+[will be coming here](http://whiplash.net/materias/news_883/077645-symphonyx.html)
+to São Paulo, which is a nice thing.
+
+
+[[!tag  uncategorized]]
