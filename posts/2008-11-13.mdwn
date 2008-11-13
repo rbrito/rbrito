@@ -1,0 +1,20 @@
+[[!meta  date="2008-11-13"]]
+I was quite surprised that I received
+[a book](http://www.ime.usp.br/~pf/algoritmos-livro/) from a very,
+[very dear Professor](http://www.ime.usp.br/~pf/) of mine. The book
+is an introduction to the study of Analysis of Algorithms and it is
+a pleasure to see a high-standard book (even if elementary) written
+in Portuguese.
+
+Unfortunately, the translations of books like Cormen's
+"Introduction to Algorithms" are severely broken. They are not
+really worth the price and I would even dare to say that they do a
+disservice to the student that tries to learn from those books
+(Cormen's one in particular---be warned that I'm not talking here
+about the original English edition, which is superb, but the
+Brazilian Portuguese translation). There are many atrocities in the
+translation like translating "array" to "arranjo", while the usual,
+correct choices would be "vetor" or "matriz".
+
+
+[[!tag  uncategorized]]
