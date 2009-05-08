@@ -1,0 +1,7 @@
+[[!meta  date="2009-05-08"]]
+I am now one of the maintainers of both
+[rtorrent](http://packages.debian.org/rtorrent) and
+[libtorrent](http://packages.debian.org/libtorrent).
+
+
+[[!tag  uncategorized]]
