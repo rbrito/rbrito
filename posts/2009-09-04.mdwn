@@ -1,0 +1,16 @@
+[[!meta  date="2009-09-04"]]
+Today I'm turning up one year more. The good side of that it is a
+"psychological barrier" to evaluate what I've done this past year.
+Well, it was actually mildly positive. Contributed to many
+(diverse) programs, reported a handful of bugs and, generally, made
+things go better the way I like it.
+
+I have also spent some time to evangelize people that has, in turn,
+evangelized some other people regarding Free Software. This is
+good.
+
+In summary, the whole year had its up and downs, but I think that
+it had more ups than downs.
+
+
+[[!tag  uncategorized]]
