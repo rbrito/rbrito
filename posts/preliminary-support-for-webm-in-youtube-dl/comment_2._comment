@@ -1,0 +1,14 @@
+[[!comment format=mdwn
+claimedauthor="Rogério Brito"
+url="http://localhost/"
+subject="Re: Preliminary support for webm in youtube-dl"
+date="2010-05-29T18:00:47Z"
+content="""
+Hi, Sebastian.
+
+Yes, yes, I know that this "something" is the gstreamer infrastructure. :-) Just excuse my lack of abilities with English. I was so excited to have understood how the videos could be found with youtube-dl and push the release as soon as possible that I didn't think very much about the phrasing.
+
+Anyway, that's great and I am using gstreamer with a lot of programs (and I am enjoying the gst123 command line program that Ahmed El-Mahmoudy uploaded and just got accepted from the NEW queue).
+
+Thanks for your job, BTW.
+"""]]
