@@ -1,0 +1,16 @@
+[[!comment format=mdwn
+claimedauthor="Rogério Brito"
+url="http://localhost/"
+subject="Re: A version of xpdf with the poppler backend available"
+date="2010-06-11T07:35:08Z"
+content="""
+Oh, thanks for the report. Indeed, it was missing a comma there. It is fixed on the repository.
+
+Regarding the floating point exception, could you please give me some details more? I can't reproduce it and I would love to fix this as soon as possible. Which architecture are you using? Which version of poppler? Right now, I am developing with an amd64 and with Debian's poppler 0.12.4-1.
+
+If you could provide me with further details on http://github.com/rbrito/xpdf-poppler/issues I would be grateful to help.
+
+A very kind Gentoo user also tested a version and confirmed that it is working on his system.
+
+Thanks.
+"""]]
