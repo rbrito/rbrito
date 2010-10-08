@@ -1,0 +1,4 @@
+[[!meta title="pages tagged kernel"]]
+
+[[!inline pages="tagged(kernel)" actions="no" archive="yes"
+feedshow=10]]
