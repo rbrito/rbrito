@@ -1,0 +1,8 @@
+[[!meta title="My initial page at github.com"]]
+
+Hi. This is rbrito's initial page at github.com. Let's see how this whole
+thing works (if it works at all).
+
+This will, now, be (if I succeed) generate some pages from (multi)markdown,
+which is very good, IMVHO.
+
