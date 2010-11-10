@@ -1,0 +1,111 @@
+[[!meta  date="2009-01-28"]]
+Today was a very unusual day: it was quite active and I didn't have
+a day like today for a long time.
+
+I had slept quite late, since I was waiting for
+[Apple](http://www.apple.com/)'s Quicktime 7 Pro for Windows (on my
+girlfriend's computer) to finish the conversion of a video from one
+of Cynic's show from their reunion. It was a show that was webcast
+by the Norwegian company nhk.no (if I'm not mistaken) and the show
+is superb (it was from 2007 and they even played a, then,
+unreleased song called "Evolutionary Sleeper").
+
+The funny thing of it all is that even though we where using a
+x86-based machine (actually, a Duron 1.3GHz on a board with a SiS
+730 chipset), which supported even SSE, things were quite slow. In
+fact, the show took 1 day and some hours to be completely
+"exported" in the iPod format.
+
+Another thing that was noteworthy was that my GF had some CDs that
+she had burned and that contained some audio files from a course
+that she took some time ago. Since those classes are quite
+important and they interest me, I would like to listen to them. The
+"problem" is that they are in IMA ADPCM format which most car
+players don't play. The solution, in this case, will be to use lame
+with libsndfile1 as input and convert the files to the MP3 format,
+so that I can neatly tag the files and listen to them on my (and
+her) car player.
+
+But this is only the beginning of the story, since two of her CDs
+were not readable on my iBook G3, dammit. I, then, took the time to
+download dvdisaster on her Windows computer (first, the stable
+version; then, the more feature-full development version) and I
+left the CDs being read. Unfortunately, it seems that even
+dvdisaster is having a hard time reading many sectors of the CD-RWs
+(and, yes, I did wash the discs with abundant water and used a very
+soft towel to get them dry).
+
+Anyway, another thing that I've learned was that uTorrent is very
+featureful. Apparently, much more featureful than Transmission. I'd
+say that its features are on par with Azureus (even though I have
+not used Azureus for a loooong time, as it is Java-based and my
+machines don't have enough horsepower for programs that are not
+natively compiled).
+
+I used the torrent to grab Ubuntu's jaunty alpha 3, so that I can
+experiment with things to come (and the new notification system
+that Mark has proposed. I actually liked it very much, but I am
+eager to see it working). The only catch is that my GF's connection
+is only 150kbps and things are **very** slow here, but I'm getting
+the image anyway.
+
+When I woke up, I went to the proctologist. After that, I went to
+see a friend of mine from the high-school days, that is now a
+neuro-cirugeon, I had lost contact with him, but I sincerely hope
+to get back in touch frequently.
+
+Later, I went with my GF to the bank where she has her account to
+see if he had some residual money from a nation-wide program called
+FGTS. She did have, but some documents were missing. The worker
+that received us told her that she could mail some of the missing
+documentation via e-mail and we scanned the necessary
+documentation, but the mails bounced. Bummer. At least, the trip to
+the bank wasn't completely useless, since I saw that I have some
+money on this FGTS thing and it was a surprise.
+
+Latter, I went to the local theater and saw that professors are
+able to have a 50% discount on the entrance to see the movies,
+given that we prove that we are actually active. This is a very
+nice thing.
+
+I also saw the price of a new, Classic 120GB iPod. It wasn't
+available on the store that I went to, but other store of the same
+name has some units. I guess that I should see one. I was only
+surprised to see that the 160GB model doesn't seem to be sold
+anymore. Any reason for that? That left me puzzled, honestly.
+
+On the electronics store, I also saw a netbook from HP that was
+sweet. Soooo small, so cute. I guess that I need one. It has a very
+small form factor and it features a 1.2GHz VIA C7M processor. The
+only things that made the red alert lights blink for me were the
+Broadcom network interfaces: both wired and wireless, and Broadcom
+is know to not be exactly that helpful with the Free Software
+Movement.
+
+After that, I went to get a haircut and my girlfriend told me that
+it was good. Nice.
+
+Latter, before going to her place, we went to my home just for a
+little while so that I could see how the torrents for MIT's "The
+Structure and Interpretation of Computer Program" MPEG1 videos were
+going. Not good at all. Everything is stalled. I guess that I will
+need to use this uTorrent thing (at least, experiment with it) so
+that I can see if the downloads are slightly better.
+
+I also did something unusual: scanned a 3x4 (centimeters, of
+course!) photo of mine (which is needed here in Brazil for quite a
+lot of documents) and collated it in 3 rows, in a way that I will
+have 9 pics. I will print two of them (and have 18 pictures) for
+R$0.69 each, which is not a bad deal. My girlfriend liked the idea
+and I will do the same thing for her, since she will need many
+photos for her id's.
+
+After that, we got the vacuum cleaner to clean up her place (mostly
+the TV room) and I cleaned her fan (which was quite dusty).
+
+Tomorrow, the day will be quite full and I will have a lot of
+things to do in this endless saga. I hope to write more about this
+hectic (but pleasant) week.
+
+
+[[!tag  uncategorized]]

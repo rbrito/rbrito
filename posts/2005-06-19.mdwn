@@ -1,0 +1,41 @@
+[[!meta  date="2005-06-19"]]
+Feelling extremely bad today. I have an enormous headache. I think
+that I will work a little bit on
+[algorithms](http://algorithms.berlios.de/), but I don't know if I
+will be able to commit anything today. I can't really concentrate
+and I don't want to release something that I am not proud of.
+
+I have, BTW, been swamped by e-mail. Please, stop the madness! I
+can understand why Donald Knuth quit this 15 years ago. I
+understand that he must be a happier man without Internet annoying
+him (especially since he is such a precious celebrity).
+
+The funnier thing is that people rarely realize how they are doing
+things backwards today: they are working more for the computer than
+the computer is working for them. They don't care about things
+being automated, which is one thing where computers shine at.
+
+In fact, I think that such things are the way they are due to the
+ignorance of the potential of a computer. Indeed, there are tasks
+that a computer can't embrace (the halting problem, the tiling
+problem etc already told us this), but for other mundane things,
+computers are useful. Just not the way people seem to be using
+them.
+
+And this, BTW, includes people with high education (like many
+Ph.D.'s that I know): they simply don't make their life easier. One
+example of this in action: using
+[LaTeX](http://www.latex-project.org/) is a way of producing
+high-quality documents. But some people that are actually convinced
+that LaTeX is the way to go rarely take the time to use this tool
+in all its usefulness. What a pity!
+
+Whenever I see people doing wrong things, I tell them a better way.
+[Very few](http://www.ime.usp.br/~lymber/) seem to understand that,
+but others don't.
+
+In other news, Linus released a new
+[kernel](http://www.kernel.org), 2.6.12.
+
+
+[[!tag  uncategorized]]

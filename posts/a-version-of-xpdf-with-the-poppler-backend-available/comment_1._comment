@@ -1,0 +1,13 @@
+[[!comment format=mdwn
+claimedauthor="Rogério Brito"
+url="http://localhost/"
+subject="Re: A version of xpdf with the poppler backend available"
+date="2010-06-11T10:56:18Z"
+content="""
+There are some reasons:
+
+
+	it is lighter (and depends on fewer packages, and is better for those using it remotely etc)
+	it has the ability to zoom more, which both evince and epdfview don't; even if you patch them to use higher zoom levels, as they render the whole page at once, they will bring your computer to a halt
+
+"""]]

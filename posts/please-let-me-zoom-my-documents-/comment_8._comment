@@ -1,0 +1,10 @@
+[[!comment format=mdwn
+claimedauthor="Rogério Brito"
+url="http://localhost/"
+subject="Re: Please let me zoom my documents!"
+date="2010-05-28T10:02:29Z"
+content="""
+xpdf was just reintroduced in unstable with the work of Michael Gilbert, who included a large patch of mine.
+
+But it stayed a good amount of time out of unstable and testing. This means that it wouldn't be part of a release.
+"""]]

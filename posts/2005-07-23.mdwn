@@ -1,0 +1,8 @@
+[[!meta  date="2005-07-23"]]
+Oh, I forgot to say: the multithreaded applications work quite well
+with the Free Java implementations available in
+[Debian](http://www.debian.org/)'s
+[testing](http://www.debian.org/releases/testing) distribution.
+
+
+[[!tag  uncategorized]]

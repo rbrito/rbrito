@@ -1,0 +1,9 @@
+[[!meta  date="2008-07-24"]]
+Can't... resist... the...
+[temptation](http://www.apple.com/macbook/). I only fear that I
+can't run [my preferred flavor](http://wiki.debian.org/MacBook) of
+Linux properly on this machine (at least, it isn't a big endian
+arch anymore).
+
+
+[[!tag  uncategorized]]

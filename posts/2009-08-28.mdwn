@@ -1,0 +1,24 @@
+[[!meta  date="2009-08-28"]]
+I'm closing some bugs in many packages in Debian, including my
+preferred backup system,
+[Mondo Rescue](http://www.mondorescue.org/). The good thing about
+it is that it generates a backup that is a "mirror" (or should I
+say "snapshot"?) of your system and puts it on a CD (or DVD, or ISO
+image, or many other formats, actually).
+
+I make backups almost every single day and I try to keep them
+small. Very small. The purpose is to have everything fit on a
+single 650MB CD, the reason being twofold:
+
+* There are more computers with a CD drive than with a DVD drive
+  (or a Bluray drive, for that matter). To be honest, I have never
+  ever seen a bluray drive.
+* It is easier to find 650MB CDs than 700MBs (well, that's
+  changing fast). Also, making it smaller than a certain amount
+  leaves room for Error Correcting Codes, like those created by the
+  superb [dvdisaster](http://dvdisaster.net/en/). With some
+  overburning, I can even squeeze one or two megabytes more in the
+  CD.
+
+
+[[!tag  uncategorized]]

@@ -1,0 +1,8 @@
+[[!meta  date="2006-09-21"]]
+The day of the my second talk. I didn't like this one as much as I
+did with the one before, despite the subject not being so
+intricated as it was with the other talk on "Approximation
+Algorithms".
+
+
+[[!tag  uncategorized]]

@@ -1,0 +1,18 @@
+[[!meta  date="2008-07-19"]]
+Have been
+[working quite a bit](http://lame.cvs.sourceforge.net/*checkout*/lame/lame/doc/html/history.html?revision=HEAD)
+on the [LAME](http://lame.sf.net/) project to have the best MP3
+encoder around. It's been all a learning exercise dealing with all
+the magic behind
+[autotools](http://www.lrde.epita.fr/~adl/autotools.html).
+
+Fortunately, there are some areas where we can fix with just a
+working knowledge of C and computer architecture, like fixing the
+interface to the
+[Open Sound System](http://en.wikipedia.org/wiki/Open_Sound_System)
+[`abx` tool](http://en.wikipedia.org/wiki/ABX_test) that comes with
+lame (in the `misc` directory), as well as the
+[endianness](http://en.wikipedia.org/wiki/Endianness) problems.
+
+
+[[!tag  uncategorized]]

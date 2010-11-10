@@ -1,0 +1,36 @@
+[[!meta  date="2001-07-18"]]
+Ok, I know I messed up. My girlfriend told me that we were in July,
+not June. What a shame! Anyway, I've corrected my diary entries and
+got things straight (I think). I guess that the problem was that
+both months start with a "J".
+
+Now, to the next (and final?) chapter on the mac: I returned it to
+my uncle and set up the other mac on his store just to see if I
+could get Debian installed. Well, I kind of could: I got the
+bootfloppies installed in 1GB HD and was very surprised to see an
+almost entire setup with the network. Amazing. I'm almost without
+words: just grab 4 FDs and install a whole operating system in your
+machine with them. [Debian](http://www.debian.org) definitely keeps
+its lead over other distributions this way.
+
+Well, enough ads. I could get almost everything installed, but the
+HD died (for good?) soon after the packages were being extracted
+onto the new filesystem. I tried the other (4GB) HD, but it wasn't
+being seen by `mac-fdisk` for an unknown reason (despite it being
+recognized during the SCSI bus scan and the partition check).
+
+Well, I guess that I can consider this as my first installation of
+Linux on a PowerPC architecture, which could not be concluded only
+because the hardware didn't help, but both the operator (that's me!
+<grin\>) and the software were right.
+
+Watched "Monty Python's Life of Brian" after that. Sent both my VCR
+and TV set to the technician. For some strange reason, both
+[Konqueror](http://www.konqueror.org) and
+[Opera](http://www.opera.com) are not rendering this page
+justified, while [Netscape 4.77](http://www.netscape.com),
+[Mozilla 0.9.2](http://www.mozilla.org) and
+[Internet Explorer](http://www.microsoft.com) are.
+
+
+[[!tag  uncategorized]]

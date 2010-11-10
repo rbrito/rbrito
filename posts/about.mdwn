@@ -1,0 +1,7 @@
+[[!meta  title="About"]]
+[[!meta  date="2009-12-30 14:46:28"]]
+This blog is just a way to collect thoughts and discoveries regarding my use of Free Software and Mathematics. Some of the stuff here will be related to TeX (and siblings) and some will be related to me hacking on some piece of software.
+
+Rearding me, I am an Instructor of Computer Science at "Universidade Presbiteriana Mackenzie", São Paulo, Brazil. Currently, I am on absence for health treatment. I am also a Debian Maintainer and I am highly interested in Free Software.
+
+[[!tag  uncategorized]]

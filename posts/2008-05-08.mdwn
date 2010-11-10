@@ -1,0 +1,15 @@
+[[!meta  date="2008-05-08"]]
+Had some programming session on working with
+[hfsprogs](http://packages.debian.org/hfsprogs)'s packaging for
+Debian. I finally saw how to build a multi-arch building and
+introduced some cruft to compile it under amd64 (aka,
+[x86-64](http://en.wikipedia.org/wiki/X86-64)), since
+[Apple](http://www.apple.com/)'s code is
+[not 64-bit clean](http://bugs.debian.org/436159). Ugh!
+
+And that's because they have the guts to show us their source code.
+Imagine what a disaster it is to see proprietary software that is
+completely closed!
+
+
+[[!tag  uncategorized]]

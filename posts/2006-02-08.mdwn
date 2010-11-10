@@ -1,0 +1,8 @@
+[[!meta  date="2006-02-08"]]
+Back to "school". The classes on "Design of Algorithms" will be my
+playground this semester, together with the classes on
+"Introduction to Compilers". Let's see how the experiment turns out
+to be.
+
+
+[[!tag  uncategorized]]

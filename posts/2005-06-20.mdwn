@@ -1,0 +1,21 @@
+[[!meta  date="2005-06-20"]]
+Ugh! Just having the thought of having to teach Object-Oriented
+Databases gives me headaches---I haven't dealt with Databases for
+quite some time and seeing yet another paradigm would just be
+insane.
+
+Oh, I finally got the chance to (successfully) use
+[FUSE](http://fuse.sf.net) and
+[Andrew Morton's Linux Tree](http://www.kernel.org/) so that I
+could finally use
+[gmailfs](http://richard.jones.name/google-hacks/gmail-filesystem/gmail-filesystem.html)
+with my [Debian](http://www.debian.org/)
+[testing](http://www.debian.org/releases/testing/) system.
+
+It makes a real mess on your account. So, I would advise you o
+create a dummy account if you intend to use it "seriously" (and
+don't forget to encrypt what you think is sensitive information).
+But it is a damn nice hack.
+
+
+[[!tag  uncategorized]]

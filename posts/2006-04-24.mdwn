@@ -1,0 +1,15 @@
+[[!meta  date="2006-04-24"]]
+While searching for old messages indicating that I was running
+[Debian](http://www.debian.org/), I unfortunately could not find
+anything older than
+[this message](http://groups.google.com/group/linux.debian.user/msg/d560a1f22b139358?hl=en),
+but I am quite, quite sure that I had been using Debian for much
+longer than that. In fact, I remember using Debian
+*regularly, as my main Operating System* since the
+[2.0 days](http://www.us.debian.org/releases/hamm/), which,
+according to [Wikipedia](http://www.wikipedia.org/), was released
+on
+[1998-07-24](http://en.wikipedia.org/wiki/Debian#Debian_releases).
+
+
+[[!tag  uncategorized]]

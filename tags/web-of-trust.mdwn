@@ -1,0 +1,4 @@
+[[!meta title="pages tagged web-of-trust"]]
+
+[[!inline pages="tagged(web-of-trust)" actions="no" archive="yes"
+feedshow=10]]

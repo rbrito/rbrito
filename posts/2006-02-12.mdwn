@@ -1,0 +1,12 @@
+[[!meta  date="2006-02-12"]]
+Holy, shit! What a disasterous day: two car accidents in just one
+day, mostly due to wandering around unknown and rainy places at
+night (almost lost). This will cost me a good deal.
+
+And, to boot it, my heart had an accident too. Oh.
+
+On the bright side of things, teTeX 3.0 has entered testing, which
+means quite a handful of new features and packages.
+
+
+[[!tag  uncategorized]]

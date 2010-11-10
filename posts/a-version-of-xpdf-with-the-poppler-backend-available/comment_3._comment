@@ -1,0 +1,8 @@
+[[!comment format=mdwn
+claimedauthor="mehturt"
+subject="Re: A version of xpdf with the poppler backend available"
+date="2010-06-11T06:01:04Z"
+content="""
+a great project.. does it work currently?
+I tried to build it on my laptop, there's a comma missing in xpdf.cc:65 and starting ends with a "Floating point exception".
+"""]]

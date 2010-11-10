@@ -1,0 +1,6 @@
+[[!meta  date="2000-10-09"]]
+Still complaining about my reverse DNS. Now they've promised to see
+things as fast as they can. I don't believe them.
+
+
+[[!tag  uncategorized]]

@@ -1,0 +1,11 @@
+[[!meta  date="2000-10-10"]]
+Hallelujah! After I complained so much, they've finally let me
+explain the problem to their technical staff and in a matter of
+some minutes, the person did the zone file update and
+synchronization with their secondaries.
+
+Ok, I've threatened them that I'd bad mouth them **and** use their
+competitor's services. I guess that it worked.
+
+
+[[!tag  uncategorized]]

@@ -1,0 +1,14 @@
+[[!meta  date="2000-12-12"]]
+Went to a customer to upgrade his system, which was using a frozen
+potato. I must confess that I love Debian indeed. The upgrades are
+painless, fast, clean.
+
+I also upgraded the kernel of the server from 2.2.16 to 2.2.18, now
+that the stable Linux version was just released. And it performs so
+well, serving files to a whole slew of MICROS\~1 machines, despite
+the fact that it only has 32MB of memory. And even more remarkable
+is the fact that it is a server running with lots of things
+on-board. A quite modest machine. Getting its job done. Reliably.
+
+
+[[!tag  uncategorized]]

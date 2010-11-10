@@ -1,0 +1,6 @@
+[[!meta  date="2000-10-24"]]
+Whew! One of the longest homeworks that I've ever had was finished
+today. Programmning Turing Machines takes time.
+
+
+[[!tag  uncategorized]]

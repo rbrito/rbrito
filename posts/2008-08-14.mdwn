@@ -1,0 +1,10 @@
+[[!meta  date="2008-08-14"]]
+Today I got a very nice gift from Charles Plessy: a Kurobox
+Standard (or Kurobox HD) that he had laying there in Japan, but
+which he didn't use.
+
+The nice thing about it is that it comes with an instaler that runs
+under Windows and that remotely connects to the Kurobox
+
+
+[[!tag  uncategorized]]

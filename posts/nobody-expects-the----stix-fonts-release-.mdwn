@@ -1,0 +1,12 @@
+[[!meta  title="Nobody expects the... STIX fonts release!"]]
+[[!meta  date="2010-05-29 17:54:56"]]
+Please, excuse me if you are a connoisseur of fonts and typography. You will find this boring, but other people may not know.
+
+With that said, something that has been the subject of a joke for <a href="http://stixfonts.org/proj_timeline.html">many years</a> is the release of a set of fonts designed by a consortium of pulishers to create a typeface that would "match" the visual of Times, but that would have many (all?) of the glyphs needed by scientists.
+
+Well, <a href="http://www.stixfonts.org/">the wait is over</a> (surprisingly). I didn't expect that. And the Free Software part of this is that the fonts were released under the SIL Open Font Library.
+
+This, together with Google's new <a href="http://code.google.com/webfonts">font directory</a> of Free Software fonts (overshadowed by the release of VP8 codec, in the eyes of some), shows that the typographic arena is alive and going strong.
+
+[[!tag  tex]]
+[[!tag  typography]]

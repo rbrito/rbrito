@@ -1,0 +1,24 @@
+[[!meta  date="2005-05-28"]]
+I have now, with the help of an oooold
+[ATI Mach 64 GX](http://www.atitech.ca/) card (with only 2MB of
+VRAM) gotten [MacOS X 10.3.9](http://www.apple.com/macosx/) to work
+on the
+[PowerMac](http://www.everymac.com/systems/apple/powermac/stats/powermac_9500_180mp.html).
+I then substituted the card with an IMS Twin Turbo card that has
+4MB of VRAM. It seems to work well, considering that this machine
+has almost 10 years (a PeeCee normally doesn't last this much). If
+I were to upgrade this machine, I would start by the following two
+items (perhaps not in this order):
+
+1.  Substitude its HD.
+2.  Add more RAM to it. MacOS X likes a lot of RAM.
+
+Perhaps I may get a [Sonnet Tech](http://www.sonnettech.com/)
+[Tempo Trio](http://www.sonnettech.com/product/tempo_trio.html)
+card, which features an IDE controller, a Firewire controller and a
+USB 2.0 controller in just one card. Seems like a good deal,
+especially for using (faster, modern) IDE HDs, all this being able
+to just use a single slot of the machine.
+
+
+[[!tag  uncategorized]]

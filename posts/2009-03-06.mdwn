@@ -1,0 +1,24 @@
+[[!meta  date="2009-03-06"]]
+My girlfriend had some complications in her biopsy and I had to
+play the nurse role. Deinfecting the place and going with her to
+the medical service was the next step. Actually, she went to a
+vascular physician and to a general physician.
+
+After she was medicated, we went to the bank and I was there to
+learn some things about the private social security system of
+Brazil, with two plans: VGBL and PGBL. They seem like a reasonable
+thing to use, but I fear that I will need the money in less time
+than what was told me that I have to keep it there for not having
+to pay a huge amount of taxes.
+
+Oh, talking about taxes, I installed the Brazilian tax program,
+written in Java, since I don't have Windows. Surprisingly, it
+doesn't play well with openjdk-6-jre, which is quite amusing.
+Falling back to the non-free jre 5.0 did the job, but this makes me
+think that SERPRO (I think that this is the department responsible
+for writing the programs) didn't really grasp the meaning of
+"portability": they are only delivering binaries for Linux x86. No
+amd64, powerpc and other architectures. What a shame.
+
+
+[[!tag  uncategorized]]

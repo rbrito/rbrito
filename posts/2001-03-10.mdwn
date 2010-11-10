@@ -1,0 +1,36 @@
+[[!meta  date="2001-03-10"]]
+Didn't do many important things today, besides making a brand new
+installation of Debian's sid/unstable to see how things were going
+with the bleeding edge. It turned out to be better than I expected
+(I had some problems experiencing unstable before, so I was
+scared).
+
+Some of the nicest things are that it features XFree86 4.0.2 (with
+the RENDER extension, since I have a Matrox G400) and that, coupled
+with KDE 2.1/qt 2.3.0, makes it possible to use antialised fonts,
+which make one's surfing experience much more pleasing, for
+instance. If you are on the same boat, don't forget to visit
+[Keith Packard's homepage](http://keithp.com/~keithp/), as it
+features a handy
+[XftConfig file](http://keithp.com/~keithp/fonts/XftConfig). The
+only lowpoint of KDE with antialiasing is that if AA is enabled,
+then you loose non-scalable fonts with KDE applications, which
+means that you can't make konsole use a 10x20 fixed font anymore.
+
+BTW, talking about [KDE](http://www.kde.org/), KDE 2.1 allows one
+to use [Windowmaker](http://www.windowmaker.org/) Dock
+Applications, and this is a very welcome thing as I love wmifs. The
+more I use KDE, the more I'm impressed with it, in many respects.
+
+Managed also to find some sites explaining Androgenetic Alopecia
+and which are potential treatments for it. Frankly, I'd love to not
+have to surf these sites... And keeping with the surfing thing,
+found a remarkable program called
+[vtun](http://vtun.sourceforge.net/), for setting up encrypted
+TCP/IP tunnels. Handy for WANs.
+
+And I'm keeping reading about Multiple Sequence Alignment, which is
+getting more exciting day after day.
+
+
+[[!tag  uncategorized]]

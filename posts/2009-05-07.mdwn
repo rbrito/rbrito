@@ -1,0 +1,20 @@
+[[!meta  date="2009-05-07"]]
+Having been playing with some new things in
+[Debian](http://www.debian.org/), like the
+[`magicfilter`](http://packages.debian.org/magicfilter) package,
+which is a superb, lightweight solution to all my printing
+problems: to use a PCL 3 printer. I think that I will also
+"manufacture" a solution with a metapackage of a live CD that
+includes the environment that I use frequently, with the packages
+that I use (this is probably quite leaner than what
+[Ubuntu](http://www.ubuntu.com/) has done with their distribution,
+since I will mainly use some lighter packages).
+
+Oh, talking about lighter packages, I see that Debian has adopted a
+new C library, namely [EGLIBC](http://www.eglibc.org/), which
+stands for Embedded LIBC. Finally, it seems that Debian will focus
+a bit more on smaller systems (which is a good thing, because
+computing resources are limited).
+
+
+[[!tag  uncategorized]]

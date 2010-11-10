@@ -1,0 +1,11 @@
+[[!meta  date="2002-03-19"]]
+Discovered the amazing
+[AUCTeX](http://mirrors.sunsite.dk/auctex/www/auctex/). I just
+can't get enough of it and I'm looking everywhere to find things
+that I can typeset with LaTeX, just to use AUCTeX. I don't know how
+I have lived without it this far.
+
+Wrote a bit more of my Master's thesis.
+
+
+[[!tag  uncategorized]]

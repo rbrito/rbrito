@@ -1,0 +1,9 @@
+[[!comment format=mdwn
+claimedauthor="Sebastian Dröge"
+subject="Re: Preliminary support for webm in youtube-dl"
+date="2010-05-29T17:54:00Z"
+content="""
+This "something" makes it possible to play or create WebM files in software that uses GStreamer. For example with epiphany-browser you'll be able to watch the WebM YouTube videos, transmageddon can create WebM files out of everything else, etc :)
+
+(And of course GNOME's official media player totem can play the WebM files if gstreamer0.10-plugins-bad is installed)
+"""]]

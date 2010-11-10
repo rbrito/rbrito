@@ -1,0 +1,35 @@
+[[!meta  date="2008-09-13"]]
+Updated my [qmail](http://www.qmail.org/)
+[Debian](http://www.debian.org/) package to support the new source
+format of source packages, "3.0 (quilt)". It was a breeze to move
+to this new format and the support is already available in
+`dpkg-source` available on
+[unstable](http://www.debian.org/unstable/). This was a very good
+learning exercise of the things to come, especially for
+ill-packaged programs from upstream, like
+[hfsprogs](http://packages.debian.org/hfsprogs), which I maintain.
+
+I also checked the new things that my package needed to do to be
+compliant with the new
+[Debian Policy](http://www.debian.org/doc/debian-policy/) (3.8.0).
+It is now in a very good shape, I'd say (except for the fact that I
+still think that I should use `debconf` for asking questions to the
+user, so that everything is cleaner).
+
+Also read quite a good amount of nice things on
+[`debian-mentors`](http://lists.debian.org/debian-mentors),
+especially a discussion regarding PHP programs, and a discussion on
+adopting packages. I think that I may even adopt some
+[dock applications](http://dockapps.org/) for use with
+[fluxbox](http://www.fluxbox.org/).
+
+Continued with my (slow) reading of
+["Advanced Unix Programming"](http://www.basepath.com/aup), even
+though the author likes to bash [Linux](http://www.kernel.org/) and
+[FreeBSD](http://www.freebsd.org/) a lot and seems to like Darwin
+and Solaris. Anyway, read a bit on basic I/O manipulation via the
+file system calls like `open`, `read`, `write`, `close`.
+Interesting to see them being used to implement a mutex.
+
+
+[[!tag  uncategorized]]

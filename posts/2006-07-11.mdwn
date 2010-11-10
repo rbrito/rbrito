@@ -1,0 +1,13 @@
+[[!meta  date="2006-07-11"]]
+Had the *quite pleasant* news that I had my first peer-reviewed
+work accepted to the
+[CNMAC'2006](http://www.congresscentral.com.br/cnmac) Congress (The
+National Applied and Computational Mathematics Congress).
+
+The work was entitled "Complexidade de Alinhamentos de Seqüências
+Biológicas" ("Computational Complexity of Biological Sequence
+Alignments"). This is a quite welcome addition to
+[my curriculum](http://lattes.cnpq.br/0890412916137605).
+
+
+[[!tag  uncategorized]]

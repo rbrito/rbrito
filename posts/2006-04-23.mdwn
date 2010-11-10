@@ -1,0 +1,40 @@
+[[!meta  date="2006-04-23"]]
+These past days have been quite active for me. Lots of learning of
+newer technologies (you know, those that will change soon and that
+I wouldn'd classify as Computer Science, as, for me, Computer
+Science is a sacred name).
+
+One of these is things that I've been learning is about
+[Software Development Process](http://en.wikipedia.org/wiki/Software_development_process)
+and its variants, mostly focused on
+[Agile](http://agilcoop.incubadora.fapesp.br/) development.
+
+The concepts involved are a mix of people management with the issue
+of these new tools we call personal computers. This makes the
+things studied, at the same time, general enough to be applied
+wherever we have teams working for a common objective (and the
+different approaches to reach the goals ranging from things where
+everything is specified to where adaptation is the key word of the
+project) and not "scientific", in the sense that the results can
+hardly be reproduced in a lab.
+
+Well, actually, *what* would be a lab in this case, where one of
+the most crucial aspects is human behaviour and variables inserted
+all the time? So, in a sense, if I were to put "Software
+Development" in any "science" part of the human knowledge, then it
+would be within
+[Humanities](http://en.wikipedia.org/wiki/Humanities) or
+[Social Sciences](http://en.wikipedia.org/wiki/Social_sciences).
+
+
+
+Some of the most important things that I reckon that have the
+potential to "stand-out" of these moving targets we currently
+witness are the collaborative methodology of work, including the
+Wiki phenomenon (with the tools for such collaborative development,
+like version control systems like
+[Subversion](http://subversion.tigris.org/)), and adaptation of
+targets and goals.
+
+
+[[!tag  uncategorized]]

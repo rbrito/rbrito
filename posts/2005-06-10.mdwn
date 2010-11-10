@@ -1,0 +1,18 @@
+[[!meta  date="2005-06-10"]]
+This moment of the year is just hectic. Having to prepare the
+finals is a bad moment, but scoring them is really terrible.
+
+Oh, and just as a reminder to myself, to use the subversion tree on
+[BerliOS](http://developer.berlios.de/) for
+[my project/algorithms](http://algorithms.berlios.de), I have to
+use:
+export SVN\_SSH="ssh -l myusername"
+svn co svn+ssh://svn.berlios.de/svnroot/repos/algorithms/ I keep
+forgetting that.
+
+Oh, and I am almost complete with the syllabus of the Linux course.
+There is so much that I want to cover that the course will have to
+be broken in modules. Four or five modules, that is.
+
+
+[[!tag  uncategorized]]

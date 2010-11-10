@@ -1,0 +1,17 @@
+[[!meta  date="2000-09-12"]]
+My aunt's birthday today. Tried to call her, but who said it would
+be possible?
+
+It seems that a customer of mine that was giving me headaches when
+I tried to receive for a job that I did for him (interconnecting
+his computers with other places) finally gave up avoiding to pay
+me. Nothing like a good threat.
+
+One of my [best friends](http://www.ime.usp.br/~lymber/) (if not
+the best) lent me some Vivaldi and I've ripped everything and
+encoded with a version of [LAME](http://www.sulaco.org/mp3/) that
+I've packaged for Debian.
+
+My [advisor](http://www.ime.usp.br/~jose/) and I decided that we
+should start with my research. Now I need a subject.
+[[!tag  uncategorized]]

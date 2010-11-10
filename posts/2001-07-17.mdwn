@@ -1,0 +1,52 @@
+[[!meta  date="2001-07-17"]]
+This is the day that shouldn't have happened --- it was bad right
+from start. First of all, I couldn't sleep well because I dreamt
+with some perl scripts that didn't work and they took me almost all
+my sleep time (or so it seemed). Then, my kind neighbor started
+making lots of noises and I couldn't keep sleeping.
+
+But the worst part of the day was still coming.
+
+I went to my uncle's shop to get a new SCSI HD and he lent me a 4GB
+one, more than enough to hold both Linux and MacOS 8. I turned the
+thing on and it started making noises like the one I used
+yesterday, which wasn't good. Anyway, I left it on and decided to
+install MacOS on it. It was progressing nicely and I was getting
+happier and happier, but then the whole system froze. I turned the
+power off and tried to install Linux. At least this time Linux saw
+the HD and all partitions that it had (7, I think).
+
+To install Linux, I used some CVS bootfloppies that will become
+bootfloppies of Debian woody. While trying to make the brand new
+ext2 filesystem, I got a kernel panic. I tried again. This time, I
+went up to the point of choosing which kernel modules I wanted. I
+was getting happy again. But then, when I chose the module for the
+ethernet card, a new kernel panic. Ouch!
+
+I then tried to install MacOS again and a new freeze. Tried again,
+new freeze. Then, I noticed that the HD was getting hot and put a
+fan near it. I don't know if it was coincidence or not, but after
+that, I could finish the installation of MacOS. Ok, so time to boot
+this thing with no CDs in the CD-ROM drive. Nothing. Grrrr.
+
+Things got strange after I tried to put the Linux PPC CD that I had
+burned and it didn't work. Washed the CD and no boot. But it did
+some days ago! It was not scratched, had no fingerprints and was
+absolutely clean. But couldn't boot. I tried using the floppies
+again, but this time, another surprise: the HD *was* recognized,
+but a partition scan timed out, Linux told that it could not read
+read its beginning and that it assumed that the size of the HD was
+1GB, and showed *no* partitions on the drive. On the other hand,
+MacOS is able to see it just before formatting it, perhaps because
+it re-scans the SCSI bus. Changing the SCSI-id of the drive didn't
+help. Is that the reason why it can't boot from the HD? Perhaps.
+
+Anyway, my desire of seeing this thing encoding MP3s, using KDE, a
+brand new browser and typing some texts with LaTeX seems a bit
+farther than what I realized at first. I will still keep trying to
+make this damn thing work, but I'm not confident anymore that I'll
+succeed. Well, I'll talk to my uncle tomorrow, perhaps and see if
+the other Mac behaves the same way. Enough for a day already.
+
+
+[[!tag  uncategorized]]
