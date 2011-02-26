@@ -1,0 +1,4 @@
+[[!meta title="pages tagged xetex"]]
+
+[[!inline pages="tagged(xetex)" actions="no" archive="yes"
+feedshow=10]]
