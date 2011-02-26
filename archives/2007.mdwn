@@ -1,1 +1,1 @@
-[[!calendar type=year year=2007 pages="posts/* and !*/Discussion"]]
+[[!calendar type=year year=2007 pages="page(posts/*) and !*/Discussion"]]
