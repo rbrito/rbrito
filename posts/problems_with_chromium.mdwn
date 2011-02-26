@@ -1,0 +1,54 @@
+[[!meta title="My problems with Chromium"]]
+[[!meta date="2011-02-26 11:55:06"]]
+
+Given that Chromium/Chrome is used more and more (as became apparent
+[with the discussion of including it in Debian's squeeze][0]), I decided to
+give it some tries, mainly Giuseppe Iuculano's [version][1]. I occasionally
+install Chromium from Fabien Tassin's [daily builds][2].
+
+And, to be honest, I have also contributed a good amount (about 400) of
+[translated strings][3] to the Brazilian Portuguese part of Chromium. As a
+matter of fact, I have even done some "activism" and [incentivated][4]
+[other][5] [people][6] to create their accounts on Launchpad and help with
+the projects.
+
+But I always come back to Iceweasel/Firefox, especially with Mike Hommey's
+frequently updated [repository][7].
+
+What are my reasons for staying with Iceweasel, and not with Chromium?
+
+* I can disable full zoom in Iceweasel (i.e., I only want to zoom the text,
+  not the images). According to Chromium's project BTS, it seems that this
+  will be a `WONTFIX` bug, despite many people asking for it (and it having
+  a lot of duplicates).
+* I can, in Iceweasel, set my preferred fonts without resorting to hacks on
+  the system level, like say, having to lie with fontconfig or other stuff.
+  And I really want Deja Vu Sans, not a serifed font.
+* In Iceweasel, a middle mouse click on "an inactive portion" of the page
+  makes me go to the URL that is the system clipboard, just like pasting
+  stuff in X, in general, works.  I guess that there may be some way to
+  enable this in Chromium, but, so far, I have not found it.
+* In Iceweasel, I have a way (without resorting to many extensions or
+  hackish solutions) to use the equivalent of Firefox's "View > Page Style >
+  No Style" (i.e., to ignore any CSS sheet that the document author may have
+  specified on the page).
+* In Iceweasel, my personal data is encrypted before being synced.
+* In Iceweasel, I can press `Ctrl+Q` and make the damn browser quit, instead
+  of me having to use the mouse/trackpad/pointing device. This is probably a
+  lack of my understanding on how to associate key bindings to Chromium, but
+  the problem still stands.
+* Similarly, when there is only one tab open, pressing Ctrl+W in Chromium
+  does not close the tab (say, presenting me a blank tab or the list of most
+  visited sites), nor it closes the application.
+
+I would be satisfied if any of the above were fixed or better documented,
+but it seems that some of those are, at best, going to wait a long time.
+  
+[0]: https://lists.debian.org/debian-release/2010/09/msg00610.html
+[1]: http://packages.qa.debian.org/c/chromium-browser.html
+[2]: https://launchpad.net/~chromium-daily/+archive/ppa
+[3]: https://launchpad.net/~rbrito/+karma
+[4]: https://launchpad.net/~savanabifulco
+[5]: https://launchpad.net/~bifulcojunior
+[6]: https://launchpad.net/~victor.westmann/+karma
+[7]: http://mozilla.debian.net/
