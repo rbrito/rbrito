@@ -37,7 +37,7 @@ What are my reasons for staying with Iceweasel, and not with Chromium?
   of me having to use the mouse/trackpad/pointing device. This is probably a
   lack of my understanding on how to associate key bindings to Chromium, but
   the problem still stands.
-* Similarly, when there is only one tab open, pressing Ctrl+W in Chromium
+* Similarly, when there is only one tab open, pressing `Ctrl+W` in Chromium
   does not close the tab (say, presenting me a blank tab or the list of most
   visited sites), nor it closes the application.
 
