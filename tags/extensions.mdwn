@@ -1,0 +1,4 @@
+[[!meta title="pages tagged extensions"]]
+
+[[!inline pages="tagged(extensions)" actions="no" archive="yes"
+feedshow=10]]
