@@ -1,4 +1,0 @@
-[[!meta title="pages tagged pdf"]]
-
-[[!inline pages="tagged(pdf)" actions="no" archive="yes"
-feedshow=10]]

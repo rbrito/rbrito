@@ -1,4 +1,0 @@
-[[!meta title="pages tagged kurobox"]]
-
-[[!inline pages="tagged(kurobox)" actions="no" archive="yes"
-feedshow=10]]

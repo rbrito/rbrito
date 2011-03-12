@@ -1,4 +1,0 @@
-[[!meta title="pages tagged tex"]]
-
-[[!inline pages="tagged(tex)" actions="no" archive="yes"
-feedshow=10]]
