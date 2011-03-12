@@ -1,0 +1,4 @@
+[[!meta title="pages tagged opentype"]]
+
+[[!inline pages="tagged(opentype)" actions="no" archive="yes"
+feedshow=10]]
