@@ -1,0 +1,4 @@
+[[!meta title="pages tagged surgery"]]
+
+[[!inline pages="tagged(surgery)" actions="no" archive="yes"
+feedshow=10]]
