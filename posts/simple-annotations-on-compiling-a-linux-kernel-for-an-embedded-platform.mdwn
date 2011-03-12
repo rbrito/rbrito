@@ -119,10 +119,13 @@ compiling all and modules.
   your system and, if not known, discovery by trial-and-error. (For x86
   systems, usually `CONFIG_RTC_DRV_CMOS=y` is sufficient).
 
-[[!tag  debian]]
-[[!tag  embedded]]
-[[!tag  hacks]]
-[[!tag  kernel]]
-[[!tag  kurobox]]
-[[!tag  linux]]
-[[!tag  powerpc]]
+[[!tag configuration]]
+[[!tag debian]]
+[[!tag development]]
+[[!tag embedded]]
+[[!tag free-software]]
+[[!tag hacks]]
+[[!tag kernel]]
+[[!tag kurobox]]
+[[!tag linux]]
+[[!tag powerpc]]
