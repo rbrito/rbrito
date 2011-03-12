@@ -1,26 +1,70 @@
 [[!meta  title="Migrate from RCS to git"]]
 [[!meta  date="2010-02-11 05:39:37"]]
-I have been keeping my <a href="http://www.latex-project.org/">LaTeX</a> files under version control since I was introduced to <a href="http://www.gnu.org/software/auctex/">AUCTeX</a> and I realized that a good way to approach the "evolutionary" approach to software (this includes text) is to use a <a href="http://en.wikipedia.org/wiki/Revision_control">revision control system</a>.
 
-I started using that with <a href="http://www.gnu.org/software/emacs/">Emacs</a> 21 (the first version of Emacs that I used was Emacs 19.something which I can't remember) and the revision system that was most easily available was <a href="http://www.gnu.org/software/rcs/">RCS</a>. Its integration with Emacs was very good and also easy to use: type <code>C-x v-v</code> and a check in is performed (or a check out, depending on the state of the file). You would be asked for a changelog for that file and that was it.
+I have been keeping my [LaTeX][0] files under version control since I was
+introduced to [AUCTeX][1] and I realized that a good way to approach the
+"evolutionary" approach to software (this includes text) is to use a
+[revision control system][2].
 
-Now, on the other hand, there is a myriad of options and one that looks very nice to me (apart from not dealing with metadata, but that's OK with me for the moment) is Linus Torvald's <a href="http://git-scm.com/"><code>git</code></a>. The very nice thing with <code>git</code> (or many other such systems) is that the interface with Emacs is exactly the same: <code>C-x v-v</code>. That's the only thing you need to remember to work well with, say, your text project. (I don't actually know very much of the management workflow under Emacs, but I also use the command line a good amount and it serves me well so far).
+I started using that with [Emacs][3] 21 (the first version of Emacs that I
+used was Emacs 19.something which I can't remember) and the revision system
+that was most easily available was [RCS][4]. Its integration with Emacs
+was very good and also easy to use: type `C-x v-v` and a check in is
+performed (or a check out, depending on the state of the file). You would be
+asked for a changelog for that file and that was it.
 
-But how can I convert my RCS "repositories" to a proper <code>git</code> repository? Well, git comes with a subcommand called <code>cvsimport</code>, meant to be used with CVS and this does help, since a CVS repository is essentially just a collection of RCS files. As many people have migrated along the path from RCS to CVS to Subversion to git, and I did not intend to convert the repository in multiple steps, I am documenting what I did here.
+Now, on the other hand, there is a myriad of options and one that looks very
+nice to me (apart from not dealing with metadata, but that's OK with me for
+the moment) is Linus Torvald's [`git`][5]. The very nice thing with `git`
+(or many other such systems) is that the interface with Emacs is exactly the
+same: `C-x v-v`. That's the only thing you need to remember to work well
+with, say, your text project. (I don't actually know very much of the
+management workflow under Emacs, but I also use the command line a good
+amount and it serves me well so far).
 
-So, if you have the <code>,v</code> files that RCS generates (the "repository" files for each file tracked by RCS) spread in a tree and you would like to convert that tree to a git repository for replication, backup and "time machine-like" support, you can mimic a basic CVS repository that can be converted easily with the following simple steps:
-<ul>
-	<li>Create a new directory hierarchy somewhere, denoted here by <code>cvs-source-dir</code>. This will play the role of a CVS repository which <code>git cvsimport</code> will convert.</li>
-	<li>Under <code>cvs-source-dir</code>, create the directory tree as you would like it to be visible by <code>git</code>.</li>
-	<li>As an immediate subdirectory of <code>cvs-source-dir</code>, create a directory named <code>CVSROOT</code>, that is <code>cvs-source-dir/CVSROOT</code>.</li>
-	<li>Each immediate subdirectory of <code>cvs-source-dir</code> will play the role of a CVS module. Just think of that as a project under control of the version control system.</li>
-	<li>Think about the <code>,v</code> files as your regular files and put them under the <code>cvs-source-dir</code> tree, as you would like them to be.</li>
-	<li>Create the directory where your git repository will reside, denoted here by <code>git-repo</code>.</li>
-	<li>Run <code>git cvsimport -v -a -A -k -m -d cvs-source-dir -C git-repo cvs-module</code></li>
-</ul>
-That's it. It seems to perform a very good job of changing a very old system to something that is modern and with many features (and is distributed).
+But how can I convert my RCS "repositories" to a proper `git` repository?
+Well, git comes with a subcommand called `cvsimport`, meant to be used with
+CVS and this does help, since a CVS repository is essentially just a
+collection of RCS files. As many people have migrated along the path from
+RCS to CVS to Subversion to git, and I did not intend to convert the
+repository in multiple steps, I am documenting what I did here.
 
-You may also want to read about the way to convert the ids of commits that RCS/CVS register to proper (people) names, which git uses. Read the <code>git-cvsimport</code> manpage for more details on this and other options mentioned above.
+So, if you have the `,v` files that RCS generates (the "repository" files
+for each file tracked by RCS) spread in a tree and you would like to convert
+that tree to a git repository for replication, backup and "time
+machine-like" support, you can mimic a basic CVS repository that can be
+converted easily with the following simple steps:
+
+* Create a new directory hierarchy somewhere, denoted here by
+  `cvs-source-dir`. This will play the role of a CVS repository which `git
+  cvsimport` will convert.
+* Under `cvs-source-dir`, create the directory tree as you would like it to
+  be visible by `git`.
+* As an immediate subdirectory of `cvs-source-dir`, create a directory named
+  `CVSROOT`, that is `cvs-source-dir/CVSROOT`.
+* Each immediate subdirectory of `cvs-source-dir` will play the role of a
+  CVS module. Just think of that as a project under control of the version
+  control system.
+* Think about the `,v` files as your regular files and put them under the
+  `cvs-source-dir` tree, as you would like them to be.
+* Create the directory where your git repository will reside, denoted here
+  by `git-repo`.
+* Run `git cvsimport -v -a -A -k -m -d cvs-source-dir -C git-repo cvs-module`
+
+That's it. It seems to perform a very good job of changing a very old system
+to something that is modern and with many features (and is distributed).
+
+You may also want to read about the way to convert the ids of commits that
+RCS/CVS register to proper (people) names, which git uses. Read the
+`git-cvsimport` manpage for more details on this and other options mentioned
+above.
+
+[0]: http://www.latex-project.org/
+[1]: http://www.gnu.org/software/auctex/
+[2]: http://en.wikipedia.org/wiki/Revision_control
+[3]: http://www.gnu.org/software/emacs/
+[4]: http://www.gnu.org/software/rcs/
+[5]: http://git-scm.com/
 
 [[!tag  debian]]
 [[!tag  emacs]]
