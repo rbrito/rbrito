@@ -52,3 +52,10 @@ but it seems that some of those are, at best, going to wait a long time.
 [5]: https://launchpad.net/~bifulcojunior
 [6]: https://launchpad.net/~victor.westmann/+karma
 [7]: http://mozilla.debian.net/
+
+[[! tag browsers]]
+[[! tag free-software]]
+[[! tag debian]]
+[[! tag extensions]]
+[[! tag ubuntu]]
+[[! tag launchpad]]

@@ -75,3 +75,8 @@ usable browsers now.
 [FSD]: https://chrome.google.com/webstore/detail/mpajngnpcmjjeoflljdjpnehcfaldcia
 [FSI]: https://chrome.google.com/webstore/detail/ombpcpigmndepfckcifdblemkabaoihk
 [IWCSSM]: http://ikiwiki.info/css_market/
+
+[[! tag browsers]]
+[[! tag free-software]]
+[[! tag debian]]
+[[! tag extensions]]

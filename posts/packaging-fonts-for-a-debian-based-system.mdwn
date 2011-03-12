@@ -122,3 +122,11 @@ Well, that's it for now. Stay tuned for more to come.
 [11]: http://en.wikipedia.org/wiki/Utopia_%28typeface%29
 [12]: http://tug.org/
 [13]: http://code.google.com/p/font-helpers/
+
+[[!tag  development]]
+[[!tag  documents]]
+[[!tag  fonts]]
+[[!tag  free-software]]
+[[!tag  opentype]]
+[[!tag  tex]]
+[[!tag  typography]]

@@ -30,7 +30,5 @@ Thanks.
 [[!tag  documents]]
 [[!tag  free-software]]
 [[!tag  hacks]]
-[[!tag  hacks]]
 [[!tag  libraries]]
-[[!tag  programming]]
 [[!tag  programming]]
