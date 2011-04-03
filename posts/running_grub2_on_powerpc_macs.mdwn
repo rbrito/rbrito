@@ -268,3 +268,14 @@ not everybody who wants to use GRUB2 have to learn about its workings.
 
 Oh, of course, you can now have your kernels in ext4, btrfs, xfs
 etc. partitions without the fear that your bootloader won't load them.
+
+[[!tag configuration]]
+[[!tag debian]]
+[[!tag development]]
+[[!tag free-software]]
+[[!tag hacks]]
+[[!tag ibook]]
+[[!tag kernel]]
+[[!tag linux]]
+[[!tag mac]]
+[[!tag powerpc]]
