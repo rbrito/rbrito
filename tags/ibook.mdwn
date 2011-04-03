@@ -1,0 +1,4 @@
+[[!meta title="pages tagged ibook"]]
+
+[[!inline pages="tagged(ibook)" actions="no" archive="yes"
+feedshow=10]]
