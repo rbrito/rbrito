@@ -23,7 +23,7 @@ use IkiWiki::Setup::Standard {
 	# rcs backend to use
 	rcs => 'git',
 	# plugins to add to the default configuration
-	add_plugins => ['goodstuff', 'theme', 'calendar', 'sidebar', 'tag'],
+	add_plugins => ['goodstuff', 'theme', 'calendar', 'sidebar', 'tag', 'template', 'comments'],
 	# plugins to disable
 	disable_plugins => [],
 	# additional directory to search for template files
@@ -187,11 +187,11 @@ use IkiWiki::Setup::Standard {
 	# Base name for comments, e.g. "comment_" for pages like "sandbox/comment_12"
 	#comments_pagename => '',
 	# Interpret directives in comments?
-	#comments_allowdirectives => 0,
+	comments_allowdirectives => 0,
 	# Allow anonymous commenters to set an author name?
-	#comments_allowauthor => 0,
+	comments_allowauthor => 0,
 	# commit comments to the VCS
-	#comments_commit => 1,
+	comments_commit => 0,
 
 	# getsource plugin
 	# Mime type for returned source.
