@@ -1,12 +1,32 @@
 [[!meta  title="About"]]
 [[!meta  date="2009-12-30 14:46:28"]]
+
+# About
+
 This blog is just a way to collect thoughts and discoveries regarding my use
 of Free Software, Mathematics (it also includes some personal notes, of
 course).  Some of the content here will be related to TeX (and siblings) and
 some will be related to me hacking on some piece of software.
 
-Rearding me, I am an Instructor of Computer Science at "Universidade
-Presbiteriana Mackenzie", São Paulo, Brazil. Currently, I am on absence for
-health treatment. I am also a Debian Maintainer and I am *highly* interested
-in Free Software, with Debian-based systems being my primary interest.
+Rearding me, I am an Instructor of Computer Science at
+"[Universidade Presbiteriana Mackenzie](http://www.mackenzie.br)", São
+Paulo, Brazil. Currently, I am on absence for health treatment. I am also a
+Debian Maintainer and I am *highly* interested in Free Software, with
+[Debian](http://www.debian.org)-based systems being my primary interest.
+
+# Me on the "interwebs"
+
+* [Debian](http://qa.debian.org/developer.php?login=rbrito%40ime.usp.br)
+* [Facebook](http://facebook.com/rtbrito)
+* [Flickr](http://flickr.com/photos/rtbrito)
+* [Github](http://github.com/rbrito)
+* [Google Profile](http://profiles.google.com/rbrito)
+* [Google+](http://plus.google.com/117659222649141007981)
+* [Last.fm](http://last.fm/user/rbrito)
+* [Launchpad](http://launchpad.net/~rbrito)
+* [LinkedIn](http://linkedin.com/in/rtbrito)
+* [Vimeo](http://vimeo.com/rbrito)
+* [YouTube](http://youtube.com/otirbr)
+* [identi.ca](http://identi.ca/rbrito)
+
 [[!tag  about]]
