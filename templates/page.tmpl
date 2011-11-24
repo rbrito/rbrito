@@ -122,9 +122,26 @@
 <TMPL_IF HTML5><section id="comments"><TMPL_ELSE><div id="comments"></TMPL_IF>
 <TMPL_VAR COMMENTS>
 <TMPL_IF ADDCOMMENTURL>
-<div class="addcomment">
-<a href="<TMPL_VAR ADDCOMMENTURL>">Add a comment</a>
-</div>
+
+          <div id="disqus_thread"></div>
+
+          <script type="text/javascript">
+            var disqus_shortname = 'digitaljunkyard';
+            // var disqus_identifier = 'unique_dynamic_id_1234';
+            var disqus_url = 'http://rb.doesntexist.org/blog/';
+
+            (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            })();
+          </script>
+
+          <noscript>
+            Please enable JavaScript to view
+            the <a href="http://disqus.com/?ref_noscript">comments</a>.
+          </noscript>
+
 <TMPL_ELSE>
 <div class="addcomment">Comments on this page are closed.</div>
 </TMPL_IF>
