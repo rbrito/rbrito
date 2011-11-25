@@ -16,6 +16,7 @@ Debian Maintainer and I am *highly* interested in Free Software, with
 
 # Me on the "interwebs"
 
+* [Ask Debian](http://ask.debian.net/users/rbrito)
 * [Debian](http://qa.debian.org/developer.php?login=rbrito%40ime.usp.br)
 * [Facebook](http://facebook.com/rtbrito)
 * [Flickr](http://flickr.com/photos/rtbrito)
@@ -25,6 +26,7 @@ Debian Maintainer and I am *highly* interested in Free Software, with
 * [Last.fm](http://last.fm/user/rbrito)
 * [Launchpad](http://launchpad.net/~rbrito)
 * [LinkedIn](http://linkedin.com/in/rtbrito)
+* [StackOverflow](http://stackoverflow.com/users/962311/rbrito)
 * [Vimeo](http://vimeo.com/rbrito)
 * [YouTube](http://youtube.com/otirbr)
 * [identi.ca](http://identi.ca/rbrito)
