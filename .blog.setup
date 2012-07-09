@@ -67,7 +67,7 @@ use IkiWiki::Setup::Standard {
 	# group for wrappers to run in
 	#wrappergroup => 'ikiwiki',
 	# extra library and plugin directory
-	libdir => '',
+	libdir => '/home/rbrito/.ikiwiki',
 	# environment variables
 	ENV => {},
 	# regexp of normally excluded files to include
