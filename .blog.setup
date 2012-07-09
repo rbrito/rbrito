@@ -22,10 +22,20 @@ use IkiWiki::Setup::Standard {
 	# cgi_wrappermode => '06755',
 	# rcs backend to use
 	rcs => 'git',
+
+	## Disqus plugin
+	# Your disqus forum "shortname"
+	disqus_shortname => 'digitaljunkyard',
+	# A list of regular expressions matching pages that should
+	# not have the disqus comments placed on them.
+	#
+	# Example:
+	#  disqus_skip_patterns => [ qr(^index$), qr(^posts$), qr(^tags/) ],
+	disqus_skip_patterns => [ qr(^index$), qr(^posts$), qr(^tags/) ],
 	# plugins to add to the default configuration
-	add_plugins => ['goodstuff', 'theme', 'calendar', 'sidebar', 'tag', 'template', 'comments'],
+	add_plugins => ['goodstuff', 'disqus', 'theme', 'calendar', 'sidebar', 'tag', 'template', 'comments'],
 	# plugins to disable
-	disable_plugins => [],
+	disable_plugins => ['comments'],
 	# additional directory to search for template files
 	templatedir => '/usr/share/ikiwiki/templates',
 	# base wiki source location

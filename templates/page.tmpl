@@ -37,7 +37,7 @@
 <span>
 <span class="parentlinks">
 <TMPL_LOOP PARENTLINKS>
-<a href="<TMPL_VAR URL>"><TMPL_VAR PAGE></a>/ 
+<a href="<TMPL_VAR URL>"><TMPL_VAR PAGE></a>/
 </TMPL_LOOP>
 </span>
 <span class="title">
@@ -118,35 +118,14 @@
 <TMPL_IF HTML5></section><TMPL_ELSE></div></TMPL_IF>
 
 <TMPL_UNLESS DYNAMIC>
-<TMPL_IF COMMENTS>
-<TMPL_IF HTML5><section id="comments"><TMPL_ELSE><div id="comments"></TMPL_IF>
-<TMPL_VAR COMMENTS>
-<TMPL_IF ADDCOMMENTURL>
 
-          <div id="disqus_thread"></div>
 
-          <script type="text/javascript">
-            var disqus_shortname = 'digitaljunkyard';
-            // var disqus_identifier = 'unique_dynamic_id_1234';
-            var disqus_url = 'http://rb.doesntexist.org/blog/';
-
-            (function() {
-            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-            dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
-            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-            })();
-          </script>
-
-          <noscript>
-            Please enable JavaScript to view
-            the <a href="http://disqus.com/?ref_noscript">comments</a>.
-          </noscript>
-
+<TMPL_IF COMMENTSLINK>
+<li><TMPL_VAR COMMENTSLINK></li>
 <TMPL_ELSE>
-<div class="addcomment">Comments on this page are closed.</div>
 </TMPL_IF>
+
 <TMPL_IF HTML5></section><TMPL_ELSE></div></TMPL_IF>
-</TMPL_IF>
 </TMPL_UNLESS>
 
 </div>
@@ -163,6 +142,17 @@ Tags:
 </TMPL_LOOP>
 <TMPL_IF HTML5></nav><TMPL_ELSE></div></TMPL_IF>
 </TMPL_IF>
+
+
+<TMPL_IF DISQUS>
+ <div id="disqus_comments">
+<script type="text/javascript">
+  var disqus_developer = 1;
+</script>
+     <TMPL_VAR DISQUS_COMMENTS>
+ </div>
+ </TMPL_IF>
+
 
 <TMPL_IF BACKLINKS>
 <TMPL_IF HTML5><nav id="backlinks"><TMPL_ELSE><div id="backlinks"></TMPL_IF>
@@ -198,9 +188,6 @@ License: <TMPL_VAR LICENSE>
 
 <div class="pagedate">
 Last edited <TMPL_VAR MTIME>
-<!-- Created <TMPL_VAR CTIME> -->
-</div>
-
 <TMPL_IF HTML5></nav><TMPL_ELSE></div></TMPL_IF>
 <TMPL_IF EXTRAFOOTER><TMPL_VAR EXTRAFOOTER></TMPL_IF>
 </TMPL_UNLESS>
