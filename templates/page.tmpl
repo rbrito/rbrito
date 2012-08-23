@@ -145,6 +145,12 @@
 
 </div>
 
+<TMPL_IF DISQUS>
+<div id="disqus_comments">
+<TMPL_VAR DISQUS_COMMENTS>
+</div>
+</TMPL_IF>
+
 <TMPL_IF HTML5><footer id="footer" class="pagefooter"><TMPL_ELSE><div id="footer" class="pagefooter"></TMPL_IF>
 <TMPL_UNLESS DYNAMIC>
 <TMPL_IF HTML5><nav id="pageinfo"><TMPL_ELSE><div id="pageinfo"></TMPL_IF>
