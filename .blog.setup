@@ -13,7 +13,7 @@ use IkiWiki::Setup::Standard {
 	# where to build the wiki
 	destdir => '../rbrito.github.com/blog/',
 	# base url to the wiki
-	url => '/blog/',
+	url => 'http://rb.doesntexist.org/blog/',
 	# url to the ikiwiki.cgi
 	# cgiurl => '',
 	# filename of cgi wrapper to generate
