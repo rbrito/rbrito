@@ -2,8 +2,6 @@
 [[!calendar pages="page(./posts/*) and !*/Discussion"]]
 """]]
 
-[[Recent Comments|comments]]
-
 [[Archives]]
 
 [[Tags]]:
