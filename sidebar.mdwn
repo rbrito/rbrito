@@ -2,7 +2,7 @@
 [[!calendar pages="page(./posts/*) and !*/Discussion"]]
 """]]
 
-[[About]]
+[[About Me|About]]
 
 [[Archives]]
 
