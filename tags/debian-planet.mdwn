@@ -1,0 +1,4 @@
+[[!meta title="pages tagged debian-planet"]]
+
+[[!inline pages="tagged(debian-planet)" actions="no" archive="yes"
+feedshow=10]]
