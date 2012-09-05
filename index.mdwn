@@ -4,5 +4,5 @@
 [[!inline pages=sidebar raw=yes]]
 """]]
 
-[[!inline pages="page(./posts/*) and !*/Discussion" show="10"
+[[!inline pages="page(./posts/*)" show="10"
 actions=yes rootpage="posts"]]

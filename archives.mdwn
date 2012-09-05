@@ -1,6 +1,6 @@
 [[!if test="archives/*" then="""
 Browse through blog archives by year:
-[[!map pages="./archives/* and !./archives/*/* and !*/Discussion"]]
+[[!map pages="./archives/* and !./archives/*/*"]]
 """
 else="""
 You need to use the `ikiwiki-calendar` program to generate calendar-based
