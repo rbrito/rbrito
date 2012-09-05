@@ -1,7 +1,7 @@
 [[!meta  title="About Me"]]
 [[!meta  date="2009-12-30 14:46:28"]]
 
-# About
+# About this blog and me
 
 This blog is just a way to collect thoughts and discoveries regarding my use
 of Free Software, Mathematics (it also includes some personal notes, of
