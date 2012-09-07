@@ -1,23 +1,67 @@
 [[!meta  title="Music, Group Actions, Quilt and Debian Packages"]]
 [[!meta  date="2007-06-13 02:08:51"]]
+
 These are some short notes on what I've doing these days.
 
-Unfortunately, there isn't much to talk about. I think that one of the most relevant things that I did was to resurrect one of my best <a href="http://en.wikipedia.org/wiki/Digital_audio_extraction">audio-extracting</a> CD-ROM drives: just opened the case of my computer, took off the CD drive, opened, cleaned its lens, lubricated the moving parts and everything is back to normal operation.
+Unfortunately, there isn't much to talk about. I think that one of the most
+relevant things that I did was to resurrect one of my best
+[[!wikipedia Digital_audio_extraction desc="audio-extracting"]] CD-ROM
+drives: just opened the case of my computer, took off the CD drive, opened,
+cleaned its lens, lubricated the moving parts and everything is back to
+normal operation.
 
-This sense of "getting something for nothing" is hard to explain to those who have not experienced it already.
+This sense of "getting something for nothing" is hard to explain to those
+who have not experienced it already.
 
-Other things that I did was to grab some old CDs that I had laying here (Radiohead's <a href="http://en.wikipedia.org/wiki/Ok_Computer">"OK Computer"</a>, Pantera's <a href="http://en.wikipedia.org/wiki/Far_Beyond_Driven">"Far Beyond Driven"</a>, the tribute to Queen called "Dragon Attack", and Gentle Giant's <a href="http://en.wikipedia.org/wiki/Free_Hand">"Free Hand"</a>, among others). Dream Theater's <a href="http://en.wikipedia.org/wiki/Systematic_Chaos">Special Edition of "Systematic Chaos"</a> is quite good, but unfortunately I don't have a 5.1 system at my disposal.
+Other things that I did was to grab some old CDs that I had laying here
+(Radiohead's [[!wikipedia OK Computer]], Pantera's
+[[!wikipedia Far_Beyond_Driven]], the tribute to Queen called "Dragon
+Attack", and Gentle Giant's [[!wikipedia Free Hand]], among others). Dream
+Theater's
+[[!wikipedia Systematic_Chaos desc="Special Edition of "Systematic Chaos""]]
+is quite good, but unfortunately I don't have a 5.1 system at my disposal.
 
-I also selected some material for further studies. I'm right now studying <a href="http://en.wikipedia.org/wiki/Group_action">group actions</a> (or G-sets as some seem to prefer). Soon, I will be finishing the basics of Group Theory (hey, really, why is the <a href="http://en.wikipedia.org/wiki/Conjugacy_class">"Class Equation"</a> of groups that "famous"? It is just a matter of saying that $latex |X| = \sum_{x\in X} 1$, but with cardinality of orbits instead of with one's and with a transversal of the orbits in place of $latex X$ itself).
+I also selected some material for further studies. I'm right now studying
+[[!wikipedia group actions]] (or G-sets as some seem to prefer). Soon, I
+will be finishing the basics of Group Theory (hey, really, why is the <a
+href="http://en.wikipedia.org/wiki/Conjugacy_class">"Class Equation"</a> of
+groups that "famous"? It is just a matter of saying that $$|X| = \sum_{x\in
+X} 1$$, but with cardinality of orbits instead of with one's and with a
+transversal of the orbits in place of $$X$$ itself).
 
-Actually, if the orbits of the elements of the $latex G$-set $latex X$ consist of just one element, then the equation above is the <a href="http://en.wikipedia.org/wiki/Group_action">"Class Equation"</a> (what some people would call $latex \mathop{\mathrm{Fix}}(X)$, I would call the "orbits being trivial").
+Actually, if the orbits of the elements of the $$G$$-set $$X$$ consist of
+just one element, then the equation above is the <a
+href="http://en.wikipedia.org/wiki/Group_action">"Class Equation"</a> (what
+some people would call $$\mathop{\mathrm{Fix}}(X)$$, I would call the
+"orbits being trivial").
 
-Anyway, <a href="http://en.wikipedia.org/wiki/Burnside%27s_lemma">Burnside's lemma</a> (which actually seems to be wrongly attributed, since it seems to be discovered independently by Cauchy and Frobenius) for counting orbits of a given action of a $latex G$-set has nice implications in combinatorics and it should be, at least, mentioned in any self-respecting introduction to Group Theory.
+Anyway, <a href="http://en.wikipedia.org/wiki/Burnside%27s_lemma">Burnside's
+lemma</a> (which actually seems to be wrongly attributed, since it seems to
+be discovered independently by Cauchy and Frobenius) for counting orbits of
+a given action of a $$G$$-set has nice implications in combinatorics and it
+should be, at least, mentioned in any self-respecting introduction to Group
+Theory.
 
-Oh, I almost forgot one of the major things that I did today (2007-06-12): I finally learned how to manipulate the <a href="http://savannah.nongnu.org/projects/quilt">quilt patch-system</a> (initiated by <a href="http://en.wikipedia.org/wiki/Andrew_Morton_%28computer_programmer%29">Andrew Morton</a>). The crucial point that is not written anywhere: the patches, by default, are applied with <code>-p1</code> instead of <code>-p0</code>. This took me quite some time to get, as the documentation isn't explicit about it. Installation of quilt in a <a href="http://www.apple.com/macosx/">MacOS X</a> system is not trivial, due to the demand of <a href="http://www.gnu.org">GNU</a> tools.
+Oh, I almost forgot one of the major things that I did today (2007-06-12): I
+finally learned how to manipulate the <a
+href="http://savannah.nongnu.org/projects/quilt">quilt patch-system</a>
+(initiated by <a
+href="http://en.wikipedia.org/wiki/Andrew_Morton_%28computer_programmer%29">Andrew
+Morton</a>). The crucial point that is not written anywhere: the patches, by
+default, are applied with <code>-p1</code> instead of <code>-p0</code>. This
+took me quite some time to get, as the documentation isn't explicit about
+it. Installation of quilt in a <a href="http://www.apple.com/macosx/">MacOS
+X</a> system is not trivial, due to the demand of <a
+href="http://www.gnu.org">GNU</a> tools.
 
-But now I can keep some <a href="http://www.debian.org/">Debian</a> packages of mine in a better shape than if I were just applying a single monolithic patch.
+But now I can keep some <a href="http://www.debian.org/">Debian</a> packages
+of mine in a better shape than if I were just applying a single monolithic
+patch.
 
 [[!tag  abstract-algebra]]
+[[!tag  class-equation]]
 [[!tag  computers]]
+[[!tag  debian]]
+[[!tag  group-actions]]
 [[!tag  math]]
+[[!tag  quilt]]

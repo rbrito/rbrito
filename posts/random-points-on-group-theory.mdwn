@@ -1,20 +1,60 @@
 [[!meta  title="Random Points on Group Theory"]]
 [[!meta  date="2007-05-24 14:07:11"]]
-It is not a surprise for anyone that I'm reviewing a little bit of Abstract Algebra.
 
-Reading Fraleigh's book is proving to be quite a good refresher, especially since my short-term goal is to study <a href="http://en.wikipedia.org/wiki/Coding_theory">Coding Theory</a> and the finer aspects of Coding Theory do involve Algebra (actually, one could say that the finer aspects of Coding Theory, especially Error Correcting Codes, depend quite a lot on Algebra).
+It is not a surprise for anyone that I'm reviewing a little bit of Abstract
+Algebra.
 
-Well, while studying Group Theory, one can't avoid to be amazed by some results that are not exactly that intuitive. For instance, I just discovered that the additive group $latex \mathbb Z[X]$ of univariate polynomials with integer coefficients is isomorphic to the multiplicative group $latex \mathbb Q^+$ of positive rationals.
+Reading Fraleigh's book is proving to be quite a good refresher, especially
+since my short-term goal is to study [[!wikipedia Coding Theory]] and the
+finer aspects of Coding Theory do involve Algebra (actually, one could say
+that the finer aspects of Coding Theory, especially Error Correcting Codes,
+depend quite a lot on Algebra).
 
-I thought that this was a relatively easy exercise until I posed the problem to a very competent friend of mine and he had some problems trying to come up with the isomorphism. His failure maybe tells me that this is not as obvious as I once thought and I think that this exercise should be better known, as it can show that very differently looking algebraic structures can be "the same" and the most surprising fact here is that <em>we are <strong>not</strong> dealing with any pathologically "made up" example</em>!
+Well, while studying Group Theory, one can't avoid to be amazed by some
+results that are not exactly that intuitive. For instance, I just discovered
+that the additive group $$\mathbb Z[X]$$ of univariate polynomials with
+integer coefficients is isomorphic to the multiplicative group $$\mathbb
+Q^+$ of positive rationals.
 
-Another thing that maybe is hard for students to grasp is the concept of a factor group. Knowing that a subgroup is normal iff it is the kernel of some homomorphism of groups is a handy way to memorize and "see" what a <a href="http://en.wikipedia.org/wiki/Normal_subgroup">normal subgroup</a> is. And students should be shown that there are some quite special ("natural"?) normal subgroups of a group: the <em>center of the group</em> and the <em>commutator subgroup</em>, just as two examples.
+I thought that this was a relatively easy exercise until I posed the problem
+to a very competent friend of mine and he had some problems trying to come
+up with the isomorphism. His failure maybe tells me that this is not as
+obvious as I once thought and I think that this exercise should be better
+known, as it can show that very differently looking algebraic structures can
+be "the same" and the most surprising fact here is that *we are **not**
+dealing with any pathologically "made up" example*!
 
-The latter one, together with a good explanation of what does it mean for taking <a href="http://en.wikipedia.org/wiki/Quotient_group">factor groups</a> (i.e., taking the elements of the normal subgroup and equating them to the unity), leads to a better understanding of quotient/factor groups. A nice thing to prove (that is short and shows the "mechanics" of factor groups) is the fact that a quotient group is abelian iff the normal group used as the "denominator" contains the commutator subgroup.
+Another thing that maybe is hard for students to grasp is the concept of a
+factor group. Knowing that a subgroup is normal iff it is the kernel of some
+homomorphism of groups is a handy way to memorize and "see" what a
+[[!wikipedia normal subgroup]] is. And students should be shown that there
+are some quite special ("natural"?) normal subgroups of a group: the *center
+of the group* and the *commutator subgroup*, just as two examples.
 
-Another thing that is worth doing is proving that a normal subgroup $latex N$ is maximal in a group $latex G$ iff $latex G/N$ is simple. The proof of this fact is analogous to the proof of the quotient of a ring being a field iff a ring is <a href="http://en.wikipedia.org/wiki/Factor_ring">factored</a> by a maximal ideal (and that we get an <a href="http://en.wikipedia.org/wiki/Integral_domain">integral domain</a> if the ideal is only prime instead of maximal).
+The latter one, together with a good explanation of what does it mean for
+taking <a href="http://en.wikipedia.org/wiki/Quotient_group">factor
+groups</a> (i.e., taking the elements of the normal subgroup and equating
+them to the unity), leads to a better understanding of quotient/factor
+groups. A nice thing to prove (that is short and shows the "mechanics" of
+factor groups) is the fact that a quotient group is abelian iff the normal
+group used as the "denominator" contains the commutator subgroup.
 
-Last, two groups that I feel that should merit way more attention than what I perceive as being given in a first course are the dihedral groups $latex D_3$ and $latex D_4$. Asking the students to draw the lattice of subgroups of such groups is quite enlightening, as they are "natural" groups that are not abelian (but with <em>all</em> the proper subgroups being abelian). Nice examples to have in mind, without any shadow of doubt.
+Another thing that is worth doing is proving that a normal subgroup $$N$$ is
+maximal in a group $$G$ iff $$G/N$$ is simple. The proof of this fact is
+analogous to the proof of the quotient of a ring being a field iff a ring is
+<a href="http://en.wikipedia.org/wiki/Factor_ring">factored</a> by a maximal
+ideal (and that we get an <a
+href="http://en.wikipedia.org/wiki/Integral_domain">integral domain</a> if
+the ideal is only prime instead of maximal).
+
+Last, two groups that I feel that should merit way more attention than what
+I perceive as being given in a first course are the dihedral groups $$D_3$$
+and $$D_4$. Asking the students to draw the lattice of subgroups of such
+groups is quite enlightening, as they are "natural" groups that are not
+abelian (but with *all* the proper subgroups being abelian). Nice examples
+to have in mind, without any shadow of doubt.
 
 [[!tag  abstract-algebra]]
+[[!tag  group-theory]]
 [[!tag  math]]
+[[!tag  quotient-groups]]

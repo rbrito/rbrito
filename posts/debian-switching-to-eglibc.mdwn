@@ -1,8 +1,22 @@
 [[!meta  title="Debian Switching to EGLIBC"]]
 [[!meta  date="2007-05-07 23:00:00"]]
-Having been playing with some new things in <a href="http://www.debian.org/">Debian</a>, like the <a href="http://packages.debian.org/magicfilter"><code>magicfilter</code></a> package, which is a superb, lightweight solution to all my printing problems: to use a PCL 3 printer. I think that I will also "manufacture" a solution with a metapackage of a live CD that includes the environment that I use frequently, with the packages that I use (this is probably quite leaner than what <a href="http://www.ubuntu.com/">Ubuntu</a> has done with their distribution, since I will mainly use some lighter packages).
 
-Oh, talking about lighter packages, I see that Debian has adopted a new C library, namely <a href="http://www.eglibc.org/">EGLIBC</a>, which stands for Embedded LIBC. Finally, it seems that Debian will focus a bit more on smaller systems (which is a good thing, because computing resources are limited).
+Having been playing with some new things in [Debian][0], like the
+[[!debpkg magicfilter]] package, which is a superb, lightweight solution to
+all my printing problems: to use a PCL 3 printer. I think that I will also
+"manufacture" a solution with a metapackage of a live CD that includes the
+environment that I use frequently, with the packages that I use (this is
+probably quite leaner than what [Ubuntu][1] has done with their
+distribution, since I will mainly use some lighter packages).
+
+Oh, talking about lighter packages, I see that Debian has adopted a new C
+library, namely [EGLIBC][2], which stands for Embedded LIBC. Finally, it
+seems that Debian will focus a bit more on smaller systems (which is a good
+thing, because computing resources are limited).
+
+[0]: http://www.debian.org/
+[1]: http://www.ubuntu.com/
+[2]: http://www.eglibc.org/
 
 [[!tag  computers]]
 [[!tag  debian]]
