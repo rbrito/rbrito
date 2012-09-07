@@ -5,6 +5,16 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 </TMPL_IF>
 <head>
+
+<!-- MathJax -->
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+</script>
+<script type="text/javascript"
+src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+<!-- MathJax -->
+
 <TMPL_IF DYNAMIC>
 <TMPL_IF FORCEBASEURL><base href="<TMPL_VAR FORCEBASEURL>" /><TMPL_ELSE>
 <TMPL_IF BASEURL><base href="<TMPL_VAR BASEURL>" /></TMPL_IF>
