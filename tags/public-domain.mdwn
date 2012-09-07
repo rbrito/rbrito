@@ -1,0 +1,4 @@
+[[!meta title="pages tagged public-domain"]]
+
+[[!inline pages="tagged(public-domain)" actions="no" archive="yes"
+feedshow=10]]
