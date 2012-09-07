@@ -1,0 +1,4 @@
+[[!meta title="pages tagged class-equation"]]
+
+[[!inline pages="tagged(class-equation)" actions="no" archive="yes"
+feedshow=10]]
