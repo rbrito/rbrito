@@ -1,0 +1,4 @@
+[[!meta title="pages tagged approx"]]
+
+[[!inline pages="tagged(approx)" actions="no" archive="yes"
+feedshow=10]]
