@@ -1,0 +1,76 @@
+[[!meta title="NOT Trying out AdSense"]]
+[[!meta date="Fri, 07 Sep 2012 13:16:18 -0300"]]
+
+On the 3rd of September, I applied to Google's [AdSense][1] program, as I
+told in my [previous post][2].
+
+Well, that was a short-lived experience. On the 5th of September, I received
+the following e-mail, which, sincerely, is as uninformative as it could get:
+
+    Date: Wed, 05 Sep 2012 16:52:22 -0000
+    From: adsense-noreply@google.com
+    To: rbrito@gmail.com
+    Subject: Google AdSense Support
+    
+    Hello,
+    
+    As mentioned in our welcome email, we conduct a second review of your
+    AdSense application once AdSense code is placed on your site(s). As a
+    result of this review, we have disapproved your account for the following
+    violation(s):
+    
+    Issues:
+    
+    - Site does not comply with Google policies
+    
+    
+    ---------------------
+    
+    Further detail:
+    
+    
+    Site does not comply with Google policies: We're unable to approve your
+    AdSense application at this time because we feel that your site does not
+    comply with Google AdSense policies or webmaster quality guidelines. It's
+    our goal to provide our advertisers sites that offer rich and meaningful
+    content, receive organic traffic, and allow us to serve well-targeted ads
+    to users. We believe that currently your site does not fulfill this
+    criteria. 
+    
+    For more details, please read the webmaster quality guidelines at
+    http://www.google.com/support/webmasters/bin/answer.py?answer=35769 and
+    the AdSense program policies at
+    http://support.google.com/adsense/bin/answer.py?answer=48182,
+    https://support.google.com/adsense/bin/topic.py?topic=1271507
+    
+    (...)
+
+OK, I went on and read **all** the documentation on program policies
+etc.  I investigate each point here:
+
+* Invalid clicks and impressions: No violation here.
+* Encouraging clicks: No violation here.
+* Content guidelines: No violation here.
+* Copyrighted material: No violation here.
+* Webmaster guidelines: No violation here.
+* Traffic sources: No violation here.
+* Ad behavior: No violation here.
+* Ad placement: No violation here.
+* Site behavior: No violation here.
+* Competitive ads and services: No violation here.
+* Google advertising cookies: No violation here.
+
+To cut a long story short, I RTFM and did everything correctly. So, dear
+lazyweb, what would my options be to fund a tiny bit of my software
+contributions?
+
+[1]: https://www.google.com/adsense
+[2]: http://rb.doesntexist.org/blog/posts/trying_out_adsense/
+
+[[!tag adsense]]
+[[!tag advertisements]]
+[[!tag debian-planet]]
+[[!tag debian]]
+[[!tag free-software]]
+[[!tag funding]]
+[[!tag google]]
