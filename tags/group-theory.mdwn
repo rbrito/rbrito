@@ -1,0 +1,4 @@
+[[!meta title="pages tagged group-theory"]]
+
+[[!inline pages="tagged(group-theory)" actions="no" archive="yes"
+feedshow=10]]
