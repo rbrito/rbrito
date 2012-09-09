@@ -1,0 +1,4 @@
+[[!meta title="pages tagged compression"]]
+
+[[!inline pages="tagged(compression)" actions="no" archive="yes"
+feedshow=10]]
