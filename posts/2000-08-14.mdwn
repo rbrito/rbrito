@@ -8,4 +8,6 @@ never really pushed my monitor that far. On the low side, it seems
 the Trident card is made by some RIAA people and just generates
 some noise when I'm playing some MP3s. Looking forward to see if X4
 can help me with acceleration.
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  graphics-card]]
+[[!tag  linux]]

@@ -19,4 +19,9 @@ licensed, which is übercool.
 The day is not over yet and I just got my glasses fixed and now I
 can see the world much clearer. Uh... If all days were like
 this...
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  filesystems]]
+[[!tag  kde]]
+[[!tag  life]]
+[[!tag  linux]]
+[[!tag  qt]]

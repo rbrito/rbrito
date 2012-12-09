@@ -14,4 +14,7 @@ I've packaged for Debian.
 
 My [advisor](http://www.ime.usp.br/~jose/) and I decided that we
 should start with my research. Now I need a subject.
-[[!tag  uncategorized]]
+[[!tag  lame]]
+[[!tag  linux]]
+[[!tag  music]]
+[[!tag  study]]

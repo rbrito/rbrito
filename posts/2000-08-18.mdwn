@@ -2,4 +2,5 @@
 Went to a customer today and substituted his older IDE drive with a
 newer SCSI drive. All went well, but by Murphy's Law, something
 nasty was expecting me at the corner: M$ Windows, of course.
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  linux]]

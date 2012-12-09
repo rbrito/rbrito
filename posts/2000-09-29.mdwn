@@ -33,6 +33,6 @@ zero.
 
 All this means that I have no idea what I can expect from it. Oh,
 well.
-
-
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  linux]]
+[[!tag  work]]

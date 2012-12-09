@@ -7,4 +7,7 @@ converting him to see the light, but, for some reason, it appears
 that he was not as scared as in the previous attempts. Since my
 trustworthy S3 Trio64+ is giving signals of its age, I got a newer
 Tridend 3DImage750 to substitute it.
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  gnome]]
+[[!tag  graphics-card]]
+[[!tag  linux]]

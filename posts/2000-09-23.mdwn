@@ -5,4 +5,5 @@ about Combinatorial Optimization than programming Turing Machines,
 but both classes I'm attending are cool. For someone that enjoys
 theoretical Computer Science, that is. Amazingly, the theory is not
 far from the Real World (tm).
-[[!tag  uncategorized]]
+[[!tag  study]]
+[[!tag  life]]

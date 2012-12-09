@@ -1,3 +1,4 @@
 [[!meta  date="2000-09-24"]]
 Still doing homework.
-[[!tag  uncategorized]]
+[[!tag  study]]
+[[!tag  life]]

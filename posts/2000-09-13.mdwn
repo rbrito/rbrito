@@ -18,8 +18,11 @@ I've been listening to Vivaldi all day long today. Talking about
 music, I want to order Agalloch's "Pale Folklore" from
 [The End Record](http://www.theendrecords.com)'s on-line form, but
 it seems that their shopping cart doesn't get anything included
-when i select the album (am I using it correctly?).
+when I select the album (am I using it correctly?).
 
 A new Gnapster is released and now I can connect to the main
 [Napster](http://www.napster.com/) server again. Woohoo.
-[[!tag  uncategorized]]
+[[!tag  filesystems]]
+[[!tag  life]]
+[[!tag  linux]]
+[[!tag  music]]
