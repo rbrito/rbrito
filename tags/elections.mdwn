@@ -1,0 +1,4 @@
+[[!meta title="pages tagged elections"]]
+
+[[!inline pages="tagged(elections)" actions="no" archive="yes"
+feedshow=10]]
