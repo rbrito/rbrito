@@ -1,0 +1,4 @@
+[[!meta title="pages tagged study"]]
+
+[[!inline pages="tagged(study)" actions="no" archive="yes"
+feedshow=10]]
