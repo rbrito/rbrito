@@ -1,0 +1,4 @@
+[[!meta title="pages tagged kde"]]
+
+[[!inline pages="tagged(kde)" actions="no" archive="yes"
+feedshow=10]]
