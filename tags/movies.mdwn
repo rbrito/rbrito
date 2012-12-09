@@ -1,0 +1,4 @@
+[[!meta title="pages tagged movies"]]
+
+[[!inline pages="tagged(movies)" actions="no" archive="yes"
+feedshow=10]]
