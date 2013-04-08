@@ -3,5 +3,5 @@ I tried to communicate with my provider via e-mail and via phone to
 get them to straighten their DNS entries, but I didn't have much
 success, apparently.
 
-
-[[!tag  uncategorized]]
+[[!tag  isp]]
+[[!tag  dns]]

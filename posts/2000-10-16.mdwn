@@ -7,5 +7,5 @@ maintained from interation to iteration. This is the Right
 Thing(tm) to do, but it also takes a lot of time. What should I do
 next time?
 
-
-[[!tag  uncategorized]]
+[[!tag  study]]
+[[!tag  math]]

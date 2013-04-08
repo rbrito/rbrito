@@ -7,4 +7,4 @@ gathering my mail via POP.
 
 The catch: my University's computer runs in PARANOID mode and I
 don't even get prompted for my pass{phrase,word}.
-[[!tag  uncategorized]]
+[[!tag  isp]]

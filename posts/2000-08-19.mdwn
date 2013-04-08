@@ -13,4 +13,5 @@ can play them. It's officially a Good Thing(tm).
 [[!tag  hack]]
 [[!tag  hardware]]
 [[!tag  life]]
+[[!tag  music]]
 [[!tag  symphony-x]]

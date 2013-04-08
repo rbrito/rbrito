@@ -11,5 +11,5 @@ academic databases and doing it at sane hours is painfully sloooow.
 Pehaps other people are giving it more important uses, like
 Napster.
 
-
-[[!tag  uncategorized]]
+[[!tag  music]]
+[[!tag  unix]]

@@ -6,3 +6,4 @@ time (the last time, as I recall, was when I was just entering the
 University). Let's see what happens as things progress.
 [[!tag  study]]
 [[!tag  life]]
+[[!tag  math]]

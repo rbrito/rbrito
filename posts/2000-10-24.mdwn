@@ -2,5 +2,6 @@
 Whew! One of the longest homeworks that I've ever had was finished
 today. Programmning Turing Machines takes time.
 
-
-[[!tag  uncategorized]]
+[[!tag  study]]
+[[!tag  math]]
+[[!tag  complexity-theory]]
