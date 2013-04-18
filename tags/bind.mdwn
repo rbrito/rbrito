@@ -1,0 +1,4 @@
+[[!meta title="pages tagged bind"]]
+
+[[!inline pages="tagged(bind)" actions="no" archive="yes"
+feedshow=10]]
