@@ -31,4 +31,8 @@ ftpparse-ified version of wget (for mirroring
 [publicfile](http://cr.yp.to/publicfile.html) repositories).
 
 
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  hardware]]
+[[!tag  kde]]
+[[!tag  lame]]
+[[!tag  linux]]

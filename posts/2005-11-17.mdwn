@@ -63,4 +63,7 @@ stimulated at least one reader to try
 In the mean time, I'm swamped with middle terms.
 
 
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  free-software]]
+[[!tag  latex]]
+[[!tag  tex]]

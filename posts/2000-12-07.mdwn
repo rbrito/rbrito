@@ -24,5 +24,6 @@ strange. Recompile time again.
 Now, everything seems fine. Another thing to throw on that "extras"
 CD.
 
-
-[[!tag  uncategorized]]
+[[!tag  free-software]]
+[[!tag  hardware]]
+[[!tag  linux]]

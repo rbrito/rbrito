@@ -30,5 +30,8 @@ And speaking of BSD, I also have [FreeBSD](http://www.freebsd.org)
 spending way too much time with this Internet thing (I downloaded
 FreeBSD the very same day it was released -- that's Nov 21st).
 
-
-[[!tag  uncategorized]]
+[[!tag  free-software]]
+[[!tag  freebsd]]
+[[!tag  hardware]]
+[[!tag  linux]]
+[[!tag  music]]

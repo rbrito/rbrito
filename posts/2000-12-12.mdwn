@@ -10,5 +10,6 @@ the fact that it only has 32MB of memory. And even more remarkable
 is the fact that it is a server running with lots of things
 on-board. A quite modest machine. Getting its job done. Reliably.
 
-
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  kernel]]
+[[!tag  linux]]

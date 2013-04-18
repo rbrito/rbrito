@@ -5,5 +5,6 @@ time. I mean, only 1h40min for all those proofs? A comfortable
 period would be, say, 3h or 4h, but, then, maybe I'm a
 perfectionist. Maybe I'm slow. Maybe both.
 
-
-[[!tag  uncategorized]]
+[[!tag  study]]
+[[!tag  math]]
+[[!tag  complexity-theory]]

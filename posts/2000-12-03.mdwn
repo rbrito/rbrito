@@ -9,5 +9,7 @@ My qmail package is not as "clean" as I'd like it be (for instance,
 it would be nice if I made its configuration use debconf, but I
 think that that is a task for another day).
 
-
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  hardware]]
+[[!tag  free-software]]
+[[!tag  linux]]

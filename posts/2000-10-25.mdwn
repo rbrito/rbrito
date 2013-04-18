@@ -15,4 +15,6 @@ intuition of why the O(nm) algorithm works, but I have still to sit
 down and write a complete, detailed a proof. I wish I had time.
 
 
-[[!tag  uncategorized]]
+[[!tag  study]]
+[[!tag  math]]
+[[!tag  complexity-theory]]

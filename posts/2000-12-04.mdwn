@@ -10,4 +10,7 @@ Debian potato (and my locally packaged programs, of course). Now,
 if I only could get XFree86 4.0.1 for potato, I'd be very happy.
 
 
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  free-software]]
+[[!tag  kde]]
+[[!tag  linux]]

@@ -20,4 +20,6 @@ I use, by the way, the following extra packages from
 
 
 
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  emacs]]
+[[!tag  free-software]]

@@ -45,4 +45,7 @@ this area of knowledge has evolved so much in so little time, but I
 guess that this is natural whenever there are economic interests in
 a given field). Now, I want to learn more!
 
-[[!tag  uncategorized]]
+[[!tag  linux]]
+[[!tag  debian]]
+[[!tag  hardware]]
+[[!tag  study]]

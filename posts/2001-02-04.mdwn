@@ -5,4 +5,7 @@ With the BIND breakage, I'll have some packages to
 make time updates with NTP.
 
 
-[[!tag  uncategorized]]
+[[!tag  bind]]
+[[!tag  debian]]
+[[!tag  linux]]
+[[!tag  work]]

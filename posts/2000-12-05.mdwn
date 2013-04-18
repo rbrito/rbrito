@@ -10,5 +10,5 @@ amount of typos and small errors that this book contains. Indeed if
 you ignore those errors, then the book is really good. I guess that
 it needs a beta-testing phase as it is feature complete.
 
-
-[[!tag  uncategorized]]
+[[!tag  complexity-theory]]
+[[!tag  study]]
