@@ -1,0 +1,4 @@
+[[!meta title="pages tagged macos"]]
+
+[[!inline pages="tagged(macos)" actions="no" archive="yes"
+feedshow=10]]
