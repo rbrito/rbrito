@@ -37,4 +37,10 @@ Oh, NetBSD 1.5.1
 I still can't get ISO images, though.
 
 
-[[!tag  uncategorized]]
+[[!tag  blind-guardian]]
+[[!tag  life]]
+[[!tag  linux]]
+[[!tag  music]]
+[[!tag  netbsd]]
+[[!tag  powerpc]]
+[[!tag  study]]

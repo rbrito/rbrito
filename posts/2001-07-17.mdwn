@@ -48,5 +48,7 @@ make this damn thing work, but I'm not confident anymore that I'll
 succeed. Well, I'll talk to my uncle tomorrow, perhaps and see if
 the other Mac behaves the same way. Enough for a day already.
 
-
-[[!tag  uncategorized]]
+[[!tag  hardware]]
+[[!tag  life]]
+[[!tag  linux]]
+[[!tag  powerpc]]

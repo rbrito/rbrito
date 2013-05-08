@@ -96,4 +96,9 @@ amazing [qmail](http://www.qmail.org/) running on this machine
 old machine).
 
 
-[[!tag  uncategorized]]
+[[!tag  apple]]
+[[!tag  debian]]
+[[!tag  hardware]]
+[[!tag  linux]]
+[[!tag  macos]]
+[[!tag  powerpc]]

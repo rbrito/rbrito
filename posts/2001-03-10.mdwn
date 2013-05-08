@@ -32,5 +32,10 @@ TCP/IP tunnels. Handy for WANs.
 And I'm keeping reading about Multiple Sequence Alignment, which is
 getting more exciting day after day.
 
-
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  hardware]]
+[[!tag  health]]
+[[!tag  kde]]
+[[!tag  linux]]
+[[!tag  network]]
+[[!tag  study]]

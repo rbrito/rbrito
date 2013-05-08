@@ -29,5 +29,6 @@ not delivering my e-mails. AGAIN. Enough.
 BTW, I have to finish a take home exam on Approximation
 Algorithms.
 
-
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  hardware]]
+[[!tag  study]]

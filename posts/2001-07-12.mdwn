@@ -4,4 +4,4 @@ Analysis of Algorithms, since I'm the oh-so-great TA. All day. All
 night.
 
 
-[[!tag  uncategorized]]
+[[!tag  study]]
