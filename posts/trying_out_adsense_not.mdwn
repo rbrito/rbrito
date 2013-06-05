@@ -65,7 +65,7 @@ lazyweb, what would my options be to fund a tiny bit of my software
 contributions?
 
 [1]: https://www.google.com/adsense
-[2]: http://rb.doesntexist.org/blog/posts/trying_out_adsense/
+[2]: http://cynic.cc/blog/posts/trying_out_adsense/
 
 [[!tag adsense]]
 [[!tag advertisements]]

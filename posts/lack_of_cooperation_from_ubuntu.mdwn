@@ -43,7 +43,7 @@ Oh, just for the record, the
 
 
 [0]: https://plus.google.com/117659222649141007981/posts/C2vY4nD4CD6
-[1]: http://rb.doesntexist.org/blog/posts/debian_activities/
+[1]: http://cynic.cc/blog/posts/debian_activities/
 [2]: http://changelogs.ubuntu.com/changelogs/pool/universe/m/mongodb/mongodb_2.0.4-1ubuntu2.1/changelog
 [3]: https://launchpad.net/ubuntu/+source/mongodb/1:2.2.4-0ubuntu1/+build/4470136
 [4]: http://packages.ubuntu.com/raring/mongodb
