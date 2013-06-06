@@ -7,6 +7,3 @@
 <iframe src="http://githubbadge.appspot.com/badge/rbrito" style="border: 0;height: 150px;width: 200px;overflow: hidden"></iframe>
 
 [[Archives]]
-
-[[Tags]]:
-[[!pagestats style="list" pages="./tags/*" among="./posts/*"]]
