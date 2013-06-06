@@ -15,4 +15,5 @@ Para ouvir a programação, e
 [clique aqui](http://support.bbc.co.uk/ogg/) e relaxe.
 
 
-[[!tag  uncategorized]]
+[[!tag  free-software]]
+[[!tag  audio]]

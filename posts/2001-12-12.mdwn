@@ -30,4 +30,8 @@ compiler/optimizer to tell it: "perform only what I tell you and
 optimize the hell out of this code"?
 
 
-[[!tag  uncategorized]]
+[[!tag  perl]]
+[[!tag  life]]
+[[!tag  powerpc]]
+[[!tag  macos]]
+[[!tag  linux]]

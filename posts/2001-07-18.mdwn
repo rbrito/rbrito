@@ -33,4 +33,6 @@ justified, while [Netscape 4.77](http://www.netscape.com),
 [Internet Explorer](http://www.microsoft.com) are.
 
 
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  powerpc]]
+[[!tag  hardware]]

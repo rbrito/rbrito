@@ -19,4 +19,7 @@ Lots of new things in the Debian incoming repository: KDE 2.2.1,
 KOffice 1.1, Broadcast 2000, dillo, and Java 1.3. Woohoo!
 
 
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  free-software]]
+[[!tag  kde]]
+[[!tag  work]]

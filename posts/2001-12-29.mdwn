@@ -43,4 +43,9 @@ All in all, this can now be a poor's man desktop machine. If it
 only consumed power proportional to its speed, it would be nicer.
 
 
-[[!tag  uncategorized]]
+[[!tag  free-software]]
+[[!tag  lame]]
+[[!tag  powerpc]]
+[[!tag  linux]]
+[[!tag  hardware]]
+[[!tag  debian]]

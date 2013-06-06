@@ -76,4 +76,8 @@ have to use that dreaded trial-and-error again to discover.
 Humpft.
 
 
-[[!tag  uncategorized]]
+[[!tag  crypto]]
+[[!tag  drm]]
+[[!tag  dvds]]
+[[!tag  linux]]
+[[!tag  opeth]]

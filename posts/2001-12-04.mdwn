@@ -31,4 +31,6 @@ que já deveria ter percebido há algum tempo -- como é bom
 estudar).
 
 
-[[!tag  uncategorized]]
+[[!tag  perl]]
+[[!tag  study]]
+[[!tag  free-software]]

@@ -32,4 +32,10 @@ so much time and money (buying books) for something that I'm not
 really enjoying (but it's ok).
 
 
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  free-software]]
+[[!tag  hardware]]
+[[!tag  linux]]
+[[!tag  macos]]
+[[!tag  perl]]
+[[!tag  powerpc]]
