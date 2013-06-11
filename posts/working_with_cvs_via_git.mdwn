@@ -1,5 +1,5 @@
-[[meta title="Working with CVS via Git"]]
-[[meta date="Tue, 11 Jun 2013 04:49:56 -0300"]]
+[[!meta title="Working with CVS via Git"]]
+[[!meta date="Tue, 11 Jun 2013 04:49:56 -0300"]]
 
 The easiest way of using git locally to commit to a CVS repository is to
 have *both* a git clone of the CVS repository *and* a CVS checkout of your
