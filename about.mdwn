@@ -31,3 +31,7 @@ Debian Maintainer and I am *highly* interested in Free Software, with
 * [Vimeo](http://vimeo.com/rbrito)
 * [YouTube](http://youtube.com/otirbr)
 * [identi.ca](http://identi.ca/rbrito)
+
+
+<iframe src="http://githubbadge.appspot.com/badge/rbrito"
+ style="border: 0;height: 150px;width: 200px;overflow: hidden"></iframe>
