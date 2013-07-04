@@ -1,0 +1,4 @@
+[[!meta title="pages tagged education"]]
+
+[[!inline pages="tagged(education)" actions="no" archive="yes"
+feedshow=10]]
