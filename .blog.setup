@@ -169,7 +169,7 @@ use IkiWiki::Setup::Standard {
 
 	# mdwn plugin
 	# enable multimarkdown features?
-	multimarkdown => 1,
+	# multimarkdown => 1,
 
 	######################################################################
 	# misc plugins
