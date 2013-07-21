@@ -72,8 +72,8 @@ burdensome for others to maintain.
           block3
         end
 
-  note that it ends with the word `end`, there are no need for parentheses, no
-  braces, no colons, and the keyword for "else if" is `elsif` (different
+  note that it ends with the word `end`, there are no need for parentheses,
+  no braces, no colons, and the keyword for "else if" is `elsif` (different
   from Python's `elif`).
 * The "`if`" can also be started with the keyword `unless` instead, which
   checks if the expression is false rather than true (as is the case of
@@ -143,7 +143,7 @@ burdensome for others to maintain.
   `object` in turn. The equivalent in Python would be:
 
         for item in object:
-          block
+            block
 
 * Arrays can be sorted with the `.sort` method (or its sibling `.sort!`).
   When passing a parameter, it is useful to use the spaceship operator
@@ -224,7 +224,7 @@ burdensome for others to maintain.
         end
 
 * Parentheses are optional in Ruby, unless they create ambiguity. So, to
-  call the function above one can use any of the following:
+  call the function above, one can use any of the following:
 
         square(2)
         square 2
@@ -259,7 +259,7 @@ burdensome for others to maintain.
 
 * A lambda function in Ruby is defined, as expected, as, for example:
 
-    foo = lambda { |x| x.to_sym }
+        foo = lambda { |x| x.to_sym }
 
 * The basic differences between a lambda and a proc is that:
   - A lambda checks the number of elements that it receives, while a proc
@@ -364,7 +364,7 @@ burdensome for others to maintain.
   of their name.
 * Methods that have destructive side-effects (like changing their input)
   have an exclamation mark (`!`) at the end of their name.
-* Code is indented by 2 spaces
+* Code is indented by 2 spaces.
 * Like other languages, constants are written in all caps, with words
   separated by underscores. For example, `MAX_VALUE`.
 * Global variables are prefixed with a dollar sign (e.g., `$Foo`).
