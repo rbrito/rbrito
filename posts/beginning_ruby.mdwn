@@ -413,3 +413,7 @@ burdensome for others to maintain.
   "bureaucracy" (like the explicit `return` keyword in methods).
 
 
+[[!tag  debian]]
+[[!tag  free-software]]
+[[!tag  ruby]]
+[[!tag  study]]
