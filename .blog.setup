@@ -33,7 +33,7 @@ use IkiWiki::Setup::Standard {
 	#  disqus_skip_patterns => [ qr(^index$), qr(^posts$), qr(^tags/) ],
 	disqus_skip_patterns => [ ],
 	# plugins to add to the default configuration
-	add_plugins => ['goodstuff', 'disqus', 'theme', 'calendar', 'sidebar', 'tag', 'template'],
+	add_plugins => ['goodstuff', 'disqus', 'theme', 'calendar', 'sidebar', 'tag', 'template', 'format', 'highlight'],
 	# plugins to disable
 	disable_plugins => ['comments', 'htmlscrubber'],
 	# additional directory to search for template files
