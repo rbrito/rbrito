@@ -13,4 +13,11 @@ with USB HID support enabled (in my case, as modules). They also
 work fine with [MacOS X](http://www.apple.com/macosx/)
 
 
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  free-software]]
+[[!tag  hardware]]
+[[!tag  ibook]]
+[[!tag  linux]]
+[[!tag  mac]]
+[[!tag  powerpc]]
+[[!tag  video]]

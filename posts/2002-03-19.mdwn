@@ -8,4 +8,7 @@ I have lived without it this far.
 Wrote a bit more of my Master's thesis.
 
 
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  emacs]]
+[[!tag  free-software]]
+[[!tag  study]]

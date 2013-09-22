@@ -3,4 +3,5 @@ Went to see my uncle with my SO. Got myself an USB keyboard with an
 USB mouse attached (with scroll wheel).
 
 
-[[!tag  uncategorized]]
+[[!tag  hardware]]
+[[!tag  life]]

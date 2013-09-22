@@ -22,4 +22,8 @@ It seems that [Dan Bernstein](http://cr.yp.to/djb.html) is
 be...
 
 
-[[!tag  uncategorized]]
+[[!tag  free-software]]
+[[!tag  life]]
+[[!tag  music]]
+[[!tag  opeth]]
+[[!tag  study]]

@@ -23,4 +23,11 @@ is what offers me the greatest effort/satisfaction ratio, for many
 different values of satisfaction.
 
 
-[[!tag  uncategorized]]
+[[!tag  free-software]]
+[[!tag  harware]]
+[[!tag  life]]
+[[!tag  linux]]
+[[!tag  powerpc]]
+[[!tag  python]]
+[[!tag  sadness]]
+[[!tag  video]]

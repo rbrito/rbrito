@@ -23,4 +23,11 @@ Discovered that [Apple Brasil](http://www.apple.com.br/) is selling
 Damn!
 
 
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  free-software]]
+[[!tag  hardware]]
+[[!tag  ibook]]
+[[!tag  linux]]
+[[!tag  mac]]
+[[!tag  powerpc]]
+[[!tag  study]]
