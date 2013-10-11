@@ -12,4 +12,7 @@ And I really like [Nupedia](http://www.nupedia.com/). A great
 effort which deserves more input.
 
 
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  free-software]]
+[[!tag  linux]]
+[[!tag  opera]]

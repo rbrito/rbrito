@@ -8,7 +8,7 @@ I'm a newbie right now, but I already found some problems where the
 [Standard Documentation](http://www.python.org/doc/current/tut/tut.html)
 is not entirely clear. And I also found differences of behavior
 between [CPython](http://www.python.org/) and
-[Jython](http://www.jython.org/) regarding the readlines() method
+[Jython](http://www.jython.org/) regarding the `readlines()` method
 of a file object when called with an argument. Is that a bug,
 perhaps? If it is, then I'm surprised that nobody found it yet.
 
@@ -23,4 +23,10 @@ Linux browsers that I tried ([Opera](http://www.opera.com/),
 [Konqueror](http://www.konqueror.org/)).
 
 
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  free-software]]
+[[!tag  harware]]
+[[!tag  java]]
+[[!tag  life]]
+[[!tag  linux]]
+[[!tag  python]]
