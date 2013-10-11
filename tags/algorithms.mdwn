@@ -1,0 +1,4 @@
+[[!meta title="pages tagged algorithms"]]
+
+[[!inline pages="tagged(algorithms)" actions="no" archive="yes"
+feedshow=10]]
