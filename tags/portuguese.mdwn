@@ -1,0 +1,4 @@
+[[!meta title="pages tagged portuguese"]]
+
+[[!inline pages="tagged(portuguese)" actions="no" archive="yes"
+feedshow=10]]
