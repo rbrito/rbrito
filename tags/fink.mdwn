@@ -1,0 +1,4 @@
+[[!meta title="pages tagged fink"]]
+
+[[!inline pages="tagged(fink)" actions="no" archive="yes"
+feedshow=10]]

@@ -18,4 +18,5 @@ Office suite:
 > don't you give it a try?"
 
 
-[[!tag  uncategorized]]
+[[!tag  free-software]]
+[[!tag  life]]

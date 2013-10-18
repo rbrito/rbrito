@@ -2,7 +2,7 @@
 Updated [lame](http://lame.sf.net/)'s Debian packaging a little
 bit. Now it correctly reports version 3.92. This closed a bug in
 [sourceforge](http://sf.net/projects/lame/). Some other changes are
-on the pipeline (like getting rid of the dreaded rpath, with
+on the pipeline (like getting rid of the dreaded `rpath`, with
 [a recipe](http://lists.debian.org/debian-devel/2002/debian-devel-200207/msg01792.html)
 I got from [debian-devel](http://lists.debian.org/debian-devel/)).
 The only thing remaining is to test it on x86 and powerpc before I
@@ -12,4 +12,10 @@ Worked a little bit (well, not *that* little) on my Master's
 thesis, fixing the beginnings of chapter 2.
 
 
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  free-software]]
+[[!tag  lame]]
+[[!tag  life]]
+[[!tag  linux]]
+[[!tag  powerpc]]
+[[!tag  study]]

@@ -19,8 +19,13 @@ etc
 
 Saw that [Limewire](http://www.limewire.com/) is uploaded to
 Debian's incoming repository, which is cool. Also discovered this
-[muttprint](http://muttprint.sf.net/) package, which sounds
+[`muttprint`](http://muttprint.sf.net/) package, which sounds
 promising. Packaged for Debian also, of course.
 
 
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  fink]]
+[[!tag  free-software]]
+[[!tag  life]]
+[[!tag  macosx]]
+[[!tag  study]]

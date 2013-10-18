@@ -37,4 +37,8 @@ be ashamed of his comments. But then, again, it isn't uncommon for
 people driven by money being, ahem, how can I say, "dishonest".
 
 
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  free-software]]
+[[!tag  macosx]]
+[[!tag  multimedia]]
+[[!tag  python]]

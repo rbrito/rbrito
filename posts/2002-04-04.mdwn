@@ -33,4 +33,11 @@ And a new version of [Blackdown](http://www.blackdown.org/)'s Java
 is available for Linux, including PPC.
 
 
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  free-software]]
+[[!tag  harware]]
+[[!tag  java]]
+[[!tag  life]]
+[[!tag  linux]]
+[[!tag  music]]
+[[!tag  powerpc]]
