@@ -1,0 +1,44 @@
+[[!meta title="Quick tip #1"]]
+[[!meta date="Fri, 18 Oct 2013 12:49:09 -0300"]]
+
+I wrote the following as part of a post to an discussion forum (I can't
+remember which one), and people told me that they liked this information and
+said that others would profit from it if I posted it on my blog, which I now
+decided to post.
+
+The context: for homework of one [[!wikipedia MOOC]], people were trying to
+download a large virtual machine image that was offered both via an official
+HTTP source, which was slow.
+
+A person volunteered that already had downloaded the image volunteered to
+create a bittorrent to help fellow students.
+
+Other students started saying that the bittorrent download was faster up to
+a certain point and, then, things slowed down a lot. Of course, they got
+faster to the point where lots of pieces were already well distributed and,
+then, only the everybody had already downloaded things and, then, only the
+seeder had the missing segments of the torrent.
+
+Then I commented with:
+
+----
+
+Depending on your bittorrent client, you can add the original HTTP
+download as a "Web seed" and, this way, your client will download *both*
+from the peers and also from the web to fill in parts that are not yet
+available.
+
+One such client is the Free (as in Freedom) [qbittorrent][1], but I guess that
+others also have this option.
+
+----
+
+Soon after that, people started downloading things much faster.
+
+
+[1]: http://qbittorrent.sf.net/
+
+[[!tag debian]]
+[[!tag free-software]]
+[[!tag mooc]]
+[[!tag quick-tip]]
