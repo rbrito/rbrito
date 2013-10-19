@@ -1,4 +1,7 @@
 [[!meta  date="2002-08-22"]]
+
+[[!mathjax]]
+
 Learned today that the "Four Russians' Method" applied to dynamic
 programming is able to achieve a complexity of $O(n^2/log n)$, which
 is a theoretical improvement over the classic dynamic programming
