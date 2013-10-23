@@ -86,7 +86,7 @@ Expect a new version of `youtube-dl` to be uploaded soon to Debian unstable.
 
 It is so nice to see the music that I like getting better. It was
 particularly pleasant to [see][2] [[!wikipedia Tarja Turunen]] being joined
-on stage by [[!Floor Jansen]].
+on stage by [[!wikipedia Floor Jansen]].
 
 [2]: https://www.youtu.be/hAnVFJFmFx8
 
