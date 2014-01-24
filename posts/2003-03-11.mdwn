@@ -13,4 +13,7 @@ And [sarge](http://www.debian.org/releases/sarge/) is being updated
 again. Hooray
 
 
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  free-software]]
+[[!tag  study]]
+[[!tag  life]]

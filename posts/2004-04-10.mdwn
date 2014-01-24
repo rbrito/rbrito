@@ -21,4 +21,8 @@ make life with [TeX](http://www.tug.org/) and
 [Emacs](http://www.emacswiki.org/) much easier.
 
 
-[[!tag  uncategorized]]
+[[!tag  free-software]]
+[[!tag  emacs]]
+[[!tag  tex]]
+[[!tag  latex]]
+[[!tag  debian]]

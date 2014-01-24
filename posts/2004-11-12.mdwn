@@ -9,4 +9,10 @@ problems?
 [instabilities while running Linux](http://lkml.org/lkml/2004/11/7/96).
 
 
-[[!tag  uncategorized]]
+[[!tag  free-software]]
+[[!tag  hardware]]
+[[!tag  life]]
+[[!tag  linux]]
+[[!tag  phd]]
+[[!tag  study]]
+[[!tag  toefl]]

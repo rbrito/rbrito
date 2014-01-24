@@ -1,7 +1,8 @@
 [[!meta  date="2003-03-12"]]
-I have to finish the 5th chapter of my dissertation.
-I have to finish the 5th chapter of my dissertation.
-I have to finish the 5th chapter of my dissertation.
+I have to finish the 5th chapter of my dissertation.<br>
+I have to finish the 5th chapter of my dissertation.<br>
+I have to finish the 5th chapter of my dissertation.<br>
 
 
-[[!tag  uncategorized]]
+[[!tag  study]]
+[[!tag  life]]

@@ -47,4 +47,12 @@ back in love with Elementary Number Theory. If only Elementary
 Number Theory liked me...
 
 
-[[!tag  uncategorized]]
+[[!tag  apple]]
+[[!tag  debian]]
+[[!tag  free-software]]
+[[!tag  java]]
+[[!tag  latex]]
+[[!tag  phd]]
+[[!tag  studies]]
+[[!tag  toefl]]
+[[!tag  ubuntu]]

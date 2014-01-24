@@ -13,4 +13,8 @@ I also updated [my mini-tour](../latex/index.html) for making
 presentations in LaTeX with PPower4.
 
 
-[[!tag  uncategorized]]
+[[!tag  life]]
+[[!tag  debian]]
+[[!tag  free-software]]
+[[!tag  java]]
+[[!tag  latex]]
