@@ -1,0 +1,4 @@
+[[!meta title="pages tagged teaching"]]
+
+[[!inline pages="tagged(teaching)" actions="no" archive="yes"
+feedshow=10]]
