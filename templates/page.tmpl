@@ -40,29 +40,9 @@
 </span>
 <span class="title">
 <TMPL_VAR TITLE>
-<TMPL_IF ISTRANSLATION>
-&nbsp;(<TMPL_VAR PERCENTTRANSLATED>%)
-</TMPL_IF>
 </span>
 </span>
 </header>
-
-<TMPL_IF OTHERLANGUAGES>
-<nav id="otherlanguages">
-<ul>
-<TMPL_LOOP OTHERLANGUAGES>
-<li>
-<a href="<TMPL_VAR URL>"><TMPL_VAR LANGUAGE></a>
-<TMPL_IF MASTER>
-(master)
-<TMPL_ELSE>
-&nbsp;(<TMPL_VAR PERCENT>%)
-</TMPL_IF>
-</li>
-</TMPL_LOOP>
-</ul>
-</nav>
-</TMPL_IF>
 
 <TMPL_VAR TRAILS>
 
