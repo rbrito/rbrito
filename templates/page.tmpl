@@ -1,11 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<TMPL_IF DYNAMIC>
-<TMPL_IF FORCEBASEURL><base href="<TMPL_VAR FORCEBASEURL>" /><TMPL_ELSE>
-<TMPL_IF BASEURL><base href="<TMPL_VAR BASEURL>" /></TMPL_IF>
-</TMPL_IF>
-</TMPL_IF>
 <meta charset="utf-8" />
 <title><TMPL_VAR TITLE></title>
 <TMPL_IF FAVICON>
@@ -16,9 +11,6 @@
 <link rel="stylesheet" href="<TMPL_VAR BASEURL><TMPL_VAR LOCAL_CSS>" type="text/css" />
 <TMPL_ELSE>
 <link rel="stylesheet" href="<TMPL_VAR BASEURL>local.css" type="text/css" />
-</TMPL_IF>
-<TMPL_IF EDITURL>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="<TMPL_VAR EDITURL>" />
 </TMPL_IF>
 <TMPL_IF FEEDLINKS><TMPL_VAR FEEDLINKS></TMPL_IF>
 <TMPL_IF RELVCS><TMPL_VAR RELVCS></TMPL_IF>
@@ -53,44 +45,7 @@
 </TMPL_IF>
 </span>
 </span>
-<TMPL_IF SEARCHFORM>
-<TMPL_VAR SEARCHFORM>
-</TMPL_IF>
 </header>
-
-<TMPL_IF HAVE_ACTIONS>
-<nav class="actions">
-<ul>
-<TMPL_IF EDITURL>
-<li><a href="<TMPL_VAR EDITURL>" rel="nofollow">Edit</a></li>
-</TMPL_IF>
-<TMPL_IF RECENTCHANGESURL>
-<li><a href="<TMPL_VAR RECENTCHANGESURL>">RecentChanges</a></li>
-</TMPL_IF>
-<TMPL_IF HISTORYURL>
-<li><a href="<TMPL_VAR HISTORYURL>">History</a></li>
-</TMPL_IF>
-<TMPL_IF GETSOURCEURL>
-<li><a href="<TMPL_VAR GETSOURCEURL>">Source</a></li>
-</TMPL_IF>
-<TMPL_IF PREFSURL>
-<li><a href="<TMPL_VAR PREFSURL>">Preferences</a></li>
-</TMPL_IF>
-<TMPL_IF ACTIONS>
-<TMPL_LOOP ACTIONS>
-<li><TMPL_VAR ACTION></li>
-</TMPL_LOOP>
-</TMPL_IF>
-<TMPL_IF COMMENTSLINK>
-<li><TMPL_VAR COMMENTSLINK></li>
-<TMPL_ELSE>
-<TMPL_IF DISCUSSIONLINK>
-<li><TMPL_VAR DISCUSSIONLINK></li>
-</TMPL_IF>
-</TMPL_IF>
-</ul>
-</nav>
-</TMPL_IF>
 
 <TMPL_IF OTHERLANGUAGES>
 <nav id="otherlanguages">
@@ -124,21 +79,6 @@
 <section id="content">
 <TMPL_VAR CONTENT>
 </section>
-
-<TMPL_UNLESS DYNAMIC>
-<TMPL_IF COMMENTS>
-<section id="comments">
-<TMPL_VAR COMMENTS>
-<TMPL_IF ADDCOMMENTURL>
-<div class="addcomment">
-<a href="<TMPL_VAR ADDCOMMENTURL>">Add a comment</a>
-</div>
-<TMPL_ELSE>
-<div class="addcomment">Comments on this page are closed.</div>
-</TMPL_IF>
-</section>
-</TMPL_IF>
-</TMPL_UNLESS>
 
 <div id="comments">
 <TMPL_IF DISQUS>
