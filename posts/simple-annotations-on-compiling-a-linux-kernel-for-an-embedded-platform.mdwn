@@ -16,7 +16,7 @@ future).
   console" called a netconsole. It can be enabled with the options: is quite
   handy to see how the machine is booting with a "virtual console" called a
   netconsole. It can be enabled with the options:
-  
+
         CONFIG_NETCONSOLE=y
         CONFIG_NETPOLL=y
         CONFIG_NET_POLL_CONTROLLER=y
@@ -84,20 +84,20 @@ compiling all and modules.
 * Something that is handy, no matter what size your machine has: the use of
   ext4 (and, in particular, delayed allocation) with ext{2,3}
   filesystems. To use it, just put this in your kernel configuration file:
-  
+
         CONFIG_EXT4_USE_FOR_EXT23=y
 
 * Support for daemons like avr-evtd, that need access to a serial port (so
   that the user can turn off the device by pressing the power button),
   enable:
-  
+
         CONFIG_SERIO=y
         CONFIG_SERIO_SERPORT=y
         CONFIG_SERIAL_8250=y
 
   Otherwise, you will always have to ssh into the system, become root, and
   issue something like:
-  
+
         shutdown -h now
 
   which is an inconvenience.

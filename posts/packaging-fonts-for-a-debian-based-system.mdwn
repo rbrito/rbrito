@@ -11,18 +11,18 @@ some that, I think, deserve to be mentioned:
 
 * [ParaType Sans][0]: this typeface family consists of a set of proportional,
   sans-serif fonts that supply a lot of Cyrillic glyphs.
-  
+
   **Purpose**: the intention of this font is that of supporting many of the
   smaller ethnic and cultural aspects present in Russia. It was even funded
   by the Russian Government: in particular, by the
   [Federal Agency for Press and Mass Communications of the Russian Federation][1].
-  
+
   **Why you should care**: for those (like me) that use a Latin-based
   alphabet, the fonts also have some nice attractives, like, besides the
   usual 4 shape/weight combinations (regular, italic, bold, bold italic),
   two other variants: PT Sans Narrow (with its respective bold) and PT Sans
   Caption (also with bold).
-  
+
   On top of that, the fonts support ligatures (liga, dlig), fractions
   (frac), ordinals (ordn), and glyph composition (ccmp), among *other*
   OpenType features.
@@ -30,18 +30,18 @@ some that, I think, deserve to be mentioned:
 * [Anonymous Pro][2]: this typeface family consists of a set of fixed-width
   fonts with the usual 4 shape/weight combinations (regular, italic, bold,
   bold italic).
-  
+
   **Purpose**: Anonymous Pro was made with people that stare at a computer
   screen, coding for long amounts of time, or people that use a terminal all
   the time.  Apart from being scalable, it also features some pre-made
   bitmap versions at some sizes (10, 11, 12, and 13), so that they should
   look better than some automatically drawn font without proper
   [TrueType hinting][3].
-  
+
   My package still is not good enough, as I have not yet included explicit
   support for the bitmapped sizes via some fontconfig configuration, but I
   expect to fix those in two or three days.
-  
+
   (This should just be a matter of including something like
 
         <edit name="embeddedbitmap" mode="assign">
@@ -49,17 +49,17 @@ some that, I think, deserve to be mentioned:
         </edit>
 
   in the configuration that I ship with the fonts).
-  
+
 * [Cardo][4]: this is produced by David Perry and it is a proportional,
   serif, old-style typeface similar to some highly regarded fonts like
   Bembo. It does not offer italic, or bold versions.
-  
+
   **Purpose**: Cardo's target "audience" are scholars that need to type set
   Medieval texts, it has *many* glyphs, support for many opentype features
   and the author has told me that he may even provide some support for
   typesetting Mathematics (and this *is* a very big deal, since typesetting
   Mathematics is hard enough when you decide to change your typefaces).
-  
+
   It works quite well with Jonathan Kew's [XeTeX][5] and you should just try
   it, especially if you are into serif fonts (like I am).
 
@@ -76,16 +76,16 @@ some that, I think, deserve to be mentioned:
 
 * [Linux Libertine][7]: this has to be one of the most beautiful fonts that
   I have see in a while. It has the basic four combinations of a serif font
-  
+
   **Purpose**: to provide a beautiful, "organic" version of a typeface that
   can substitute Times/Times New Roman. It works well both with "regular"
   latex/pdflatex and with XeTeX (and, quite probably, with LuaTeX). It has
   quite a lot of OpenType features:
-  
+
         rbrito:~$ otfinfo -f /usr/share/fonts/truetype/linux-libertine/LinLibertine_Re.ttf | wc -l
         25
         rbrito:~$
-  
+
   OK, I can't be impartial with this font. It is beautiful. It is a pity
   that we are in a feature freeze and that a the new version
   [won't probably be included in squeeze][8].
@@ -96,18 +96,18 @@ some that, I think, deserve to be mentioned:
   Then comes Andrey Panov's Heuristica, a modified version of the four basic
   typefaces that Adobe donated, in OpenType format (and, to boot, some
   [nice scripts for fontforge][13]).
-  
+
   **Purpose**: Heuristica improves Utopia with the primary intent of adding
   Cyrillic symbols by Andrey V. Panov. Andrey has also incorporated
   Vietnamese glyphs made available by Hàn Thế Thành. Heuristica is a family
   that features regular and italic shapes, with both being present also in
   bold weight.
- 
+
 
 Well, that's it for now. Stay tuned for more to come.
 
-  
-[*]: https://launchpad.net/~rbrito/+archive/ppa/  
+
+[*]: https://launchpad.net/~rbrito/+archive/ppa/
 [0]: http://www.paratype.com/public/
 [1]: http://en.wikipedia.org/wiki/Federal_Agency_on_Press_and_Mass_Communications
 [2]: http://www.ms-studio.com/FontSales/anonymouspro.html

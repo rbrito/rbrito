@@ -13,7 +13,7 @@ repository.
 
         git cvsimport -v -a -A /tmp/lame-authors.txt -k -m -d \
             :ext:rbrito@lame.cvs.sourceforge.net:/cvsroot/lame lame
- 
+
    The command above will create your clone of the CVS repository in the
    current directory which we suppose, for the sake of this discussion, is
    `/tmp/gitified`.
@@ -23,9 +23,9 @@ repository.
 
 2. Create a checkout of the CVS repository for CVS work stuff (I'm checking
    out things under `/tmp`):
- 
+
         cvs -z3 -d:ext:rbrito@lame.cvs.sourceforge.net:/cvsroot/lame checkout lame
-  
+
    This will create your CVS checkout on the directory `/tmp/lame`, assuming
    that you are working under `/tmp`, as I do.
 
@@ -38,10 +38,10 @@ repository.
         export GIT_DIR=/tmp/gitified/.git
         cd /tmp/lame
         git cherry origin master | sed -n 's/^+ //p' | xargs -l1 git cvsexportcommit -c -p -v
-    
+
    This will automatically check in all the commits that you have made in
    the previous step.
-  
+
 # Continuing your work afterwards
 
 5. First, discard your commits in your git repository, so that you don't get

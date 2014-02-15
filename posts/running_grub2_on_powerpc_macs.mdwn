@@ -173,7 +173,7 @@ There are one two important points here that deserve more comments:
   zero. For instance, in the case above of the variable `root`, we have
   `(hd,apple7)`, while in a "common PC" we would have the `(hd` part
   replaced with `(hd0`.
-  
+
   That's something that you should make your distribution aware of, if they
   aren't yet.
 
@@ -185,12 +185,12 @@ There are one two important points here that deserve more comments:
   root of your filesystem (i.e., the partition that holds `/`), but the
   *device* that everything that is "not fully qualified" is interpreted as
   being relative to.
-  
+
   The "not fully qualified" above means anything that is not prefixed with
   [GRUB's device notation](http://www.gnu.org/software/grub/manual/grub.html#Device-syntax).
   As an example, `(hd,apple2)/boot/vmlinux` if fully qualified for GRUB's
   purpose, while `/boot/vmlinux` is not.
-  
+
 
 ## Putting it all together
 

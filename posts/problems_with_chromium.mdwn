@@ -43,7 +43,7 @@ What are my reasons for staying with Iceweasel, and not with Chromium?
 
 I would be satisfied if any of the above were fixed or better documented,
 but it seems that some of those are, at best, going to wait a long time.
-  
+
 [0]: https://lists.debian.org/debian-release/2010/09/msg00610.html
 [1]: http://packages.qa.debian.org/c/chromium-browser.html
 [2]: https://launchpad.net/~chromium-daily/+archive/ppa
