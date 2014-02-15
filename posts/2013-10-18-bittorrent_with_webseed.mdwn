@@ -23,13 +23,13 @@ Then I commented with:
 
 ----
 
-Depending on your bittorrent client, you can add the original HTTP
-download as a "Web seed" and, this way, your client will download *both*
-from the peers and also from the web to fill in parts that are not yet
-available.
+> Depending on your bittorrent client, you can add the original HTTP
+> download as a "Web seed" and, this way, your client will download *both*
+> from the peers and also from the web to fill in parts that are not yet
+> available.
 
-One such client is the Free (as in Freedom) [qbittorrent][1], but I guess that
-others also have this option.
+> One such client is the Free (as in Freedom) [qbittorrent][1], but I guess
+> that others also have this option.
 
 ----
 

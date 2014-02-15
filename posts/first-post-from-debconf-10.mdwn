@@ -1,20 +1,46 @@
 [[!meta  title="First post from DebConf 10"]]
 [[!meta  date="2010-08-03 06:09:46"]]
-Even though I am late with this post, it is nice to say that I am writing here from this year's DebConf10, in NYC.
 
-Today (well, yesterday) was the day of the Cheese and Wine party and I think that it was cool, at least for the moments that I were there. This post, though, isn't technical in any sense. I only talks shortly about my impressions of the community, as this is my first DebConf ever (despite the fact that I have been using Debian since the late nineties).
+Even though I am late with this post, it is nice to say that I am writing
+here from this year's DebConf10, in NYC.
 
-I was very pleased to have met Bdale Garbee. I saw him the other day arriving with Keith Packard, but I just didn't want to disturb them at that point. We only talked for, say, 2 minutes, and his was one of the nicest receptions that I had here.
+Today (well, yesterday) was the day of the Cheese and Wine party and I think
+that it was cool, at least for the moments that I were there. This post,
+though, isn't technical in any sense. I only talks shortly about my
+impressions of the community, as this is my first DebConf ever (despite the
+fact that I have been using Debian since the late nineties).
 
-And there were some other people that were equally easy to approach, nice to talk with and, to my surprise, knew my name after some brief moments (yes, this <em>does</em> make a difference, especially when you are in a strange country, when you don't know anybody with whom you have worked for some years). Being involved in the organization stuff, one would think that Jimmy Kaplowitz would be so busy, but he was so kind.
+I was very pleased to have met Bdale Garbee. I saw him the other day
+arriving with Keith Packard, but I just didn't want to disturb them at that
+point. We only talked for, say, 2 minutes, and his was one of the nicest
+receptions that I had here.
 
-I had longer conversations with Tássia Camões, Tiago Vaz (as always) and some other people that I had not yet had the pleasure of meeting in person. In particular, Daniel Baumann (who apparently is now crazy about our FISL and wants to drink all Guaraná that he can get <code>:-)</code>), Chris Lamb and Otávio Salvador and his mom. Those people are so cool and it is nice to discuss some legal issues among different continents in the lounge of their building at late night. <code>:-)</code> Too bad that I am allocated to the other building. <code>:-)</code>
+And there were some other people that were equally easy to approach, nice to
+talk with and, to my surprise, knew my name after some brief moments (yes,
+this *does* make a difference, especially when you are in a strange country,
+when you don't know anybody with whom you have worked for some years). Being
+involved in the organization stuff, one would think that Jimmy Kaplowitz
+would be so busy, but he was so kind.
 
-I <em>am</em> forgetting many other people (hey, it is 2 am here in NYC), but I would feel guilty if I had not mentioned at least three people more: Martin Michlmayr, Phil Hands, and Reinhard Tartler (who is uploading lame to the debian repository, as the patents regarding it are expiring or expired already).
+I had longer conversations with Tássia Camões, Tiago Vaz (as always) and
+some other people that I had not yet had the pleasure of meeting in
+person. In particular, Daniel Baumann (who apparently is now crazy about our
+FISL and wants to drink all Guaraná that he can get :-)), Chris Lamb and
+Otávio Salvador and his mom. Those people are so cool and it is nice to
+discuss some legal issues among different continents in the lounge of their
+building at late night. :-) Too bad that I am allocated to the other
+building. :-)
+
+I *am* forgetting many other people (hey, it is 2 am here in NYC), but I
+would feel guilty if I had not mentioned at least three people more: Martin
+Michlmayr, Phil Hands, and Reinhard Tartler (who is uploading lame to the
+debian repository, as the patents regarding it are expiring or expired
+already).
 
 Thanks!
 
-P.S.: I just created an account on flickr that I hope to populate with some photos that I took here. And even with a nice squirrel. <code>:-)</code>
+P.S.: I just created an account on flickr that I hope to populate with some
+photos that I took here. And even with a nice squirrel. :-)
 
 [[!tag  debian]]
 [[!tag  development]]
