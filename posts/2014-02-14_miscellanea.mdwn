@@ -37,10 +37,10 @@ I welcome a well done integration job).
 # More polarizing things
 
 I feel that, now, I may even have some hope of sending another
-[potentially polarizing][1] bug to the Tech Ctte (that is ffmpeg vs. libav)
+[potentially polarizing][3] bug to the Tech Ctte (that is ffmpeg vs. libav)
 and have faith that some rational decision would be made.
 
-[1]: https://bugs.debian.org/729203
+[3]: https://bugs.debian.org/729203
 
 I was not even aware of it, but the ffmpeg folks even
 [featured a news item in their page][1] of me having filed the RFP bug
