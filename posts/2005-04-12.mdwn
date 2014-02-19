@@ -1,29 +1,32 @@
 [[!meta  date="2005-04-12"]]
-After installing the NewerTech G3 upgrade card into the PowerMac
-9500/180MP, I had some problems, when I tried to install
-[Debian](http://www.debian.org/). None of the sarge floppies would
-work and I eventually decided to get rid of any traces of MacOS and
-installed using the woody floppies. The problem is that the kernel
-2.2.20 that comes with woody ins't able to see both PCI buses,
-especially the one where the video card is sitting on. I had to
-grab a kernel from testing's repository, but I don't like
-distribution kernels, for they are way too bloated.
+After installing the NewerTech G3 upgrade card into the PowerMac 9500/180MP,
+I had some problems, when I tried to install
+[Debian](http://www.debian.org/).
 
-Note to self: when replacing the zImage on the HFS boot floppy, one
-has to use the vmlinux image compressed with gzip, like this:
+None of the sarge floppies would work and I eventually decided to get rid of
+any traces of MacOS and installed using the woody floppies. The problem is
+that the kernel 2.2.20 that comes with woody ins't able to see both PCI
+buses, especially the one where the video card is sitting on. I had to grab
+a kernel from testing's repository, but I don't like distribution kernels,
+for they are way too bloated.
 
->          gzip -9 vmlinux
->              hmount /dev/fd0
->          hcopy vmlinux.gz :zImage
->          humount /dev/fd0
->
+Note to self: when replacing the `zImage` on the HFS boot floppy, one
+has to use the vmlinux image compressed with `gzip`, like this:
 
-No other image that I tried worked. But it was nice to
-(re)-discover how one makes a boot floppy for an OldWorld Mac.
+    gzip -9 vmlinux
+    hmount /dev/fd0
+    hcopy vmlinux.gz :zImage
+    humount /dev/fd0
 
-P.S.: Today, [Apple](http://www.apple.com/) announced the next
-upgrade of [MacOS X](http://www.apple.com/macosx/), code named
-"Tiger".
+No other image that I tried worked. But it was nice to (re)-discover how one
+makes a boot floppy for an OldWorld Mac.
 
+P.S.: Today, [Apple](http://www.apple.com/) announced the next upgrade of
+[MacOS X](http://www.apple.com/macosx/), code named "Tiger".
 
-[[!tag  uncategorized]]
+[[!tag  apple]]
+[[!tag  debian]]
+[[!tag  free-software]]
+[[!tag  hardware]]
+[[!tag  macosx]]
+[[!tag  powerpc]]

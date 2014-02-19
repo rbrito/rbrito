@@ -5,5 +5,7 @@ fact that they use [subversion](http://subversion.tigris.org/) as
 an option to CVS was a big plus on deciding where to host the
 project.
 
-
-[[!tag  uncategorized]]
+[[!tag  cvs]]
+[[!tag  debian]]
+[[!tag  free-software]]
+[[!tag  latex]]

@@ -16,4 +16,8 @@ Then, I will surely be playing with
 [sarge](http://www.debian.org/releases/sarge).
 
 
-[[!tag  uncategorized]]
+[[!tag  apple]]
+[[!tag  debian]]
+[[!tag  free-software]]
+[[!tag  hardware]]
+[[!tag  powerpc]]

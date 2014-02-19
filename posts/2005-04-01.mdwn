@@ -5,5 +5,5 @@ that is broadcast via media. The good news, though, is that
 has now upgraded the storage it allows for its accounts to 2GB,
 which is not too bad.
 
-
-[[!tag  uncategorized]]
+[[!tag  google]]
+[[!tag  life]]

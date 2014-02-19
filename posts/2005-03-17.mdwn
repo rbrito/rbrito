@@ -9,7 +9,7 @@ Also, it seems that finally [Adobe](http://www.adobe.com/) has
 understood that the scientific community uses Unix and they have
 released
 [Acrobat/Adobe Reader 7.0](ftp://ftp.adobe.com/pub/adobe/reader/unix/7x/7.0/enu/)
-for Linux, with widgets with [Gtk 2.0](http://www.gtk.org/). TrÃ¨s
+for Linux, with widgets with [Gtk 2.0](http://www.gtk.org/). Trés
 cool.
 
 BTW, I have stopped reading on Graph Theory just for a tiny bit to
@@ -17,5 +17,9 @@ learn things on Abstract Algebra. I want to study algebraic
 properties of graphs and, for that, I have to get my rusty algebra
 in shape. Also, some Linear Algebra wouldn't hurt.
 
-
-[[!tag  uncategorized]]
+[[!tag  abstract-algebra]]
+[[!tag  free-software]]
+[[!tag  graph-theory]]
+[[!tag  latex]]
+[[!tag  linux]]
+[[!tag  study]]
