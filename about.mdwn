@@ -1,12 +1,18 @@
-[[!meta  title="About Me"]]
-[[!meta  date="2009-12-30 14:46:28"]]
+[[!meta  title="About"]]
+[[!meta  date="2007-04-22 17:24:57"]]
 
-# About this blog and me
+# About my site and me
 
 This blog is just a way to collect thoughts and discoveries regarding my use
 of Free Software, Mathematics (it also includes some personal notes, of
 course).  Some of the content here will be related to TeX (and siblings) and
 some will be related to me hacking on some piece of software.
+
+This site is an excellent opportunity to "vent" some opinions. Some, quite
+controversial. Sometimes, only observations. Things that I've learned about Mathematics (and I
+hope to be "somebody" before I die). Short or cool proofs that I discovered
+and that I wanted to publish (even though they may be well-known by the
+entire mathematical community).
 
 Rearding me, I am an Instructor of Computer Science at
 "[Universidade Presbiteriana Mackenzie](http://www.mackenzie.br)", São
@@ -15,6 +21,11 @@ Debian Maintainer and I am *highly* interested in Free Software, with
 [Debian](http://www.debian.org)-based systems being my primary interest.
 
 # Me on the "interwebs"
+
+I have what one could call a "sizeable web presence". Please, do note that I
+have quite a few homonyms, but if you search for my complete name, then I
+only know of me.  That being said, you can find me in many places,
+including:
 
 * [Ask Debian](http://ask.debian.net/users/rbrito)
 * [Debian](http://qa.debian.org/developer.php?login=rbrito%40ime.usp.br)
