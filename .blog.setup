@@ -330,5 +330,6 @@ use IkiWiki::Setup::Standard {
 	#
 	# Example:
 	#  disqus_skip_patterns => [ qr(^index$), qr(^posts$), qr(^tags/) ],
-	disqus_skip_patterns => [ ],
+	disqus_skip_patterns => [ qr(^index$), qr(^posts$), qr(^tags/) ],
+	# disqus_skip_patterns => [ ],
 }
