@@ -23,15 +23,6 @@ use IkiWiki::Setup::Standard {
 	# rcs backend to use
 	rcs => 'git',
 
-	## Disqus plugin
-	# Your disqus forum "shortname"
-	disqus_shortname => 'digitaljunkyard',
-	# A list of regular expressions matching pages that should
-	# not have the disqus comments placed on them.
-	#
-	# Example:
-	#  disqus_skip_patterns => [ qr(^index$), qr(^posts$), qr(^tags/) ],
-	disqus_skip_patterns => [ ],
 	# plugins to add to the default configuration
 	add_plugins => ['goodstuff', 'theme', 'sidebar', 'tag', 'template', 'format', 'highlight', 'mathjax', 'disqus'],
 	# plugins to disable
@@ -325,4 +316,19 @@ use IkiWiki::Setup::Standard {
 	# underlay plugin
 	# extra underlay directories to add
 	#add_underlays => [qw{/home/rbrito/wiki.underlay}],
+
+
+	######################################################################
+	# third-party plugins
+	######################################################################
+
+	# Disqus plugin
+	# Your disqus forum "shortname"
+	disqus_shortname => 'digitaljunkyard',
+	# A list of regular expressions matching pages that should
+	# not have the disqus comments placed on them.
+	#
+	# Example:
+	#  disqus_skip_patterns => [ qr(^index$), qr(^posts$), qr(^tags/) ],
+	disqus_skip_patterns => [ ],
 }
