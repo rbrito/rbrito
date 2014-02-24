@@ -73,7 +73,7 @@ p_n & p_{n-1}\\
 q_n & q_{n-1}
 \end{bmatrix}.
 \]
-As a corollary, derive Cassini's identity for the Fibonacci Numbers.﻿
+As a corollary, derive Cassini's identity for the Fibonacci Numbers.
 
 <br />
 
