@@ -11,4 +11,4 @@
   bb_limit = "6";
   bb_format = "bbn";
 </script>
-<script type="text/javascript" src="http://static.boo-box.com/javascripts/embed.js"></script>
+<script async type="text/javascript" src="http://static.boo-box.com/javascripts/embed.js"></script>
