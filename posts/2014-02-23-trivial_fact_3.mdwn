@@ -70,7 +70,7 @@ a_n & 1\\
  =
 \begin{bmatrix}
 p_n & p_{n-1}\\
-q_n & q_{n_1}a_1 & 1
+q_n & q_{n-1}
 \end{bmatrix}.
 \]
 As a corollary, derive Cassini's identity for the Fibonacci Numbers.﻿
@@ -78,6 +78,8 @@ As a corollary, derive Cassini's identity for the Fibonacci Numbers.﻿
 <br />
 
 Please, if you any errors on this, please let me know so that I can fix it.
+
+***Edit:*** Thanks "noone" for spotting a typographical error.
 
 [*]: https://github.com/rbrito/ikiwiki-plugin-mathjax
 [0]: http://wstein.org/
