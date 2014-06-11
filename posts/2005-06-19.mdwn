@@ -38,4 +38,7 @@ In other news, Linus released a new
 [kernel](http://www.kernel.org), 2.6.12.
 
 
-[[!tag  uncategorized]]
+[[!tag  free-software]]
+[[!tag  latex]]
+[[!tag  life]]
+[[!tag  linux]]

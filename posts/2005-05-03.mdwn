@@ -9,4 +9,5 @@ my favourite Operating System is being released again! Sooo
 sweeeet!
 
 
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  free-software]]

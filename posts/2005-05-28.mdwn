@@ -21,4 +21,7 @@ especially for using (faster, modern) IDE HDs, all this being able
 to just use a single slot of the machine.
 
 
-[[!tag  uncategorized]]
+[[!tag  apple]]
+[[!tag  hardware]]
+[[!tag  macosx]]
+[[!tag  powerpc]]

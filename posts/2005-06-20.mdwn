@@ -18,4 +18,7 @@ don't forget to encrypt what you think is sensitive information).
 But it is a damn nice hack.
 
 
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  free-software]]
+[[!tag  life]]
+[[!tag  linux]]

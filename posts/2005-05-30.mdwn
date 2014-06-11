@@ -39,4 +39,7 @@ that I am again able to read my mail there (again via pop3). So
 nice that I can't even describe how happy I am.
 
 
-[[!tag  uncategorized]]
+[[!tag  free-software]]
+[[!tag  life]]
+[[!tag  linux]]
+[[!tag  music]]

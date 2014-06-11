@@ -21,4 +21,8 @@ which is (hopefully) one of the final stages towards kernel 2.6.12
 proper.
 
 
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  free-software]]
+[[!tag  hardware]]
+[[!tag  linux]]
+[[!tag  powerpc]]

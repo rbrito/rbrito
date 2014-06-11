@@ -21,4 +21,5 @@ It seems that
 unfortunately.
 
 
-[[!tag  uncategorized]]
+[[!tag  free-software]]
+[[!tag  latex]]

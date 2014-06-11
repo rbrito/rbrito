@@ -14,4 +14,6 @@ seems that not even [Crucial](http://www.crucial.com) has it
 available anymore. :-(
 
 
-[[!tag  uncategorized]]
+[[!tag  free-software]]
+[[!tag  hardware]]
+[[!tag  linux]]

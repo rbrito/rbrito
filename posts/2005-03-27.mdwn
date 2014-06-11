@@ -32,4 +32,5 @@ read (i.e., [comp.theory](news:comp.theory),
 and [sci.math](news:sci.math)).
 
 
-[[!tag  uncategorized]]
+[[!tag  life]]
+[[!tag  music]]
