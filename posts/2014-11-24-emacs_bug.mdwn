@@ -1,0 +1,111 @@
+[[!meta title="Problems with Emacs 24.4"]]
+[[!meta date="Mon, 24 Nov 2014 15:16:58 -0200"]]
+
+This is, essentially, a call for help, as I don't really know which program
+is at a fault here.
+
+Given that Emacs's upstream
+[converted their repository from bzr to git][bzr2git], all the commits in
+mirror repositories became "invalid" in relation to the official repository.
+
+[bzr2git]: http://permalink.gmane.org/gmane.emacs.devel/176760
+
+What does this mean in practical terms, in my case? Well, bear with me while
+I try to report my steps.
+
+# Noticing a regression and reporting a bug
+
+There is a regression with Emacs 24.4 relative to 24.3, which I discovered
+after Emacs 24.4 [became available in Debian's sid][emacs24sid].
+
+[emacs24sid]: https://packages.qa.debian.org/e/emacs24/news/20141025T214023Z.html
+
+The regression in particular is that Emacs 24.4 doesn't seem to respect my
+Xresources, while 24.3 does (and this is 100% reproducible: I kept the
+binary packages of version 24.3 of emacs24 and I can install and reinstall
+things).
+
+When I [reported this to upstream][report], I received a reply that it worked fine
+with another person that was using XFCE with unstable.
+
+[report]: http://debbugs.gnu.org/18902
+
+# Testing various Desktop environments
+
+As I am using the [MATE desktop environment][mate], I proceeded to test this
+assertion by installing XFCE. Emacs 24.4 read my Xresources. I went ahead
+and installed LXDE. It worked again.  I tried once more with GNOME 3, but
+"regular" GNOME 3 just crashed. I tried with GNOME 3 Classic and Emacs 24.4
+just worked again.
+
+[mate]: http://mate-desktop.org/
+
+# Going deep into the rabbit's hole
+
+Then, I got more curious and I tried to see why things worked the way that
+they did and given that there was a
+[mirror of the Emacs repo on github][githubmirror], I cloned it and started
+to `git bisect` to find the first problematic commit (I have no idea if
+`bzr` even offers something like `git`'s `bisect` and I wouldn't really know
+how to do it as quickly as I do with `git`).
+
+To cut short a long story, after many recompiles, many wasted hours, a lot
+of wasted electrical energy, [I found a bad commit][badcommit1] and
+[reported it][report2].
+
+[githubmirror]: https://github.com/emacs-mirror/emacs/
+[badcommit1]: https://github.com/emacs-mirror/emacs/commit/15e14b165dcbc6566a0459b0d5e66f89080f569e
+[report2]: http://debbugs.gnu.org/cgi/bugreport.cgi?bug=18902#14
+
+I received no response after that.
+
+# The new repo enters in action
+
+Of course, all my hard work bisecting things was completely invalidated
+after the transition to the new repository went live.
+
+To make things relevant again, I used the awesome powers of `git`,
+restricting the changes of the newly cloned repository to the e-mail of the
+committer in question (Chong Yidong) and, from there, I proceeded to another
+painful process of git bisects.
+
+And, sure enough, the [first bad commit][badcommit2] was the same one that I
+found with the previous tree.
+
+[badcommit2]: http://git.savannah.gnu.org/cgit/emacs.git/commit/?id=aac2b673c3083ab612bcd57fbcd9d370078bd8da
+
+Semi-blindly reverting this commit, and also semi-blindly resolving the
+conflicts make Emacs's from master work again on my system, but I highly
+suspect that (given the way that I did it), it would not really be
+appropriate for upstream.
+
+But given also that I failed to receive feedback after my original report, I
+am not too confident that this bug can be solved soon (even if it doesn't
+qualify for being fixed in Debian 8).
+
+After all this, I don't really know what else to do. I even
+[filed a bug report][bugmate] (more like a request for help) to the Debian
+MATE maintainers.
+
+As a side note, I would have filed a bug to upstream MATE, but it is not
+really clear what the proper procedure to report bugs to them is---they seem
+to use github's issues system, but given that they have separate
+repositories for each component of the project, and that I don't know
+precisely what repository to report to (or even if it applies to MATE after
+all), I am more or less paralyzed.
+
+[bugmate]: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=770781
+
+## A side note
+
+I must say that the conversion was well done by Eric Raymond, because the
+whole `.git` repository of the new repo is only about 200MB, with history
+going back to 1985, while the other repository had about 800GB.
+
+[[!tag bug]]
+[[!tag debian]]
+[[!tag emacs]]
+[[!tag free-software]]
+[[!tag git]]
+[[!tag github]]
+[[!tag mate-desktop]]
