@@ -1,0 +1,4 @@
+[[!meta title="pages tagged backups"]]
+
+[[!inline pages="tagged(backups)" actions="no" archive="yes"
+feedshow=10]]
