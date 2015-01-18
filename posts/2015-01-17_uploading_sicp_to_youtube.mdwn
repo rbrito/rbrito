@@ -1,0 +1,76 @@
+[[!meta title="Uploading SICP to Youtube"]]
+[[!meta date="Sat, 17 Jan 2015 23:52:14 -0200"]]
+
+# Intro
+
+I am [not alone][0] in considering [[!wikipedia Harold Abelson]] and
+[[!wikipedia Gerald Jay Sussman]]'s [recorded lectures][1] based on their
+book "[Structure and Interpretation of Computer Programs][2]" is a
+masterpiece.
+
+[0]: http://www.cs.berkeley.edu/~bh/sicp.html
+[1]: http://groups.csail.mit.edu/mac/classes/6.001/abelson-sussman-lectures/
+[2]: https://mitpress.mit.edu/sicp/full-text/book/book.html
+
+There are many things to like about the content of the lectures, beginning
+with some pearls and wisdom about the craft of writing software (even though
+this is not really a "software enginneering" book), the clarity with which
+the concepts are described, the [Freedom-friendly][3] aspects of the authors
+regarding the material that they produced and much, the breadth of the
+subjects covered and much more.
+
+[3]: https://mitpress.mit.edu/sicp/
+
+# The videos, their length, and splitting them
+
+The course consists of 20 [video files][4] and they are all uploaded on
+Youtube already.
+
+[4]: https://www.youtube.com/playlist?list=PLE18841CABEA24090
+
+There is one thing, though: while the lectures are naturally divided into
+segments (the instructors took a break in after every 30 minutes or so worth
+of lectures), the videos corresponding to each lecture have all the segments
+concatenated.
+
+To better watch them, accounting for the easier possibility to put a few of
+the lectures in a mobile device or to avoid fast forwarding long videos from
+my NAS when I am watching them on my TV (and some other factors), I decided
+to sit down, take notes for each video of where the breaks where, and write
+a simple Python script to help split the videos in segments, and, then,
+reencode the segments.
+
+I decided not to take the videos from Youtube to perform my splitting
+activities, but, instead, to operate on one of the "sources" that the
+authors once had in their homepage (videos encoded in DivX and audio in
+MP3).  The videos are still available as a torrent file (with a magnet link
+for the hash [`650704e4439d7857a33fe4e32bcfdc2cb1db34db`][hash]), with some
+very good souls still seeding it (I can seed it too, if desired).  Alas, I
+have not found a source for the higher quality MPEG1 videos, but I think
+that the videos are legible enough to avoid bothering with a larger
+download.
+
+[hash]: magnet:?xt=urn:btih:650704e4439d7857a33fe4e32bcfdc2cb1db34db
+
+I soon found out that there are some beneficial side-effects of splitting
+the videos, like not having to edit/equalize the entire audio of the videos
+when only a segment was bad (which is understandable, as these lectures were
+recorded almost 30 years ago and technology was not as advanced as things
+are today).
+
+So, since I already have the split videos lying around here, I figured out
+that, perhaps, other people may want to download them, as they may be more
+convenient to watch (say, during commutes or whatever/whenever/wherever it
+best suits them).
+
+Of course, uploading all the videos is going to take a while and I would
+only do it if people would really benefit from them.  If you think so, let
+me know here (or if you know someone who would like the split version of the
+videos, spread the word).
+
+
+[[!tag debian]]
+[[!tag free-software]]
+[[!tag programming]]
+[[!tag study]]
+[[!tag video]]
