@@ -17,4 +17,9 @@ purposes with the videos that I already have encoded.
 Oh, yes, still encoding videos. It is quite slow.
 
 
-[[!tag  uncategorized]]
+[[!tag  audio]]
+[[!tag  debian]]
+[[!tag  dvds]]
+[[!tag  free-software]]
+[[!tag  life]]
+[[!tag  video]]

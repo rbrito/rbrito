@@ -12,4 +12,7 @@ by the authors themselves and they are definitely worth the
 download.
 
 
-[[!tag  uncategorized]]
+[[!tag  life]]
+[[!tag  programming]]
+[[!tag  study]]
+[[!tag  video]]

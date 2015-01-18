@@ -11,4 +11,6 @@ to
 Sweet!
 
 
-[[!tag  uncategorized]]
+[[!tag  life]]
+[[!tag  music]]
+[[!tag  opeth]]

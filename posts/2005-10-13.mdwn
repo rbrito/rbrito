@@ -4,4 +4,6 @@
 Nice!
 
 
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  ubuntu]]
+[[!tag  free-software]]

@@ -9,4 +9,7 @@ Oh, I'm still encoding the MIT videos. This time it seems that
 everything will fit onto exactly one Dual-Layer DVD+R.
 
 
-[[!tag  uncategorized]]
+[[!tag  dvds]]
+[[!tag  free-software]]
+[[!tag  life]]
+[[!tag  video]]

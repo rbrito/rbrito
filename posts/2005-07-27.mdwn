@@ -12,4 +12,7 @@ has reached a good "mind share" in the sense that some leading
 Computer Scientists seem to use it.
 
 
-[[!tag  uncategorized]]
+[[!tag  cvs]]
+[[!tag  free-software]]
+[[!tag  lame]]
+[[!tag  latex]]

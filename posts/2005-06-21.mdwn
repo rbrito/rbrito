@@ -5,4 +5,5 @@ material for my students. Nice. I love (controlled) redundancy
 regarding my data.
 
 
-[[!tag  uncategorized]]
+[[!tag  life]]
+[[!tag  work]]

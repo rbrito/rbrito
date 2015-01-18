@@ -36,4 +36,9 @@ is later processed by [dvdauthor](http://dvdauthor.sf.net/):
 
 
 
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  dvds]]
+[[!tag  free-software]]
+[[!tag  life]]
+[[!tag  study]]
+[[!tag  video]]

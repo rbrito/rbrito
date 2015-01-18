@@ -42,4 +42,8 @@ XML is painful. Perhaps there is a mode for Emacs for working with
 DocBook files? I'd be pleased to know.
 
 
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  emacs]]
+[[!tag  free-software]]
+[[!tag  latex]]
+[[!tag  tex]]

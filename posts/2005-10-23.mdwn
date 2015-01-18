@@ -12,4 +12,7 @@ Perhaps I should try to use
 [docbook-utils](http://packages.debian.org/docbook-utils) instead.
 
 
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  documents]]
+[[!tag  free-software]]
+[[!tag  life]]

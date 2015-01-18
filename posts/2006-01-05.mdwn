@@ -9,4 +9,7 @@ exactly about it was unusual, but it seems that he thought that it
 wasn't bad. :-)
 
 
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  free-software]]
+[[!tag  life]]
+[[!tag  teaching]]

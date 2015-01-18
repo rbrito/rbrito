@@ -4,4 +4,6 @@ work to do and it wasn't nice. But now, I guess that I will have
 more spare time to do things that I want.
 
 
-[[!tag  uncategorized]]
+[[!tag  life]]
+[[!tag  teaching]]
+[[!tag  work]]

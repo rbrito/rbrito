@@ -10,4 +10,5 @@ time now) it is also *quite* well-written. Perhaps some writers of
 computer books could learn a thing or two with Mathematicians.
 
 
-[[!tag  uncategorized]]
+[[!tag  math]]
+[[!tag  study]]

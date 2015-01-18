@@ -25,4 +25,6 @@ language and names of classes! Is this a contest of foolness or
 what?
 
 
-[[!tag  uncategorized]]
+[[!tag  free-software]]
+[[!tag  java]]
+[[!tag  life]]

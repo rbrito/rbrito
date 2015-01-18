@@ -16,4 +16,8 @@ still have to investigate that).
 I was so tired today that I slept for about 16h. I needed that.
 
 
-[[!tag  uncategorized]]
+[[!tag  free-software]]
+[[!tag  kernel]]
+[[!tag  life]]
+[[!tag  linux]]
+[[!tag  programming]]

@@ -10,4 +10,6 @@ backup the essential parts of my system in just one CD-RW. Nice
 this sensation of being backed up.
 
 
-[[!tag  uncategorized]]
+[[!tag  backups]]
+[[!tag  debian]]
+[[!tag  free-software]]

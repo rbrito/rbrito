@@ -6,4 +6,8 @@ BTW, I have some videos of lectures about *Design Patterns* and
 and I'm going to make a new DVD. With circa 8h in a DVD5.
 
 
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  dvds]]
+[[!tag  free-software]]
+[[!tag  study]]
+[[!tag  video]]

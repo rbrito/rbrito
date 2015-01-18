@@ -8,4 +8,8 @@ articles; much better (and more informative than
 [Slashdot](http://slashdot.org/).
 
 
-[[!tag  uncategorized]]
+[[!tag  audio]]
+[[!tag  dvds]]
+[[!tag  free-software]]
+[[!tag  life]]
+[[!tag  video]]
