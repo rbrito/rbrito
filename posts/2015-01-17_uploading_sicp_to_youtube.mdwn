@@ -44,7 +44,7 @@ I decided not to take the videos from Youtube to perform my splitting
 activities, but, instead, to operate on one of the "sources" that the
 authors once had in their homepage (videos encoded in DivX and audio in
 MP3).  The videos are still available as a torrent file (with a magnet link
-for the hash [`650704e4439d7857a33fe4e32bcfdc2cb1db34db`][hash]), with some
+for the hash [650704e4439d7857a33fe4e32bcfdc2cb1db34db][hash]), with some
 very good souls still seeding it (I can seed it too, if desired).  Alas, I
 have not found a source for the higher quality MPEG1 videos, but I think
 that the videos are legible enough to avoid bothering with a larger
