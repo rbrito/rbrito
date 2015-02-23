@@ -1,8 +1,6 @@
 [[!meta title="User-Agent strings and privacy"]]
 [[!meta date="Sun, 22 Feb 2015 20:54:27 -0300"]]
 
-# User-Agent strings and privacy
-
 I just had my hands on some mobile devices (a Samsung's [Galaxy Tab S 8.4"][0],
 an Apple's [iPad mini 3][1], and my no-name tablet that runs Android).
 
