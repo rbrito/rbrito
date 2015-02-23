@@ -1,11 +1,6 @@
 [[!meta title="User-Agent strings and privacy"]]
 [[!meta date="Sun, 22 Feb 2015 20:54:27 -0300"]]
 
-<style>
-table, th, td { border: 1px solid #999; border-collapse: collapse; }
-th, td { padding: .25em; }
-</style>
-
 # User-Agent strings and privacy
 
 I just had my hands on some mobile devices (a Samsung's [Galaxy Tab S 8.4"][0],
