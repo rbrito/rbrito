@@ -19,14 +19,14 @@ collected (sorry if it gets too wide):
 
 | Device               | Browser                       | User-Agent String                                                                                                                                              |
 |----------------------|-------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Samsung Galaxy Tab S | Firefox 35.0                  | "Mozilla/5.0 (Android; Tablet; rv:35.0) Gecko/35.0 Firefox/35.0"                                                                                               |
-| Samsung Galaxy Tab S | Firefox 35.0.1                | "Mozilla/5.0 (Android; Tablet; rv:35.0.1) Gecko/35.0.1 Firefox/35.0.1"                                                                                         |
-| Samsung Galaxy Tab S | Android's 4.4.2 stock browser | "Mozilla/5.0 (Linux; Android 4.4.2; en-gb; SAMSUNG SM-T700 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.5 Chrome/28.0.1500.94 Safari/537.36" |
-| Samsung Galaxy Tab S | Updated Chrome                | "Mozilla/5.0 (Linux; Android 4.4.2; SM-T700 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.109 Safari/537.36"                           |
-| Vanilla tablet       | Android's 4.1.1 stock browser | "Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; TB1010 Build/JRO03H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30"                           |
-| Vanilla tablet       | Firefox 35.0.1                | "Mozilla/5.0 (Android; Tablet; rv:35.0.1) Gecko/35.0.1 Firefox/35.0.1"                                                                                         |
-| iPad                 | Safari's from iOS 8.1.3       | "Mozilla/5.0 (iPad; CPU OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B466 Safari/600.1.4"                              |
-| Notebook             | Debian's Iceweasel 35.0.1     | "Mozilla/5.0 (X11; Linux x86_64; rv:35.0) Gecko/20100101 Firefox/35.0 Iceweasel/35.0.1"                                                                        |
+| Samsung Galaxy Tab S | Firefox 35.0                  | `Mozilla/5.0 (Android; Tablet; rv:35.0) Gecko/35.0 Firefox/35.0`                                                                                               |
+| Samsung Galaxy Tab S | Firefox 35.0.1                | `Mozilla/5.0 (Android; Tablet; rv:35.0.1) Gecko/35.0.1 Firefox/35.0.1`                                                                                         |
+| Samsung Galaxy Tab S | Android's 4.4.2 stock browser | `Mozilla/5.0 (Linux; Android 4.4.2; en-gb; SAMSUNG SM-T700 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.5 Chrome/28.0.1500.94 Safari/537.36` |
+| Samsung Galaxy Tab S | Updated Chrome                | `Mozilla/5.0 (Linux; Android 4.4.2; SM-T700 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.109 Safari/537.36`                           |
+| Vanilla tablet       | Android's 4.1.1 stock browser | `Mozilla/5.0 (Linux; U; Android 4.1.1; en-us; TB1010 Build/JRO03H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30`                           |
+| Vanilla tablet       | Firefox 35.0.1                | `Mozilla/5.0 (Android; Tablet; rv:35.0.1) Gecko/35.0.1 Firefox/35.0.1`                                                                                         |
+| iPad                 | Safari's from iOS 8.1.3       | `Mozilla/5.0 (iPad; CPU OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B466 Safari/600.1.4`                              |
+| Notebook             | Debian's Iceweasel 35.0.1     | `Mozilla/5.0 (X11; Linux x86_64; rv:35.0) Gecko/20100101 Firefox/35.0 Iceweasel/35.0.1`                                                                        |
 
 
 So, briefly looking at the table above, you can tell that the stock Android
