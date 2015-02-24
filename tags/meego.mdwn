@@ -1,0 +1,4 @@
+[[!meta title="pages tagged meego"]]
+
+[[!inline pages="tagged(meego)" actions="no" archive="yes"
+feedshow=10]]
