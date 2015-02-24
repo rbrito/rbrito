@@ -78,3 +78,10 @@ distribution.
 [5]: http://repository.maemo.org/meego/n900-de/archive/1.2.0.90.6.20110630.4.DE.2011-07-01.1/images/mg-handset-armv7nhl-n900-ce-stable/
 [6]: http://packages.debian.org/sid/lbzip2
 [7]: http://www.flickr.com/photos/tiagovaz/4870648124/in/set-72157624676953084
+
+
+[[!tag debian]]
+[[!tag free-software]]
+[[!tag linux]]
+[[!tag meego]]
+[[!tag n900]]
