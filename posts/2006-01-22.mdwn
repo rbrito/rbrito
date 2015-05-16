@@ -10,5 +10,6 @@ computation of quotient and remainder is getting cleaner. But I'd
 still like to implement it in a better "literate style" and use the
 "Cheshire Cat" trick to have better use of data encapsulation.
 
-
-[[!tag  uncategorized]]
+[[!tag life]]
+[[!tag study]]
+[[!tag teaching]]

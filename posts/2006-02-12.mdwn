@@ -9,4 +9,6 @@ On the bright side of things, teTeX 3.0 has entered testing, which
 means quite a handful of new features and packages.
 
 
-[[!tag  uncategorized]]
+[[!tag free-software]]
+[[!tag life]]
+[[!tag tex]]

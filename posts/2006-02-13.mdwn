@@ -17,4 +17,8 @@ in a DVD, without having to author it and destroy its current
 structure? That would definitely be nice.
 
 
-[[!tag  uncategorized]]
+[[!tag debian]]
+[[!tag free-software]]
+[[!tag life]]
+[[!tag music]]
+[[!tag video]]

@@ -5,4 +5,5 @@ playground this semester, together with the classes on
 to be.
 
 
-[[!tag  uncategorized]]
+[[!tag teaching]]
+[[!tag work]]

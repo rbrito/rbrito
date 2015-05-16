@@ -16,4 +16,6 @@ available fonts are:
 * `helvet`: uses Helvetica for proportional-size fonts
 
 
-[[!tag  uncategorized]]
+[[!tag debian]]
+[[!tag free-software]]
+[[!tag tex]]

@@ -4,4 +4,5 @@ quiz for the
 [Summer Course](http://www.ime.usp.br/~rbrito/verao/).
 
 
-[[!tag  uncategorized]]
+[[!tag life]]
+[[!tag teaching]]

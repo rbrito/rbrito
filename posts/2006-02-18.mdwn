@@ -21,5 +21,7 @@ camera). Oh, by the way, it worked fine with
 mass storage module loaded. No extra drivers needed. Nice toy. And
 a nice operating system too.
 
-
-[[!tag  uncategorized]]
+[[!tag free-software]]
+[[!tag life]]
+[[!tag linux]]
+[[!tag work]]

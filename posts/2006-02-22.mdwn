@@ -10,4 +10,6 @@ course (which I had already printed) bound. It will be much better
 to follow the stories and exercises this way.
 
 
-[[!tag  uncategorized]]
+[[!tag life]]
+[[!tag study]]
+[[!tag work]]
