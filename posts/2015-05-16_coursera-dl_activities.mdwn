@@ -50,11 +50,11 @@ flexible for uploading your package to PyPI.
 
 You can see [the package on PyPI][coursera-dl-pypi].  Anyway, I made the
 first upload of the package to PyPI on the 1st of May and it already has
-almost 1500 download, which is far more than what I expected.
+almost 1500 downloads, which is far more than what I expected.
 
 [coursera-dl-pypi]: https://pypi.python.org/pypi/coursera
 
-A word of warning: there are other similarly named project, but they don't
+A word of warning: there are other similarly named projects, but they don't
 seem to have as much following as we have. A speculation from my side is
 that this may be, perhaps, due to me spending *a lot* of time interacting
 with users in the bug tracker that github provides.
