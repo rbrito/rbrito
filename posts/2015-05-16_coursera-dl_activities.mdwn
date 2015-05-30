@@ -82,7 +82,7 @@ program or [triaging some bugs][issues].
 
 [contact]: https://twitter.com/rtdbrito
 [fork]: https://github.com/coursera-dl/coursera#fork-destination-box
-[bugs]: https://github.com/coursera-dl/coursera/issues
+[issues]: https://github.com/coursera-dl/coursera/issues
 
 [[!tag debian]]
 [[!tag free-software]]
