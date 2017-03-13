@@ -11,4 +11,6 @@ I'm installing (at this *very* moment) a subset of
 to the (already packaged) teTeX.
 
 
-[[!tag  uncategorized]]
+[[!tag  free-software]]
+[[!tag  tex]]
+[[!tag  usenet]]

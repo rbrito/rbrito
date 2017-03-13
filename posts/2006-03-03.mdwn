@@ -28,4 +28,8 @@ everyday. She was surprised to know about
 indeed, it is superb.
 
 
-[[!tag  uncategorized]]
+[[!tag  data-structures]]
+[[!tag  life]]
+[[!tag  math]]
+[[!tag  teaching]]
+[[!tag  ubuntu]]

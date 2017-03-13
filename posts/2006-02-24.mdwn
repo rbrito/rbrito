@@ -22,4 +22,8 @@ Oh, I didn't know why my students were all excited to go home until
 I realized that today was the first day of 2006's carnival.
 
 
-[[!tag  uncategorized]]
+[[!tag  free-software]]
+[[!tag  hardware]]
+[[!tag  life]]
+[[!tag  photography]]
+[[!tag  study]]
