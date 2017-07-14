@@ -16,9 +16,13 @@ This, together with Google's new [font directory][2] of Free Software fonts
 (overshadowed by the release of VP8 codec, in the eyes of some), shows that
 the typographic arena is alive and going strong.
 
+*Edit:* Thanks to Paul Turnbull from [ArtofBlog.com][3] for spotting a link
+that went bad when Google moved their font directory.
+
 [0]: http://stixfonts.org/proj_timeline.html
 [1]: http://www.stixfonts.org/
-[2]: http://code.google.com/webfonts
+[2]: https://fonts.google.com/
+[3]: http://www.artofblog.com/typography-basics-some-fundamentals-for-body-copy/
 
 [[!tag fonts]]
 [[!tag free-software]]
