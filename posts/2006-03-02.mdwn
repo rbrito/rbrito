@@ -1,5 +1,11 @@
 [[!meta  date="2006-03-02"]]
-Nice. Let's see if this MathML thing works as intended: a b
+Nice. Let's see if this MathML thing works as intended:
+<math xmlns="&mathml;">
+  <mfrac>
+    <mi>a</mi>
+    <mi>b</mi>
+  </mfrac>
+</math>
 
 Well, actually, it does. But only after I changed the extension of
 the file from html to xhtml. What a crazy thing is this? What is
@@ -12,4 +18,5 @@ Oh, and talking about broken things, my
 today's thunderstorm. Wow. Nice to have a backup plan.
 
 
-[[!tag  uncategorized]]
+[[!tag  isp]]
+[[!tag  life]]

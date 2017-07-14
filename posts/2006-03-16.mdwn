@@ -14,4 +14,6 @@ Oh, and I got some new toys to play with, including a brand new
 Firewire enclosure, wireless stuff and some DVD-R's. Fun ahead.
 
 
-[[!tag  uncategorized]]
+[[!tag  hardware]]
+[[!tag  life]]
+[[!tag  music]]

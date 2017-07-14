@@ -1,0 +1,4 @@
+[[!meta title="pages tagged data-structures"]]
+
+[[!inline pages="tagged(data-structures)" actions="no" archive="yes"
+feedshow=10]]

@@ -8,4 +8,5 @@ when I started using this camera. Now, the other one is "which
 resolution to use?".
 
 
-[[!tag  uncategorized]]
+[[!tag  free-software]]
+[[!tag  hardware]]

@@ -4,4 +4,5 @@ Thanks to [filelight](http://packages.debian.org/filelight)'s way
 of showing how the disk space is being wasted.
 
 
-[[!tag  uncategorized]]
+[[!tag  free-software]]
+[[!tag  debian]]

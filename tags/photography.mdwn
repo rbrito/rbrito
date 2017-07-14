@@ -1,0 +1,4 @@
+[[!meta title="pages tagged photography"]]
+
+[[!inline pages="tagged(photography)" actions="no" archive="yes"
+feedshow=10]]
