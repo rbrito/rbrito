@@ -1,0 +1,5 @@
+Dear lazyweb,
+
+What are the options for a moderate (not high-end) tablet that runs Android and that has good community support (read: is supported by LineageOS or its siblings)?
+
+In particular, I would prefer something with at least 2GB of memory, but not much more if it comes at the expense of a higher amount of money. Giving here a ballpark is hard, since 
