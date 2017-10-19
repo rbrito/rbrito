@@ -25,7 +25,7 @@ collected (sorry if it gets too wide):
 | Vanilla tablet       | Firefox 35.0.1                | `Mozilla/5.0 (Android; Tablet; rv:35.0.1) Gecko/35.0.1 Firefox/35.0.1`                                                                                         |
 | iPad                 | Safari's from iOS 8.1.3       | `Mozilla/5.0 (iPad; CPU OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B466 Safari/600.1.4`                              |
 | Notebook             | Debian's Iceweasel 35.0.1     | `Mozilla/5.0 (X11; Linux x86_64; rv:35.0) Gecko/20100101 Firefox/35.0 Iceweasel/35.0.1`                                                                        |
-
+| Moto G4 Plus         | Firefox Focus 2.2             | `Mozilla/5.0 (Linux; Android 7.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Focus/2.2 Chrome/61.0.3163.98 Mobile Safari/537.36`|
 
 So, briefly looking at the table above, you can tell that the stock Android
 browser reveals quite a bit of information: the model of the device (e.g.,
@@ -61,6 +61,8 @@ two versions: as [Firefox itself][5] and as [Fennec][6].
 [5]: https://f-droid.org/repository/browse/?fdid=org.mozilla.firefox
 [6]: https://f-droid.org/repository/browse/?fdid=org.mozilla.fennec_fdroid
 
+*Edit, 2017-10-19:* Added the User-Agent string of Firefox Focus. Quite
+different from regular Firefox, as we can see.
 
 [[!tag android]]
 [[!tag apple]]
