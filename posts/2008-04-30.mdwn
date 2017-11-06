@@ -24,4 +24,10 @@ WEP key, but it doesn't seem to get a DHCP lease from the router.
 `:-(`
 
 
-[[!tag  uncategorized]]
+[[!tag  apple]]
+[[!tag  debian]]
+[[!tag  free-software]]
+[[!tag  hardware]]
+[[!tag  math]]
+[[!tag  powerpc]]
+[[!tag  ubuntu]]

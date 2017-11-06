@@ -4,4 +4,7 @@ The course finally began. The news are now posted on the
 good nonetheless.
 
 
-[[!tag  uncategorized]]
+[[!tag  life]]
+[[!tag  math]]
+[[!tag  teaching]]
+[[!tag  work]]

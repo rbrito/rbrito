@@ -5,4 +5,9 @@ intricated as it was with the other talk on "Approximation
 Algorithms".
 
 
-[[!tag  uncategorized]]
+[[!tag  algorithms]]
+[[!tag  free-software]]
+[[!tag  life]]
+[[!tag  math]]
+[[!tag  study]]
+[[!tag  work]]

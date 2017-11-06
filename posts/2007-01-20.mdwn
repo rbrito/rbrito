@@ -30,4 +30,5 @@ instant messengers:
 Enough said, right?
 
 
-[[!tag  uncategorized]]
+[[!tag  life]]
+[[!tag  free-software]]

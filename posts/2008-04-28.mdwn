@@ -7,4 +7,5 @@ have the 3.98 release out there and maybe it is time for me to get
 the debian directory in shape.
 
 
-[[!tag  uncategorized]]
+[[!tag  free-software]]
+[[!tag  debian]]

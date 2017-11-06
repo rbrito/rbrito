@@ -10,4 +10,8 @@ Alignments"). This is a quite welcome addition to
 [my curriculum](http://lattes.cnpq.br/0890412916137605).
 
 
-[[!tag  uncategorized]]
+[[!tag  algorithms]]
+[[!tag  life]]
+[[!tag  math]]
+[[!tag  study]]
+[[!tag  work]]

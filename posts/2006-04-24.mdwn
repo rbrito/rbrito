@@ -12,4 +12,6 @@ on
 [1998-07-24](http://en.wikipedia.org/wiki/Debian#Debian_releases).
 
 
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  free-software]]
+[[!tag  life]]

@@ -19,4 +19,6 @@ proper:
 * [ekiga](http://packages.debian.org/ekiga).
 
 
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  free-software]]
+[[!tag  tex]]

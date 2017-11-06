@@ -9,4 +9,5 @@ in a sad state, unfortunately, and even after I changed the sources
 a little bit.
 
 
-[[!tag  uncategorized]]
+[[!tag  hardware]]
+[[!tag  free-software]]

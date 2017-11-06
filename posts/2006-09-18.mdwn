@@ -17,4 +17,9 @@ SSH! (I'd expect this to be a quite uncommon situation, since
 people regard "Internet access as *Inter-web*").
 
 
-[[!tag  uncategorized]]
+[[!tag  algorithms]]
+[[!tag  free-software]]
+[[!tag  life]]
+[[!tag  math]]
+[[!tag  study]]
+[[!tag  work]]

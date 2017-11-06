@@ -14,4 +14,7 @@ the methods of multiplication of matrices like Strassen's
 Algorithm.
 
 
-[[!tag  uncategorized]]
+[[!tag  life]]
+[[!tag  math]]
+[[!tag  study]]
+[[!tag  teaching]]

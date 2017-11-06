@@ -23,4 +23,7 @@ Today I got a phone call from a *very* dear friend of mine. I
 as a birthday gift.
 
 
-[[!tag  uncategorized]]
+[[!tag  study]]
+[[!tag  life]]
+[[!tag  math]]
+[[!tag  latex]]

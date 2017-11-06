@@ -19,4 +19,8 @@ copy of
 ["Deliverance"](http://en.wikipedia.org/wiki/Deliverance_(Opeth_album)).
 
 
-[[!tag  uncategorized]]
+[[!tag  life]]
+[[!tag  math]]
+[[!tag  music]]
+[[!tag  study]]
+[[!tag  videos]]

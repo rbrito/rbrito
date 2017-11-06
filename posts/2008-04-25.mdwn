@@ -17,4 +17,6 @@ I can't even recall some basic facts from my calculus courses. I
 think that it is high time for a refresher.
 
 
-[[!tag  uncategorized]]
+[[!tag  study]]
+[[!tag  life]]
+[[!tag  math]]

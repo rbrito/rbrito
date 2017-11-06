@@ -13,4 +13,6 @@ It was a very pleasant evening and the company was especially
 good.
 
 
-[[!tag  uncategorized]]
+[[!tag  life]]
+[[!tag  movies]]
+[[!tag  music]]

@@ -7,5 +7,9 @@ Oh, this time, the iBook saved my day, for burning a CD with the
 presentation in PDF format (a requirement of the organization) with
 only 10 minutes to start the talk.
 
-
-[[!tag  uncategorized]]
+[[!tag  algorithms]]
+[[!tag  free-software]]
+[[!tag  life]]
+[[!tag  math]]
+[[!tag  study]]
+[[!tag  work]]

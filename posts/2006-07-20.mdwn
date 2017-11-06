@@ -9,4 +9,8 @@ for Biological Sequence Alignment"). Another nice addition to my
 curriculum.
 
 
-[[!tag  uncategorized]]
+[[!tag  algorithms]]
+[[!tag  life]]
+[[!tag  math]]
+[[!tag  study]]
+[[!tag  work]]

@@ -6,4 +6,7 @@ The fact that I also had a good time with a student of mine helped
 me to resist the day of having being sleep-deprived.
 
 
-[[!tag  uncategorized]]
+[[!tag  algorithms]]
+[[!tag  math]]
+[[!tag  study]]
+[[!tag  work]]

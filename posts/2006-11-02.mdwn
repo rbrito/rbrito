@@ -21,4 +21,6 @@ I will soon update my "Curriculum Lattes" to reflect those latest
 activities.
 
 
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  free-software]]
+[[!tag  tex]]

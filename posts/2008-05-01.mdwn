@@ -3,4 +3,5 @@ Got myself a [WSXGA+](http://en.wikipedia.org/wiki/WSXGA+) 22
 inches LCD monitor.
 
 
-[[!tag  uncategorized]]
+[[!tag  hardware]]
+[[!tag  life]]

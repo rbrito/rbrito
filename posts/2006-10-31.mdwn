@@ -19,4 +19,9 @@ the
 and how [Debian](http://www.debian.org/) works in general.
 
 
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  algorithms]]
+[[!tag  free-software]]
+[[!tag  math]]
+[[!tag  study]]
+[[!tag  work]]

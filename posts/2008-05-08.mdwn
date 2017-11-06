@@ -12,4 +12,6 @@ Imagine what a disaster it is to see proprietary software that is
 completely closed!
 
 
-[[!tag  uncategorized]]
+[[!tag  apple]]
+[[!tag  debian]]
+[[!tag  free-software]]

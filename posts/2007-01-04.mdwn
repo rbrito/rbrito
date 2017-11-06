@@ -3,4 +3,7 @@ Talk about therapy. The course is a nice opportunity for me to
 review some elementary facts on Computing Science.
 
 
-[[!tag  uncategorized]]
+[[!tag  life]]
+[[!tag  math]]
+[[!tag  teaching]]
+[[!tag  work]]

@@ -15,4 +15,5 @@ Some tools related to digital photography:
   with me.
 
 
-[[!tag  uncategorized]]
+[[!tag  hardware]]
+[[!tag  life]]

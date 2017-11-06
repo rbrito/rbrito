@@ -37,4 +37,6 @@ like version control systems like
 targets and goals.
 
 
-[[!tag  uncategorized]]
+[[!tag  free-software]]
+[[!tag  life]]
+[[!tag  study]]
