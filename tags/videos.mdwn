@@ -1,0 +1,4 @@
+[[!meta title="pages tagged videos"]]
+
+[[!inline pages="tagged(videos)" actions="no" archive="yes"
+feedshow=10]]
