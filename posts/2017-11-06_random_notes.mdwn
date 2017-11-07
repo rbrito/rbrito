@@ -1,4 +1,4 @@
-[[!meta title="Some activites of the day"]]
+[[!meta title="Some activities of the day"]]
 [[!meta date="Mon, 06 Nov 2017 22:52:59 -0200"]]
 
 Yesterday, I printed the first draft of the first chapter when my little boy
@@ -24,7 +24,7 @@ a job done!
 I am thinking of getting a spare computer, building it with him and for him,
 so that he can call it his computer every time he comes to see daddy. As a
 serendipitous situation, [Packt Publishing][packt] offered yesterday their
-tile ["Python Projects for Kids"][pythonprojects]. Unfortunately, he does
+title ["Python Projects for Kids"][pythonprojects]. Unfortunately, he does
 not yet know how to read, but I guess that the right age is coming soon,
 which is a good thing to make him be educated "the right way" (that is, with
 the best support, teaching and patience that I can give him).
@@ -74,7 +74,7 @@ Oh, and I grabbed a copy of "Wonder woman" ("Mulher Maravilha") and
 "Despicable Me 3" ("Meu Malvado Favorito 3") dubbed in Brazilian Portuguese
 for my son. I have to convert the audio from AAC-LC in 6 channels to AC3 or
 to stereo. Otherwise, my TVs have problem with the videos (one refuses to
-play the entire file and another plays the audio with sounds of hickups).
+play the entire file and another plays the audio with sounds of hiccups).
 
 **Edit:** After converting the VirtualBox image taken from Microsoft, I
 could easily use `qemu`/`kvm` to create screenshots of the installation of
@@ -83,6 +83,8 @@ Java.  The command that I used (for future reference) is:
 ```
 qemu-system-x86_64 -enable-kvm -m 4096 -smp 2 -net nic,model=e1000 -net user -soundhw ac97 -drive index=0,media=disk,cache=unsafe,file=win7.qcow2
 ```
+
+**Edit:** Fixed some typos.
 
 [[!tag debian]]
 [[!tag free-software]]
