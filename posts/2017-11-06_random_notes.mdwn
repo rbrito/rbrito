@@ -76,6 +76,14 @@ for my son. I have to convert the audio from AAC-LC in 6 channels to AC3 or
 to stereo. Otherwise, my TVs have problem with the videos (one refuses to
 play the entire file and another plays the audio with sounds of hickups).
 
+**Edit:** After converting the VirtualBox image taken from Microsoft, I
+could easily use `qemu`/`kvm` to create screenshots of the installation of
+Java.  The command that I used (for future reference) is:
+
+```
+qemu-system-x86_64 -enable-kvm -m 4096 -smp 2 -net nic,model=e1000 -net user -soundhw ac97 -drive index=0,media=disk,cache=unsafe,file=win7.qcow2
+```
+
 [[!tag debian]]
 [[!tag free-software]]
 [[!tag hardware]]
