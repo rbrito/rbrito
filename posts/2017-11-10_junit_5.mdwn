@@ -1,9 +1,13 @@
 [[!meta title="JUnit 5"]]
 [[!meta date="Fri, 10 Nov 2017 03:21:06 -0200"]]
 
-If you want to use JUnit 5, the latest release of JUnit, from Eclipse, then
-you have to change your import from `import org.junit.Test;` to `import
-org.junit.jupiter.api.Test;`. Notice the `jupiter.api` there in the middle.
+If you want to use [JUnit 5][0], the latest release of [JUnit][1], from
+Eclipse, then you have to change your import from `import org.junit.Test;`
+to `import org.junit.jupiter.api.Test;`. Notice the `jupiter.api` there in
+the middle.
+
+[0]: http://junit.org/junit5/
+[1]: http://junit.org/
 
 Otherwise, the test runner will complain and tell you that you don't have
 tests in your project.
