@@ -20,7 +20,7 @@ In other news, I have started playing with Java's multithreaded
 abilities. A nice way to play with them, but the book that I have
 here requires a lot of patience on my part: it is a translation of
 "The Java Programming Language", 1st edition. The catch is that the
-stupid person that tranlated it also translated *commands* of the
+stupid person that translated it also translated *commands* of the
 language and names of classes! Is this a contest of foolness or
 what?
 
