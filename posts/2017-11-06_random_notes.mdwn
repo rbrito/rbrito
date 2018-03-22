@@ -51,6 +51,7 @@ would be best, but I don't know if such a thing even exists. But the killer
 problem is that it doesn't support easily the typing of Mathematics (even
 though a [3rd party plugin][mathjax-plugin] for MathJax exists).
 
+[0]: https://ikiwiki.info/
 [mathjax-plugin]: https://github.com/bk/ikiwiki-plugin-mathjax
 
 On the other hand, I just received [an answer on twitter][1] from @telegram and
