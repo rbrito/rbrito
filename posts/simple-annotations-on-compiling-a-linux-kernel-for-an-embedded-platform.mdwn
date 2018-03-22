@@ -21,14 +21,14 @@ future).
         CONFIG_NETPOLL=y
         CONFIG_NET_POLL_CONTROLLER=y
 
-You have to tell the kernel where to send the messages that would,
-otherwise, be presented on a screen. For sending them over the network, just
-tell the kernel to use the command line option:
+  You have to tell the kernel where to send the messages that would,
+  otherwise, be presented on a screen. For sending them over the network,
+  just tell the kernel to use the command line option:
 
         netconsole=6666@192.168.11.150/,@192.168.11.149/
 
-This way, you can easily connect from another (more comfortable?) computer
-with something like (this connection is made via UDP, not TCP):
+  This way, you can easily connect from another (more comfortable?) computer
+  with something like (this connection is made via UDP, not TCP):
 
         ip addr add 192.168.11.149/24 broadcast 192.168.11.255 dev eth0
         nc -u -n -p 6666 192.168.11.150 6666
@@ -63,8 +63,8 @@ with something like (this connection is made via UDP, not TCP):
         INSTALL_MOD_PATH=$BUILT_ROOT ARCH=powerpc CROSS_COMPILE=powerpc-linux-gnu- make all modules
         INSTALL_MOD_PATH=$BUILT_ROOT ARCH=powerpc CROSS_COMPILE=powerpc-linux-gnu- make modules_install
 
-It won't hurt if you use a concurrency setting (like -j3 or more) when
-compiling all and modules.
+  It won't hurt if you use a concurrency setting (like `-j3` or more) when
+  compiling all and modules.
 
 * The uBoot command line (accessed via the network) can be something like:
 
@@ -76,18 +76,18 @@ compiling all and modules.
   The first two lines tell uBoot to load the both the kernel and the device
   tree from the disk to the memory, the third line sets the kernel command
   line (familiar to users of the "common" arches) and the fourth line
-  actually boots the kernel once it is loaded in the memory. Here, ${hdpart}
-  is the partition where the kernel image ${hdfile} should be loaded from
-  (usually in the form 0:1, to mean partition 1 from the disk 0), ${ldaddr}
+  actually boots the kernel once it is loaded in the memory. Here, `${hdpart}`
+  is the partition where the kernel image `${hdfile}` should be loaded from
+  (usually in the form 0:1, to mean partition 1 from the disk 0), `${ldaddr}`
   is the memory address where the kernel should be loaded to.
 
 * Something that is handy, no matter what size your machine has: the use of
-  ext4 (and, in particular, delayed allocation) with ext{2,3}
+  ext4 (and, in particular, delayed allocation) with `ext{2,3}`
   filesystems. To use it, just put this in your kernel configuration file:
 
         CONFIG_EXT4_USE_FOR_EXT23=y
 
-* Support for daemons like avr-evtd, that need access to a serial port (so
+* Support for daemons like [avr-evtd][avr-evtd], that need access to a serial port (so
   that the user can turn off the device by pressing the power button),
   enable:
 
@@ -118,6 +118,8 @@ compiling all and modules.
   system. Knowing which one to enable is a matter of knowing the specs of
   your system and, if not known, discovery by trial-and-error. (For x86
   systems, usually `CONFIG_RTC_DRV_CMOS=y` is sufficient).
+
+[avr-evtd]: https://packages.debian.org/sid/avr-evtd
 
 [[!tag configuration]]
 [[!tag debian]]
