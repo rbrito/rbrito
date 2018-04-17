@@ -15,4 +15,7 @@ bitrate, I had to use quite a strong noise filtering with
 [mencoder](http://www.mplayerhq.hu/)'s `hqdn3d`.
 
 
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  free-software]]
+[[!tag  music]]
+[[!tag  video]]

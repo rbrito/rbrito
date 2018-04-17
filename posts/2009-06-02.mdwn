@@ -13,4 +13,7 @@ Kurobox, as we can't find large IDE/PATA drives in the market today
 interfaces.
 
 
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  free-software]]
+[[!tag  hardware]]
+[[!tag  kurobox]]

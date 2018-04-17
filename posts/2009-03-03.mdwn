@@ -99,4 +99,21 @@ like Audacity's noise removal tool. Or is it better to use sox for
 this task? I guess that I will have to experiment a little.
 
 
-[[!tag  uncategorized]]
+[[!tag  apple]]
+[[!tag  audio]]
+[[!tag  debian]]
+[[!tag  free-software]]
+[[!tag  hardware]]
+[[!tag  health]]
+[[!tag  ipod]]
+[[!tag  kernel]]
+[[!tag  life]]
+[[!tag  linux]]
+[[!tag  macosx]]
+[[!tag  mp3]]
+[[!tag  multimedia]]
+[[!tag  music]]
+[[!tag  perl]]
+[[!tag  programming]]
+[[!tag  study]]
+[[!tag  video]]

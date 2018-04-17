@@ -25,5 +25,9 @@ Free Software and its dependencies seem to be fulfiled with Free
 Software only (remember that Java has, now, Free virtual
 Machines).
 
-
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  fonts]]
+[[!tag  free-software]]
+[[!tag  java]]
+[[!tag  latex]]
+[[!tag  tex]]

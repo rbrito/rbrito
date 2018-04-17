@@ -40,4 +40,7 @@ a package cacher is much more pleasant, especially if the package
 has a lot of build-dependencies.
 
 
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  development]]
+[[!tag  free-software]]
+[[!tag  ubuntu]]

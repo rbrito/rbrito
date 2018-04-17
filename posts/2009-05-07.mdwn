@@ -17,4 +17,7 @@ a bit more on smaller systems (which is a good thing, because
 computing resources are limited).
 
 
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  free-software]]
+[[!tag  programming]]
+[[!tag  ubuntu]]

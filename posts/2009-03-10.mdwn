@@ -25,4 +25,7 @@ has the show. And it is an amazing piece of music. Recommended for
 all fans of good music.
 
 
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  free-software]]
+[[!tag  music]]
+[[!tag  video]]

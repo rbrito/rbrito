@@ -21,4 +21,6 @@ for writing the programs) didn't really grasp the meaning of
 amd64, powerpc and other architectures. What a shame.
 
 
-[[!tag  uncategorized]]
+[[!tag  hardware]]
+[[!tag  java]]
+[[!tag  life]]

@@ -29,4 +29,5 @@ thing as time-based *freezes*, even though what I provided is a
 link for the time-based releases. The concepts are close, though.
 
 
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  free-software]]

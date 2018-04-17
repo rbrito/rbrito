@@ -17,5 +17,9 @@ me via Tiago and I'll now start to play with it. I have never
 played with an arm-based platform before. Let's see if it is not an
 alien to myself.
 
-
-[[!tag  uncategorized]]
+[[!tag  debconf]]
+[[!tag  debian]]
+[[!tag  free-software]]
+[[!tag  hardware]]
+[[!tag  kurobox]]
+[[!tag  life]]

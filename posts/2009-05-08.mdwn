@@ -4,4 +4,6 @@ I am now one of the maintainers of both
 [libtorrent](http://packages.debian.org/libtorrent).
 
 
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  free-software]]
+[[!tag  programming]]

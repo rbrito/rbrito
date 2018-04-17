@@ -18,4 +18,6 @@ using
   `--git-builder="debuild -i\.git -I.git -sa"`.
 
 
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  free-software]]
+[[!tag  git]]
