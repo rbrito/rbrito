@@ -32,4 +32,6 @@ file system calls like `open`, `read`, `write`, `close`.
 Interesting to see them being used to implement a mutex.
 
 
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  free-software]]
+[[!tag  life]]

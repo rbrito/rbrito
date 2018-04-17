@@ -22,4 +22,6 @@ just compile `program.c` with the options
     gcc -arch i386 -arch ppc -arch ppc64 program.c -o program
 
 
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  free-software]]
+[[!tag  macosx]]

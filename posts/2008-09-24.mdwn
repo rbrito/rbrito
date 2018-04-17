@@ -21,4 +21,8 @@ On a more musically related note, Symphony X
 to São Paulo, which is a nice thing.
 
 
-[[!tag  uncategorized]]
+[[!tag  audio]]
+[[!tag  debian]]
+[[!tag  free-software]]
+[[!tag  music]]
+[[!tag  ubuntu]]

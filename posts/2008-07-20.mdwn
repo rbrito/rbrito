@@ -51,4 +51,9 @@ is a perfect point for reading more advanced documents on this
 matter.
 
 
-[[!tag  uncategorized]]
+[[!tag  audio]]
+[[!tag  free-software]]
+[[!tag  hardware]]
+[[!tag  lame]]
+[[!tag  mp3]]
+[[!tag  music]]

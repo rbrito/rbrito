@@ -24,4 +24,6 @@ sponsoring. And I intend to merge the modifications upstream
 upstream).
 
 
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  free-software]]
+[[!tag  kurobox]]

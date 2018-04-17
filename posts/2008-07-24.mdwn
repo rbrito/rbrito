@@ -5,5 +5,6 @@ can't run [my preferred flavor](http://wiki.debian.org/MacBook) of
 Linux properly on this machine (at least, it isn't a big endian
 arch anymore).
 
-
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  free-software]]
+[[!tag  hardware]]

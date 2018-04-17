@@ -8,4 +8,5 @@ put the licences onto the files, which is
 for the moment (which can change in the future).
 
 
-[[!tag  uncategorized]]
+[[!tag  free-software]]
+[[!tag  latex]]

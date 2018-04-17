@@ -47,5 +47,9 @@ but they were ridiculous. This was the first time where I thought
 of writing a program with a stochastic grammar to generate lyrics
 for such stereotyped metal.
 
-
-[[!tag  uncategorized]]
+[[!tag  audio]]
+[[!tag  debian]]
+[[!tag  free-software]]
+[[!tag  life]]
+[[!tag  music]]
+[[!tag  videos]]

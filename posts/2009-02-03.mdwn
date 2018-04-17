@@ -25,4 +25,10 @@ DVD LPCM format (that is, uncompressed) and the space that it takes
 on my hard disk is considerable (approx. 1GB).
 
 
-[[!tag  uncategorized]]
+[[!tag  audio]]
+[[!tag  free-software]]
+[[!tag  hardware]]
+[[!tag  ipod]]
+[[!tag  life]]
+[[!tag  music]]
+[[!tag  video]]

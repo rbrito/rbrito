@@ -108,4 +108,8 @@ things to do in this endless saga. I hope to write more about this
 hectic (but pleasant) week.
 
 
-[[!tag  uncategorized]]
+[[!tag  audio]]
+[[!tag  free-software]]
+[[!tag  hardware]]
+[[!tag  life]]
+[[!tag  video]]

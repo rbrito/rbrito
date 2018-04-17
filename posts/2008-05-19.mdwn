@@ -20,4 +20,5 @@ that I can talk with both without problems (but this means that I
 am not an specialist in anything, alas).
 
 
-[[!tag  uncategorized]]
+[[!tag  life]]
+[[!tag  study]]

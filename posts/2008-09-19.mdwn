@@ -7,4 +7,6 @@ package of avr-evtd to
 improvements included upstream (now that I am upstream).
 
 
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  free-software]]
+[[!tag  kurobox]]

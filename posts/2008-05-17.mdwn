@@ -13,4 +13,7 @@ To this effect, I spent some moments coding a program that I called
 WAV file suiltable for compression (in 48kHz, normally).
 
 
-[[!tag  uncategorized]]
+[[!tag  audio]]
+[[!tag  lame]]
+[[!tag  mp3]]
+[[!tag  music]]

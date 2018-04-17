@@ -14,4 +14,7 @@ The [macbook](http://www.apple.com/macbook/) that I saw used things
 from Broadcom, which is not a company that likes Free Software.
 
 
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  free-software]]
+[[!tag  hardware]]
+[[!tag  ubuntu]]

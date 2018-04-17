@@ -15,4 +15,7 @@ lame (in the `misc` directory), as well as the
 [endianness](http://en.wikipedia.org/wiki/Endianness) problems.
 
 
-[[!tag  uncategorized]]
+[[!tag  audio]]
+[[!tag  free-software]]
+[[!tag  lame]]
+[[!tag  mp3]]

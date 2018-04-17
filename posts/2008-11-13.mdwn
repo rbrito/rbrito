@@ -17,4 +17,7 @@ translation like translating "array" to "arranjo", while the usual,
 correct choices would be "vetor" or "matriz".
 
 
-[[!tag  uncategorized]]
+[[!tag  life]]
+[[!tag  math]]
+[[!tag  programming]]
+[[!tag  teaching]]

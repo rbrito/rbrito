@@ -4,4 +4,7 @@ Unfortunately, I missed the boat and didn't commit all the changes
 that I had, but I will continue working on it nevertheless.
 
 
-[[!tag  uncategorized]]
+[[!tag  audio]]
+[[!tag  free-software]]
+[[!tag  lame]]
+[[!tag  mp3]]

@@ -19,5 +19,9 @@ please.
 
 Today was also dad's birthday! Hippie!
 
-
-[[!tag  uncategorized]]
+[[!tag  audio]]
+[[!tag  free-software]]
+[[!tag  lame]]
+[[!tag  life]]
+[[!tag  mp3]]
+[[!tag  study]]

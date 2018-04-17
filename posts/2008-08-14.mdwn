@@ -7,4 +7,8 @@ The nice thing about it is that it comes with an instaler that runs
 under Windows and that remotely connects to the Kurobox
 
 
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  free-software]]
+[[!tag  hardware]]
+[[!tag  kurobox]]
+[[!tag  powerpc]]

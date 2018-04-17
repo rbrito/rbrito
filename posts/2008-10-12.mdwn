@@ -7,10 +7,13 @@ it can have a better default for compilation. And I think that I
 will take care of the PowerPC side of things, so that I can have
 some boxen that work right and with new software.
 
-These contributions (and the Debian Maintainership status) has to
+These contributions (and the Debian Maintainership status) have to
 be recorded on my Curriculum Vitae, kept at the Ministry of Science
 of Brazil (where all higher education professionals have to keep
 their information).
 
-
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  free-software]]
+[[!tag  kernel]]
+[[!tag  life]]
+[[!tag  linux]]

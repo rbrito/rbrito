@@ -9,4 +9,7 @@ Also updated the [freshmeat](http://freshmeat.net/) page of
 Nice to be useful to the community.
 
 
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  free-software]]
+[[!tag  kurobox]]
+[[!tag  lame]]
