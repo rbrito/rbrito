@@ -18,7 +18,7 @@ time-stamps in the year of 2003. But I am not changing that (yet).
 Now I am using my own dog-food, instead of relying on Christian
 Marillat's precompiled versions of lame. And I even provided some
 compatibility/transitional packages, so that packages like his
-[ffmpeg](http://en.wikipedia.org/wiki/Ffmpeg) with newer and nicest
+[ffmpeg](http://en.wikipedia.org/wiki/Ffmpeg) with the newer and nicest
 improvements of [LAME](http://en.wikipedia.org/wiki/LAME) (like
 fractional
 [variable bitrate](http://en.wikipedia.org/wiki/Variable_bitrate)
