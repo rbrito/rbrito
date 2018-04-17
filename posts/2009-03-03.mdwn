@@ -87,8 +87,10 @@ compiled things from there and got excellent results. I think that
 I may even create a non-official repository with some multimedia
 programs (and this includes, say, a newer, multithreaded version of
 mplayer and newer libraries). I think that I will submit some more
-bugreports (like the Real Video files from Ars Technica that can't
-be played).
+bugreports (like the Real Video files from [ArsDigita University][0] that
+can't be played).
+
+[0]: http://www.aduni.org/
 
 And one last thing: (this one is really the last thing that I will
 comment now) is that I finally will re-record my audio (and video)
