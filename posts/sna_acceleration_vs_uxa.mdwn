@@ -12,7 +12,7 @@ on my wife's laptop (a Core i5 2410M), when running [[!debpkg gtkperf]]:
 # With UXA
 
     GtkPerf 0.40 - Starting testing: Mon Aug 12 20:33:20 2013
-    
+
     GtkEntry - time:  0.19
     GtkComboBox - time:  5.36
     GtkComboBoxEntry - time:  3.59
@@ -27,13 +27,13 @@ on my wife's laptop (a Core i5 2410M), when running [[!debpkg gtkperf]]:
     GtkDrawingArea - Circles - time:  6.74
     GtkDrawingArea - Text - time:  4.32
     GtkDrawingArea - Pixbufs - time:  0.67
-     --- 
+     ---
     Total time: 54.25
 
 # With SNA
 
     GtkPerf 0.40 - Starting testing: Mon Aug 12 20:36:58 2013
-    
+
     GtkEntry - time:  0.21
     GtkComboBox - time:  4.86
     GtkComboBoxEntry - time:  2.67
@@ -48,7 +48,7 @@ on my wife's laptop (a Core i5 2410M), when running [[!debpkg gtkperf]]:
     GtkDrawingArea - Circles - time:  2.65
     GtkDrawingArea - Text - time:  1.72
     GtkDrawingArea - Pixbufs - time:  0.11
-     --- 
+     ---
     Total time: 36.91
 
 So, with SNA, the timing that I get are almost 2 times lower, which is

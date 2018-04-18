@@ -15,12 +15,12 @@ tests in your project.
 The not-so-minimal test that I created was the following:
 
     package test;
-    
+
     import static org.hamcrest.CoreMatchers.*;
     import static org.junit.Assert.*;
-    
+
     import org.junit.jupiter.api.Test;
-    
+
     class FirstTest {
     	@Test
     	void test() {

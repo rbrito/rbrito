@@ -49,7 +49,7 @@ else).
 
 I, then, [proposed][2] the following exercise for his students (which he
 apparently liked, as he +1's the suggestion):
- 
+
 Prove that the recurrence relation of the $p_i$'s and $q_i$'s that we
 mentioned before can be obtained via matrix multiplication. More precisely,
 prove that:

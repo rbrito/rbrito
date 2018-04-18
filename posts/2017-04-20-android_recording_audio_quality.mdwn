@@ -18,12 +18,12 @@ For a device running API 14, we can use something like this
 * For very low quality/very low bitrate/very long recording times, use
   AMR-NB in 3GPP container.  Parameters summary: 8kHz and bitrate 12.8kbps
   Works pretty much anywhere.
-  
+
 * For low quality/low bitrate/long recording times, use AAC in MP4
   container, with ***m4a*** extension. Works pretty much anywhere. Example
   code adapted from:
   https://developer.android.com/guide/topics/media/mediarecorder.html
-  
+
 
         private void startRecording() {
            mRecorder = new MediaRecorder();
@@ -31,13 +31,13 @@ For a device running API 14, we can use something like this
            mRecorder.setOutputFormat(MediaRecorder.OutputFormat.MPEG_4); // other?
            mRecorder.setOutputFile(mFileName); // end in m4a, for compatibility
            mRecorder.setAudioEncoder(MediaRecorder.AudioEncoder.AAC); // AAC_HE, if supported
-        
+
            try {
                mRecorder.prepare();
            } catch (IOException e) {
                Log.e(LOG_TAG, "prepare() failed");
            }
-        
+
            mRecorder.start();
         }
 

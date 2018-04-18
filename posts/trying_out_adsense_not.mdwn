@@ -11,38 +11,38 @@ the following e-mail, which, sincerely, is as uninformative as it could get:
     From: adsense-noreply@google.com
     To: rbrito@gmail.com
     Subject: Google AdSense Support
-    
+
     Hello,
-    
+
     As mentioned in our welcome email, we conduct a second review of your
     AdSense application once AdSense code is placed on your site(s). As a
     result of this review, we have disapproved your account for the following
     violation(s):
-    
+
     Issues:
-    
+
     - Site does not comply with Google policies
-    
-    
+
+
     ---------------------
-    
+
     Further detail:
-    
-    
+
+
     Site does not comply with Google policies: We're unable to approve your
     AdSense application at this time because we feel that your site does not
     comply with Google AdSense policies or webmaster quality guidelines. It's
     our goal to provide our advertisers sites that offer rich and meaningful
     content, receive organic traffic, and allow us to serve well-targeted ads
     to users. We believe that currently your site does not fulfill this
-    criteria. 
-    
+    criteria.
+
     For more details, please read the webmaster quality guidelines at
     http://www.google.com/support/webmasters/bin/answer.py?answer=35769 and
     the AdSense program policies at
     http://support.google.com/adsense/bin/answer.py?answer=48182,
     https://support.google.com/adsense/bin/topic.py?topic=1271507
-    
+
     (...)
 
 OK, I went on and read **all** the documentation on program policies
