@@ -67,4 +67,7 @@ going, but here are the distilled situation:
     umount /mnt
 
 
-[[!tag  uncategorized]]
+[[!tag  boot]]
+[[!tag  debian]]
+[[!tag  free-software]]
+[[!tag  hardware]]

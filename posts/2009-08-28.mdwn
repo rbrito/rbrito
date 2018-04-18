@@ -21,4 +21,6 @@ single 650MB CD, the reason being twofold:
   CD.
 
 
-[[!tag  uncategorized]]
+[[!tag  backups]]
+[[!tag  debian]]
+[[!tag  free-software]]

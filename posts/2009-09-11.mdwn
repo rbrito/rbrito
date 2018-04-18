@@ -47,4 +47,10 @@ necessary steps to fix it are just to:
 This was a nice learning exercise, to be honest.
 
 
-[[!tag  uncategorized]]
+[[!tag  apple]]
+[[!tag  boot]]
+[[!tag  debian]]
+[[!tag  free-software]]
+[[!tag  hardware]]
+[[!tag  macosx]]
+[[!tag  ubuntu]]

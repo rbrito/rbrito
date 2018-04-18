@@ -13,4 +13,8 @@ programs that he runs, about some other concepts, about an
 for MacOS X and so on. Always a pleasure to talk with him.
 
 
-[[!tag  uncategorized]]
+[[!tag  apple]]
+[[!tag  debian]]
+[[!tag  free-software]]
+[[!tag  life]]
+[[!tag  macosx]]

@@ -13,4 +13,6 @@ In summary, the whole year had its up and downs, but I think that
 it had more ups than downs.
 
 
-[[!tag  uncategorized]]
+[[!tag  debian]]
+[[!tag  free-software]]
+[[!tag  life]]

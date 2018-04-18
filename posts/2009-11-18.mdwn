@@ -46,4 +46,9 @@ manpages. But I used Emacs's Perl mode. This way, Emacs shows the
 pod source as a comment, without recognizing the structure of the
 files. That's not a problem anymore. Russ Allbery just hinted me at
 the fact that Emacs offers a pod-mode. Amazing.
-[[!tag  uncategorized]]
+
+
+[[!tag  apple]]
+[[!tag  debian]]
+[[!tag  free-software]]
+[[!tag  tex]]
