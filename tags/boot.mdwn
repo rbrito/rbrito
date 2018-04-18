@@ -1,0 +1,4 @@
+[[!meta title="pages tagged boot"]]
+
+[[!inline pages="tagged(boot)" actions="no" archive="yes"
+feedshow=10]]
