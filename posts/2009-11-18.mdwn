@@ -7,10 +7,10 @@ First of all, I clearead all the bugs in
 [very long standing bug](http://bugs.debian.org/436159) in Apple's code
 that prevented me from compiling everything in 64-bits.
 
-Now, the package compiles under all arches, which is amazingly
-great. I also took the opportunity to
-[tell Apple](http://lists.apple.com/archives/Darwin-userlevel/2009/Nov/msg00004.html)that
-I have patches that I want to push upstream. Let's see if they are
+Now, the package compiles under all arches, which is amazingly great. I also
+took the opportunity to [tell
+Apple](http://lists.apple.com/archives/Darwin-userlevel/2009/Nov/msg00004.html)
+that I have patches that I want to push upstream. Let's see if they are
 indeed open to collaboration.
 
 I'm learning to use the marvellous
