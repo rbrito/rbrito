@@ -1,3 +1,4 @@
 baseURL = "http://cynic.cc/"
 languageCode = "en-us"
 title = "Rogério Brito's Digital Junkyard"
+theme = "ananke"
