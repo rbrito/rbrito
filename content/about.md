@@ -1,5 +1,8 @@
-[[!meta  title="About"]]
-[[!meta  date="2007-04-22 17:24:57"]]
+---
+title: "About"
+date: "2007-04-22 17:24:57"
+tags: [debian, free-software, life, study, work]
+---
 
 # About my site and me
 
