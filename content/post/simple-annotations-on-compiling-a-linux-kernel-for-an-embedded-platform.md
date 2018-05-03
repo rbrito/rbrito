@@ -1,0 +1,126 @@
+---
+title: "Simple Annotations on Compiling a Linux Kernel for an Embedded Platform"
+date: "2010-05-12 00:54:52"
+tags: [configuration, debian, development, embedded, free-software, hacks, kernel, kurobox, linux, powerpc]
+---
+
+Here are some facts distilled from my experience with preparing kernels to
+some embedded platforms. In other words, this is some of the stuff that is
+usually presumed to be known, but that you won't find compiled in many
+places, unfortunately.
+
+I am writing them here in the hope that they can be useful to other folks
+trying to compile their kernel to embedded devices (and I would venture to
+say that these "non-standard" platforms would become more popular in the
+future).
+
+* some machines don't have monitors, keyboards etc. They may only have
+  network connections (e.g., ethernet) and USB ports. In such cases, it
+  console" called a netconsole. It can be enabled with the options: is quite
+  handy to see how the machine is booting with a "virtual console" called a
+  netconsole. It can be enabled with the options:
+
+        CONFIG_NETCONSOLE=y
+        CONFIG_NETPOLL=y
+        CONFIG_NET_POLL_CONTROLLER=y
+
+  You have to tell the kernel where to send the messages that would,
+  otherwise, be presented on a screen. For sending them over the network,
+  just tell the kernel to use the command line option:
+
+        netconsole=6666@192.168.11.150/,@192.168.11.149/
+
+  This way, you can easily connect from another (more comfortable?) computer
+  with something like (this connection is made via UDP, not TCP):
+
+        ip addr add 192.168.11.149/24 broadcast 192.168.11.255 dev eth0
+        nc -u -n -p 6666 192.168.11.150 6666
+
+* while some popular bootloaders for desktops are LILO and GRUB, many other
+  platforms use other bootloaders: yaboot, quik, bootx, silo, refit, etc. In
+  the case of embedded platforms, one that is popular is "das uBoot", which
+  needs a special kind of kernel image, a `uImage`, instead of a regular
+  `{b}zImage/vmlinu{x,z}` image. (Well, actually, some other arches need
+  images in other formats, like `vmlinux.coff` etc). Fortunately, the
+  kernel's makefile knows about some such arches and it generates the
+  correct image---but it is the task of the packager/distributor to find if
+  those images are needed or not. For the KuroBox HD/HG, all that is needed
+  is a simple:
+
+        cp $LINUXPATH/arch/powerpc/boot/uImage $BUILT_ROOT/boot/uImage-$VERSION
+
+* some extra care is needed when generating a kernel for such arches: the
+  tree of the devices which the kernel needs does not seem to be built
+  automatically (this is the case of the the KuroBox HD/HG). Something like
+  this is needed after the compilation of the kernel proper:
+
+        ./scripts/dtc/dtc -I dts -O dtb -V 16 -o $BUILT_ROOT/boot/kuroboxHD.dtb-$VERSION ./arch/powerpc/boot/dts/kuroboxHD.dts
+        ./scripts/dtc/dtc -I dts -O dtb -V 16 -o $BUILT_ROOT/boot/kuroboxHG.dtb-$VERSION ./arch/powerpc/boot/dts/kuroboxHG.dts
+
+* to cross compile a kernel, don't forget to set the appropriate environment
+  options, like:
+
+        INSTALL_MOD_PATH=$BUILT_ROOT ARCH=powerpc CROSS_COMPILE=powerpc-linux-gnu- make clean
+        INSTALL_MOD_PATH=$BUILT_ROOT ARCH=powerpc CROSS_COMPILE=powerpc-linux-gnu- make oldconfig
+        INSTALL_MOD_PATH=$BUILT_ROOT ARCH=powerpc CROSS_COMPILE=powerpc-linux-gnu- make menuconfig
+        INSTALL_MOD_PATH=$BUILT_ROOT ARCH=powerpc CROSS_COMPILE=powerpc-linux-gnu- make all modules
+        INSTALL_MOD_PATH=$BUILT_ROOT ARCH=powerpc CROSS_COMPILE=powerpc-linux-gnu- make modules_install
+
+  It won't hurt if you use a concurrency setting (like `-j3` or more) when
+  compiling all and modules.
+
+* The uBoot command line (accessed via the network) can be something like:
+
+        ext2load ide ${hdpart} ${ldaddr} ${hdfile}
+        ext2load ide ${hdpart} 7f0000 boot/kuroboxHD.dtb
+        setenv bootargs root=/dev/sda1 netconsole=6666@192.168.11.150/,@192.168.11.149/
+        bootm ${ldaddr} - 7f0000
+
+  The first two lines tell uBoot to load the both the kernel and the device
+  tree from the disk to the memory, the third line sets the kernel command
+  line (familiar to users of the "common" arches) and the fourth line
+  actually boots the kernel once it is loaded in the memory. Here, `${hdpart}`
+  is the partition where the kernel image `${hdfile}` should be loaded from
+  (usually in the form 0:1, to mean partition 1 from the disk 0), `${ldaddr}`
+  is the memory address where the kernel should be loaded to.
+
+* Something that is handy, no matter what size your machine has: the use of
+  ext4 (and, in particular, delayed allocation) with `ext{2,3}`
+  filesystems. To use it, just put this in your kernel configuration file:
+
+        CONFIG_EXT4_USE_FOR_EXT23=y
+
+* Support for daemons like [avr-evtd][avr-evtd], that need access to a serial port (so
+  that the user can turn off the device by pressing the power button),
+  enable:
+
+        CONFIG_SERIO=y
+        CONFIG_SERIO_SERPORT=y
+        CONFIG_SERIAL_8250=y
+
+  Otherwise, you will always have to ssh into the system, become root, and
+  issue something like:
+
+        shutdown -h now
+
+  which is an inconvenience.
+
+* It is very important to set the Real Time Clock options right and this may
+  not be that obvious for some non-x86 platforms. In particular, for a
+  KuroBox HD, I'm using:
+
+        CONFIG_RTC_CLASS=y
+        CONFIG_RTC_HCTOSYS=y
+        CONFIG_RTC_HCTOSYS_DEVICE=rtc0
+        CONFIG_RTC_INTF_SYSFS=y
+        CONFIG_RTC_INTF_PROC=y
+        CONFIG_RTC_INTF_DEV=y
+        CONFIG_RTC_DRV_RS5C372=y
+
+  The last option is, perhaps, the tricky one, and varies from system to
+  system. Knowing which one to enable is a matter of knowing the specs of
+  your system and, if not known, discovery by trial-and-error. (For x86
+  systems, usually `CONFIG_RTC_DRV_CMOS=y` is sufficient).
+
+[avr-evtd]: https://packages.debian.org/sid/avr-evtd
+

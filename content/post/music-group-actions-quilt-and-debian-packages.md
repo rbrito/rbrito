@@ -1,0 +1,62 @@
+---
+title: "Music, Group Actions, Quilt and Debian Packages"
+date: "2007-06-13 02:08:51"
+tags: [abstract-algebra, class-equation, computers, debian, group-actions, math, quilt]
+---
+
+These are some short notes on what I've doing these days.
+
+Unfortunately, there isn't much to talk about. I think that one of the most
+relevant things that I did was to resurrect one of my best
+[[!wikipedia Digital_audio_extraction desc="audio-extracting"]] CD-ROM
+drives: just opened the case of my computer, took off the CD drive, opened,
+cleaned its lens, lubricated the moving parts and everything is back to
+normal operation.
+
+This sense of "getting something for nothing" is hard to explain to those
+who have not experienced it already.
+
+Other things that I did was to grab some old CDs that I had laying here
+(Radiohead's [[!wikipedia OK Computer]], Pantera's
+[[!wikipedia Far_Beyond_Driven]], the tribute to Queen called "Dragon
+Attack", and Gentle Giant's [[!wikipedia Free Hand]], among others). Dream
+Theater's
+[[!wikipedia Systematic_Chaos desc="Special Edition of Systematic Chaos"]]
+is quite good, but unfortunately I don't have a 5.1 system at my disposal.
+
+I also selected some material for further studies. I'm right now studying
+[[!wikipedia group actions]] (or G-sets as some seem to prefer). Soon, I
+will be finishing the basics of Group Theory (hey, really, why is the
+[[!wikipedia Conjugacy class desc="Class Equation"]] of groups that
+"famous"? It is just a matter of saying that $|X| = \sum_{x\in X} 1$, but
+with cardinality of orbits instead of with one's and with a transversal of
+the orbits in place of $X$ itself).
+
+Actually, if the orbits of the elements of the $G$-set $X$ consist of just
+one element, then the equation above is the
+[[!wikipedia Group action desc="Class Equation"]] (what some people would
+call $\mathop{\mathrm{Fix}}(X)$, I would call the "orbits being trivial").
+
+Anyway, [[!wikipedia Burnside's lemma]] (which actually seems to be wrongly
+attributed, since it seems to be discovered independently by Cauchy and
+Frobenius) for counting orbits of a given action of a $G$-set has nice
+implications in combinatorics and it should be, at least, mentioned in any
+self-respecting introduction to Group Theory.
+
+Oh, I almost forgot one of the major things that I did today (2007-06-12): I
+finally learned how to manipulate the [`quilt`][0] patch-system (initiated
+by [[!wikipedia Andrew Morton (computer programmer) desc="Andrew Morton"]]).
+The crucial point that is not written anywhere: the patches, by default, are
+applied with `-p1` instead of `-p0`. This took me quite some time to get, as
+the documentation isn't explicit about it. Installation of quilt in a
+[MacOS X][1] system is not trivial, due to the demand of [GNU][2] tools.
+
+But now I can keep some [Debian][3] packages of mine in a better shape than
+if I were just applying a single monolithic patch.
+
+[0]: http://savannah.nongnu.org/projects/quilt
+[1]: http://www.apple.com/macosx/
+[2]: http://www.gnu.org/
+[3]: http://www.debian.org/
+
+

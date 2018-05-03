@@ -1,5 +1,0 @@
-[[!meta  date="2000-10-07"]]
-Still complaining about my reverse DNS.
-
-[[!tag  isp]]
-[[!tag  dns]]

@@ -1,0 +1,91 @@
+---
+title: "Trivial fact #3: Continued fractions via matrices"
+date: "Sun, 23 Feb 2014 23:30:30 -0300"
+tags: [debian, math, study, tex]
+---
+
+# Note
+
+Apparently, it's not Debian planet that has problems to deal with MathJax
+(which makes posts usingn it appear illegible on Debian planet), but the
+[ikiwiki plugin][*] that I am using which generates garbage in the feeds
+that get consumed by planet.debian.org.
+
+If you it know of a better plugin (which doesn't generate such output)
+please let me know, *especially* if it is not super computationally
+expensive for a Core 2 Duo T7250 (which is my notebook).
+
+# The real thing
+
+As [William Stein][0] is now offering a course on Number Theory and he has
+been posting recorded videos of his lectures, I started watching some of
+them (mainly, the ones regarding continued factions).  In particular, he
+shows the usual recursive formula for convergents of a continued fraction
+and that's super nice.
+
+For the curious reader, the recurrence relations for the convergents of
+$[a_0, a_1, \ldots, a_n, \ldots]$ are:
+\[
+p_n = a_n p_{n-1} + p_{n-2}\\
+q_n = a_n q_{n-1} + q_{n-2},
+\] with initial conditions ($p_{-2} = 0$, $p_{-1} = 1$, $p_0 = a_0$,
+$q_{-2} = 1$, $q_{-1} = 0$, $q_0 = 1$).
+
+He even motivated the use of continued fractions with the golden ratio,
+which is super nice, given that I like the subject and have been writing a
+document collecting facts that I know about the Fibonacci numbers (well,
+this document is horribly incomplete and not even close to something that I
+would consider proper for public consumption&mdash;I plan on publishing
+them soon).
+
+OK, after he discussed the basics of it convergents, he noted that the
+recurrence relations are like those defining the Fibonacci numbers, just
+that one of the terms is "weighted" by the coefficients of the continued
+fraction.
+
+I missed one thing, though: neither [his book][1] nor wikipedia's article on
+[[!wikipedia continued fractions]] mentions a very neat, alternative way to
+express the convergents of continued fractions (truth be said, I took a
+quick peek at wikipedia's article and I found that it doesn't mentionat
+least explicitly, in a 1 min skim&mdash;it may well be buried somewhere
+else).
+
+I, then, [proposed][2] the following exercise for his students (which he
+apparently liked, as he +1's the suggestion):
+
+Prove that the recurrence relation of the $p_i$'s and $q_i$'s that we
+mentioned before can be obtained via matrix multiplication. More precisely,
+prove that:
+\[
+\begin{bmatrix}
+a_0 & 1\\
+1 & 0
+\end{bmatrix}
+\begin{bmatrix}
+a_1 & 1\\
+1 & 0
+\end{bmatrix}
+\cdots
+\begin{bmatrix}
+a_n & 1\\
+1 & 0
+\end{bmatrix}
+ =
+\begin{bmatrix}
+p_n & p_{n-1}\\
+q_n & q_{n-1}
+\end{bmatrix}.
+\]
+As a corollary, derive Cassini's identity for the Fibonacci Numbers.
+
+<br />
+
+Please, if you any errors on this, please let me know so that I can fix it.
+
+***Edit:*** Thanks "noone" for spotting a typographical error.
+
+[*]: https://github.com/rbrito/ikiwiki-plugin-mathjax
+[0]: http://wstein.org/
+[1]: http://wstein.org/ent/
+[2]: https://plus.google.com/115360165819500279592/posts/guGv6w9jmxr
+

@@ -1,0 +1,29 @@
+---
+title: "Please let me zoom my documents!"
+date: "2010-05-27 11:17:00"
+tags: [bugs, debian, fonts, free-software, hacks, libraries, pdf, tex, xetex]
+---
+It all started when I tried to typeset my documents with the <a href="http://en.wikipedia.org/wiki/Utopia (typeface)">Utopia</a> typeface, which is Free Software, since <a>Adobe liberated it to the TeX Users Group.</a>
+
+There are some nice packages for changing fonts in LaTeX with Utopia, like <a href="http://www.ctan.org/tex-archive/help/Catalogue/entries/mathdesign-utopia.html"><code>mathdesign</code></a> and <a href="http://www.ctan.org/tex-archive/help/Catalogue/entries/fourier.html">fourier</a>. But I wanted to play with a new toy, <a href="http://www.tug.org/xetex/">XeTeX</a>.
+
+Then, seeing as small caps was missing from the fonts that Adobe donated, I tried to just fake them with a program that I had never heard of before: <a href="http://fontforge.sf.net/">fontforge</a>.
+
+My <a href="http://bugs.debian.org/569548">first attempt</a> wasn't that very successful, but, after reading a little bit of the code, <a href="http://bugs.debian.org/569548#15">the reason for the problem was soon discovered</a>.
+
+At the same time, I wanted to <em>see</em> what I had done with a PDF reader. The options aren't many here: xpdf was already removed from Debian's unstable (which is the distribution that I use), trying to <a href="http://bugs.debian.org/527840">update it</a> proved to be unsuccessful and upstream isn't that active (which, by the way, led to the creation of the <a href="http://cgit.freedesktop.org/poppler/poppler/tree/README">poppler project</a>).
+
+Unfortunately, some of the Free PDF viewers seem to be <a href="https://bugs.launchpad.net/evince/+bug/241604">limited</a> <a href="https://bugzilla.redhat.com/show_bug.cgi?id=532946">to</a> a <a href="http://mail.gnome.org/archives/evince-list/2007-March/msg00002.html">maximum</a> <a href="http://bugs.debian.org/583119">zoom</a> <a href="http://bugs.debian.org/580495">of 400%</a>, while some documents seem to demand more zooming (especially those with little, tiny letters, and for those people, like myself, that don't have good eyesight).
+
+Patching the programs to eliminate those hardcoded limits isn't that hard, but the results with evince and epdfview can be frightening: <a href="http://kernel.org/pub/linux/kernel/people/hpa/raid6.pdf">a very simple document</a>, when zoomed with epdfview to, say, 1600% uses so much memory that one needs to watch out for the Out Of Memory killer and so much swapping that it is hard to believe. Don't believe my words. Just try it.
+
+But, hey, I just want to see a document without having to suffer too much.  And 400% isn't enough for many documents that I have. Especially when I want to see how a given font has been rendered on a document.
+
+I have not yet investigated the real cause of the huge memory consumption, but I would trust the words of the developers, that <a href="https://bugzilla.gnome.org/show_bug.cgi?id=303365#c6">evince does everything in a big piece of memory</a>. On the other hand, if one compiles poppler right from the sources, its <a href="http://cgit.freedesktop.org/poppler/poppler/tree/glib/demo">demo program</a> for the glib backend can display files in a zippy manner, even with very large zooms.
+
+xpdf, though, works very well with higher zoom levels, without making the whole computer grind to a halt. Seeing as Martin Pitt has <a href="http://bugs.debian.org/351279">stripped xpdf to be able to use the poppler backend</a>, I was animated to have the best of both worlds: the frequent updates of poppler and the lightness of xpdf.
+
+Martin's port of xpdf doesn't compile with a recent poppler, though: the library has <a href="http://lists.freedesktop.org/archives/poppler/2009-May/004665.html">changed</a> <a href="http://lists.debian.org/debian-devel/2007/12/msg00501.html">a lot</a> <a href="https://bugzilla.redhat.com/show_bug.cgi?id=551119#c3">since</a> <a href="http://lists.debian.org/debian-tex-maint/2009/09/msg00203.html">2006</a>.  And, in many respects, for good reason, since the original code is not that clean. But it makes harder for luses like me to use code based on fast-changing libraries.
+
+Well, to cut a long story short, after two afternoons hunting down a  version of poppler that would allow me to compile Martin's xpdf version, I got bored and tried to attack the problem.  Now I can use  this alternative version of xpdf with the poppler backend, with very little dependencies and with little memory usage on my computer. I'm keeping it for my private use, but if anybody else is interested, please let me know.
+

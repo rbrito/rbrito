@@ -1,0 +1,93 @@
+---
+title: "A version of xpdf with the poppler backend available"
+date: "2010-06-10 19:46:13"
+tags: [c++, debian, development, documents, free-software, hacks, libraries, programming]
+---
+
+Well, it's been some time since I last wrote here and things are quite
+hectic, due to some real-life happenings.
+
+# Announcement
+
+For those people that are insterested in a *small* PDF viewer, based on
+[an actively maintained backend][0], and that
+[doesn't bring your computer to a halt][1] when you try to zoom your
+documents when you need to see some details, then you might want to give
+[this version of xpdf][2] a try.
+
+[0]: http://poppler.freedesktop.org/
+[1]: http://localhost/blog/2010/05/27/please-let-me-zoom-my-documents/
+[2]: http://github.com/rbrito/xpdf-poppler
+
+I already received some reports for some bugs and fixed them, with one of
+them being a problem related by a kind user of [Gentoo][3].
+
+[3]: http://www.gentoo.org/
+
+# Motivation
+
+Some people have asked me why this even needs to exist in the first place
+and I agree that it would be better if it didn't: I would love to spend my
+time actually *using* my computers rather than *fixing* my computers for
+better tasks (read: studying Mathematics, etc).
+
+The upstream maintainer of xpdf uses it as one source of income and keeps it
+running across many system (even legacy ones).  I *imagine* that this one of
+the reasons why he tries to keep xpdf almost self contained, with many parts
+that could be delegated to other libraries, and with some abstraction code
+that makes the code compile even in the presence of *very* broken compilers.
+Of course, this means, in part, that as long as you take more duties,
+maintaing the code becomes more and more complex.
+
+He told me that he doesn't offer an open development tree because he wants
+to give his customers some advantages over the public version and his
+reasons are perfectly justifiable, of course.  He also manifested the
+interest of possibly basing xpdf on a "more modern toolkit" and, when I
+asked him what that would be, he mentioned that, perhaps, it would be
+Qt. The development of xpdf will, quite probably, take newer directions.
+
+Unfortunately, xpdf has not seen a new upstream release since
+[2007-02-27][4].  It did, though, have [some][5] [patchlevel][6]
+[updates][7] [released][8]. Taking care of the maintainance of the code is a
+[high concern][9] for distributions.
+
+[4]: http://www.foolabs.com/xpdf/CHANGES
+[5]: ftp://ftp.foolabs.com/pub/xpdf/xpdf-3.02pl1.patch
+[6]: ftp://ftp.foolabs.com/pub/xpdf/xpdf-3.02pl2.patch
+[7]: ftp://ftp.foolabs.com/pub/xpdf/xpdf-3.02pl3.patch
+[8]: ftp://ftp.foolabs.com/pub/xpdf/xpdf-3.02pl4.patch
+[9]: http://bugs.debian.org/527840
+
+Some people, though, would like to [keep it simple][a] (me included).
+Unfortunately, [some efforts][b] to [maintain][c] it had [not had][d] the
+[necessary coordination][e] and duplication of effort has occured.
+
+[a]: http://en.wikipedia.org/wiki/KISS_principle
+[b]: http://bugs.debian.org/351279
+[c]: http://lists.debian.org/debian-mentors/2010/06/msg00046.html
+[d]: http://bugs.gentoo.org/show_bug.cgi?id=289803
+[e]: http://lists.debian.org/debian-mentors/2010/06/msg00068.html
+
+# Proposal
+
+I am willing to become a patch aggregator for the code in xpdf with a
+poppler backend. I would love to give it some refactoring too, drop some of
+the legacy code that is not used (and only serves to make the code hard to
+read), and adopt some good coding style standard (I particularly
+[like the one from the Linux Kernel][f]---with the proper adaptations for
+C++).
+
+[f]: http://www.kernel.org/doc/Documentation/CodingStyle
+
+I have already [contacted the people at Gentoo][f], and I would love to get
+people from Fedora, Ubuntu, and Suse involved also. Alas, the last time I
+tried to mail their mailing lists, I got messages telling me that my
+messages were rejected or waiting for moderation, because I was not a
+subscriber. I never heard back, since.
+
+[g]: https://bugs.gentoo.org/show_bug.cgi?id=323469
+
+I appreciate it if you could help spread the word.
+
+Thanks.
+

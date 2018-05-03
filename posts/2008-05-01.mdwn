@@ -1,7 +1,0 @@
-[[!meta  date="2008-05-01"]]
-Got myself a [WSXGA+](http://en.wikipedia.org/wiki/WSXGA+) 22
-inches LCD monitor.
-
-
-[[!tag  hardware]]
-[[!tag  life]]

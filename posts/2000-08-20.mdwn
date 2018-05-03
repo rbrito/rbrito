@@ -1,6 +1,0 @@
-[[!meta  date="2000-08-20"]]
-Still eating those Big Macs today. Made a home grown, bootable CD
-of the relevant (for me, at least) part of Potato with some other
-goodies. Struggled at first to get the bootable part going, but oh,
-how I love available source code.
-[[!tag  debian]]

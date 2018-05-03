@@ -1,5 +1,0 @@
-[[!meta  date="2000-08-15"]]
-No work today! Debian's Potato has
-[turned 18!](http://www.debian.org/News/2000/20000815)
-[[!tag  debian]]
-[[!tag  linux]]

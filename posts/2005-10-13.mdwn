@@ -1,9 +1,0 @@
-[[!meta  date="2005-10-13"]]
-[Ubuntu](http://www.ubuntu.com)'s
-[breezy](http://www.ubuntu.com/download/) was released today!
-Nice!
-
-
-[[!tag  debian]]
-[[!tag  ubuntu]]
-[[!tag  free-software]]

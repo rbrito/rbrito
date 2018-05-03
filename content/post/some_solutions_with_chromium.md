@@ -1,0 +1,81 @@
+---
+title: "(Some) Solutions with Chromium"
+date: "2011-03-09 14:33:00"
+tags: [browsers, free-software, debian, extensions]
+---
+
+In [[my previous post|problems_with_chromium]], I was pointing out some of
+my frustrations with Chromium/Chrome.  A very kind reader, Timo Juhani
+Lindfors, gave me answers to many of the problems that I pointed out and got
+me straight on some issues:
+
+> * I can disable full zoom in Iceweasel (i.e., I only want to zoom the text,
+>  not the images). According to Chromium's project BTS, it seems that this
+>  will be a `WONTFIX` bug, despite many people asking for it (and it having
+>  a lot of duplicates).
+
+Timo told me that there is an extension called ["Font Size Increase"][FSI]
+(ID: ombpcpigmndepfckcifdblemkabaoihk) that adds a button on the side of the
+URL bar that you can click to increase the size of the text, without
+affecting the size of the images. Highly recommended.
+
+Not that I need this one as much as "Font Size Increase", but there is also
+a ["Font Size Decrease"][FSD] (ID: mpajngnpcmjjeoflljdjpnehcfaldcia) that,
+as the name implies, decreases the size of the text. It is nice to have this
+one when you clicked on the button to increase the size of the font one or
+two times too many.
+
+> * In Iceweasel, I have a way (without resorting to many extensions or
+>   hackish solutions) to use the equivalent of Firefox's "View > Page Style >
+>   No Style" (i.e., to ignore any CSS sheet that the document author may have
+>   specified on the page).
+
+Timo also told me that there is a very cool extension called
+["Chrome Page Style"][CPS] (ID: ddpkgkegfklikkmfmneldonhldahhacb) that
+allows you to alternate between stylesheets provided by the page (see Joey
+Hess's [ikiwiki's CSS Market][IWCSSM] for an example of that).
+
+It also has the possibility of disabling all the CSS'es that a page may
+have, which, in many cases around the web *actually improves* the
+readability of the pages, for many "fancy" things detract from readability,
+especially if you have poor eyesight.
+
+Although I had said that I didn't want to resort to extensions, this was a
+simple solution enough that made me consider revisit my requirements.  I do,
+though, wonder why some frequently used extensions are not built into the
+programs from stock.
+
+> * In Iceweasel, I can press `Ctrl+Q` and make the damn browser quit, instead
+>   of me having to use the mouse/trackpad/pointing device. This is probably a
+>   lack of my understanding on how to associate key bindings to Chromium, but
+>   the problem still stands.
+
+Of course, Timo also set me straight and told me about `Ctrl+Shift+Q` for
+that purpose, which I had missed completely.
+
+> * Similarly, when there is only one tab open, pressing `Ctrl+W` in Chromium
+>  does not close the tab (say, presenting me a blank tab or the list of most
+>  visited sites), nor it closes the application.
+
+As a poor writing of my part, `Ctrl+W` does close the tabs. But when there
+is only one tab present, it doesn't close the window. I'm OK with that,
+since I now know the way to close the window. Thanks again Timo.
+
+Oh, and one point that may not be known by many is that using `about:flags`
+in Chrome does something analogue to Firefox's `about:config` (even with the
+warning).
+
+And tweaking with it you can try to see if you can enable hardware
+acceleration of some parts of your pages, as present in newer releases of
+Chromium.
+
+So, there I am: way more satisfied than with earlier with Chromium, but
+still having Firefox/Iceweasel as my primary browser. Good to have two
+usable browsers now.
+
+
+[CPS]: https://chrome.google.com/webstore/detail/ddpkgkegfklikkmfmneldonhldahhacb
+[FSD]: https://chrome.google.com/webstore/detail/mpajngnpcmjjeoflljdjpnehcfaldcia
+[FSI]: https://chrome.google.com/webstore/detail/ombpcpigmndepfckcifdblemkabaoihk
+[IWCSSM]: http://ikiwiki.info/css_market/
+

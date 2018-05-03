@@ -1,0 +1,29 @@
+---
+title: "Nobody expects the... STIX fonts release!"
+date: "2010-05-29 17:54:56"
+tags: [fonts, free-software, tex, typography]
+---
+Please, excuse me if you are a connoisseur of fonts and typography. You will
+find this boring, but other people may not know.
+
+With that said, something that has been the subject of a joke for
+[many years][0] is the release of a set of fonts designed by a consortium of
+pulishers to create a typeface that would "match" the visual of Times, but
+that would have many (all?) of the glyphs needed by scientists.
+
+Well, [the wait is over][1] (surprisingly). I didn't expect that. And the
+Free Software part of this is that the fonts were released under the SIL
+Open Font Library.
+
+This, together with Google's new [font directory][2] of Free Software fonts
+(overshadowed by the release of VP8 codec, in the eyes of some), shows that
+the typographic arena is alive and going strong.
+
+*Edit:* Thanks to Paul Turnbull from [ArtofBlog.com][3] for spotting a link
+that went bad when Google moved their font directory.
+
+[0]: http://stixfonts.org/proj_timeline.html
+[1]: http://www.stixfonts.org/
+[2]: https://fonts.google.com/
+[3]: http://www.artofblog.com/typography-basics-some-fundamentals-for-body-copy/
+

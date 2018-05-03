@@ -1,8 +1,0 @@
-[[!meta  date="2002-07-26"]]
-Fixed some of my e-mail settings and now things seem to be
-simpler.
-
-
-[[!tag  free-sfotware]]
-[[!tag  hack]]
-[[!tag  life]]

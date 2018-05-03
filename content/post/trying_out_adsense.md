@@ -1,0 +1,38 @@
+---
+title: "Trying out AdSense"
+date: "Mon, 03 Sep 2012 20:12:42 -0300"
+tags: [adsense, advertisements, debian, debian-planet, free-software, funding]
+---
+
+I have been having quite costly experiments with [(embeded) hardware][0] in
+the last few weeks/months. To cover at least part of the expenses, I am
+trying out to use Google's [AdSense][1] with my blog.
+
+I plan on blogging more frequently with the results of the experiments, but
+it will take me a few days, as I want to offer people only the "meat" of
+what I actually did, pointing out some pitfalls that made me waste a lot of
+time.
+
+Anyway, back to AdSense, one interesting thing about trying it is that I
+applied to be part of the program for 3 or 4 times late in August and, due
+to unspecified reasons, my application was rejected for "not complying with
+their policies".  I read the policies from left to side, from up and down
+and nowhere I saw anything that my blog infringed.
+
+This morning, I tried once again and I'm now in a sort of "probation period"
+for AdSense, which is progress I think.
+
+So far, I only put one advertisement at the top of my pages, but I am
+curious to know how "targeted" those ads would be to a blog that has
+articles that were written more than a decade ago, with posts in at least
+two languages.
+
+I guess that this is a weaker version of what [Raphaël Hertzog][2] is trying
+to do with his funding campaigns, except that I only expect to cover the
+costs of my hardware (even if I am skeptical that I will actually manage to
+reach that point of self-sufficiency).
+
+[0]: http://buffalo.nas-central.org/wiki/LS_Hardware_and_Software_information
+[1]: https://www.google.com/adsense
+[2]: http://raphaelhertzog.com/
+

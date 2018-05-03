@@ -1,9 +1,0 @@
-[[!meta  date="2005-12-28"]]
-And creating a DVD with menus is not the easiest thing to do. It is
-actually quite a lot of (boring) work.
-
-
-[[!tag  debian]]
-[[!tag  dvds]]
-[[!tag  free-software]]
-[[!tag  video]]
