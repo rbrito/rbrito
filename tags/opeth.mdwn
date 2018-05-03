@@ -1,4 +1,0 @@
-[[!meta title="pages tagged opeth"]]
-
-[[!inline pages="tagged(opeth)" actions="no" archive="yes"
-feedshow=10]]

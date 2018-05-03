@@ -1,4 +1,0 @@
-[[!meta title="pages tagged lazyweb"]]
-
-[[!inline pages="tagged(lazyweb)" actions="no" archive="yes"
-feedshow=10]]

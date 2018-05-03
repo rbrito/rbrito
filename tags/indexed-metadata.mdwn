@@ -1,4 +1,0 @@
-[[!meta title="pages tagged indexed-metadata"]]
-
-[[!inline pages="tagged(indexed-metadata)" actions="no" archive="yes"
-feedshow=10]]

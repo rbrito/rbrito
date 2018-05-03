@@ -1,4 +1,0 @@
-[[!meta title="pages tagged phd"]]
-
-[[!inline pages="tagged(phd)" actions="no" archive="yes"
-feedshow=10]]

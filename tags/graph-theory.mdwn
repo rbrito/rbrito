@@ -1,4 +1,0 @@
-[[!meta title="pages tagged graph-theory"]]
-
-[[!inline pages="tagged(graph-theory)" actions="no" archive="yes"
-feedshow=10]]

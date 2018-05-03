@@ -1,4 +1,0 @@
-[[!meta title="pages tagged symphony-x"]]
-
-[[!inline pages="tagged(symphony-x)" actions="no" archive="yes"
-feedshow=10]]

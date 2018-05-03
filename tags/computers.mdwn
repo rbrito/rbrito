@@ -1,4 +1,0 @@
-[[!meta title="pages tagged computers"]]
-
-[[!inline pages="tagged(computers)" actions="no" archive="yes"
-feedshow=10]]

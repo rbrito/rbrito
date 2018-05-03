@@ -1,4 +1,0 @@
-[[!meta title="pages tagged pypi"]]
-
-[[!inline pages="tagged(pypi)" actions="no" archive="yes"
-feedshow=10]]

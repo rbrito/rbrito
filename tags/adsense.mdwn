@@ -1,4 +1,0 @@
-[[!meta title="pages tagged adsense"]]
-
-[[!inline pages="tagged(adsense)" actions="no" archive="yes"
-feedshow=10]]

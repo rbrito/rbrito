@@ -1,4 +1,0 @@
-[[!meta title="pages tagged group-actions"]]
-
-[[!inline pages="tagged(group-actions)" actions="no" archive="yes"
-feedshow=10]]

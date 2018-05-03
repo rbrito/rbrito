@@ -1,4 +1,0 @@
-[[!meta title="pages tagged nas"]]
-
-[[!inline pages="tagged(nas)" actions="no" archive="yes"
-feedshow=10]]

@@ -1,4 +1,0 @@
-[[!meta title="pages tagged studies"]]
-
-[[!inline pages="tagged(studies)" actions="no" archive="yes"
-feedshow=10]]

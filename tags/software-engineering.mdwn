@@ -1,4 +1,0 @@
-[[!meta title="pages tagged software-engineering"]]
-
-[[!inline pages="tagged(software-engineering)" actions="no" archive="yes"
-feedshow=10]]

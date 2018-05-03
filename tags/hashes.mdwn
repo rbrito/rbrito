@@ -1,4 +1,0 @@
-[[!meta title="pages tagged hashes"]]
-
-[[!inline pages="tagged(hashes)" actions="no" archive="yes"
-feedshow=10]]

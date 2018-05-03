@@ -1,4 +1,0 @@
-[[!meta title="pages tagged surreal"]]
-
-[[!inline pages="tagged(surreal)" actions="no" archive="yes"
-feedshow=10]]

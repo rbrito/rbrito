@@ -1,4 +1,0 @@
-[[!meta title="pages tagged drm"]]
-
-[[!inline pages="tagged(drm)" actions="no" archive="yes"
-feedshow=10]]

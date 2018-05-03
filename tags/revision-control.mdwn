@@ -1,4 +1,0 @@
-[[!meta title="pages tagged revision-control"]]
-
-[[!inline pages="tagged(revision-control)" actions="no" archive="yes"
-feedshow=10]]

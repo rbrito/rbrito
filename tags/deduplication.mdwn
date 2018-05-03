@@ -1,4 +1,0 @@
-[[!meta title="pages tagged deduplication"]]
-
-[[!inline pages="tagged(deduplication)" actions="no" archive="yes"
-feedshow=10]]

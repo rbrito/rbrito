@@ -1,4 +1,0 @@
-[[!meta title="pages tagged graphics-card"]]
-
-[[!inline pages="tagged(graphics-card)" actions="no" archive="yes"
-feedshow=10]]

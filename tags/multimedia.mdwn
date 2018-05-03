@@ -1,4 +1,0 @@
-[[!meta title="pages tagged multimedia"]]
-
-[[!inline pages="tagged(multimedia)" actions="no" archive="yes"
-feedshow=10]]

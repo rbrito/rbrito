@@ -1,4 +1,0 @@
-[[!meta title="pages tagged xorg"]]
-
-[[!inline pages="tagged(xorg)" actions="no" archive="yes"
-feedshow=10]]

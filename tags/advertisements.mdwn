@@ -1,4 +1,0 @@
-[[!meta title="pages tagged advertisements"]]
-
-[[!inline pages="tagged(advertisements)" actions="no" archive="yes"
-feedshow=10]]

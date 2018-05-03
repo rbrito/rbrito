@@ -1,4 +1,0 @@
-[[!meta title="pages tagged ruby"]]
-
-[[!inline pages="tagged(ruby)" actions="no" archive="yes"
-feedshow=10]]

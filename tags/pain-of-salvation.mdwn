@@ -1,4 +1,0 @@
-[[!meta title="pages tagged pain-of-salvation"]]
-
-[[!inline pages="tagged(pain-of-salvation)" actions="no" archive="yes"
-feedshow=10]]

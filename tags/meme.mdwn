@@ -1,4 +1,0 @@
-[[!meta title="pages tagged meme"]]
-
-[[!inline pages="tagged(meme)" actions="no" archive="yes"
-feedshow=10]]

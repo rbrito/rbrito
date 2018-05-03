@@ -1,4 +1,0 @@
-[[!meta title="pages tagged complexity-theory"]]
-
-[[!inline pages="tagged(complexity-theory)" actions="no" archive="yes"
-feedshow=10]]

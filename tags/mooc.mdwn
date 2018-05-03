@@ -1,4 +1,0 @@
-[[!meta title="pages tagged mooc"]]
-
-[[!inline pages="tagged(mooc)" actions="no" archive="yes"
-feedshow=10]]

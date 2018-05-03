@@ -1,4 +1,0 @@
-[[!meta title="pages tagged btrfs"]]
-
-[[!inline pages="tagged(btrfs)" actions="no" archive="yes"
-feedshow=10]]

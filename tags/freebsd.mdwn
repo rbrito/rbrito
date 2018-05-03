@@ -1,4 +1,0 @@
-[[!meta title="pages tagged freebsd"]]
-
-[[!inline pages="tagged(freebsd)" actions="no" archive="yes"
-feedshow=10]]

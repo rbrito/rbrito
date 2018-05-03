@@ -1,4 +1,0 @@
-[[!meta title="pages tagged quick-tip"]]
-
-[[!inline pages="tagged(quick-tip)" actions="no" archive="yes"
-feedshow=10]]

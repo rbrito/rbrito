@@ -1,4 +1,0 @@
-[[!meta title="pages tagged readline"]]
-
-[[!inline pages="tagged(readline)" actions="no" archive="yes"
-feedshow=10]]

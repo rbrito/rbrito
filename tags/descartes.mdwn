@@ -1,4 +1,0 @@
-[[!meta title="pages tagged descartes"]]
-
-[[!inline pages="tagged(descartes)" actions="no" archive="yes"
-feedshow=10]]

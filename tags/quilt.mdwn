@@ -1,4 +1,0 @@
-[[!meta title="pages tagged quilt"]]
-
-[[!inline pages="tagged(quilt)" actions="no" archive="yes"
-feedshow=10]]
