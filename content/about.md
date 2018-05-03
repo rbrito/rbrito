@@ -30,20 +30,20 @@ have quite a few homonyms, but if you search for my complete name, then I
 only know of me.  That being said, you can find me in many places,
 including:
 
-* [Debian](http://qa.debian.org/developer.php?login=rbrito%40ime.usp.br)
-* [Facebook](http://facebook.com/rtbrito)
-* [Github](http://github.com/rbrito)
+* [Debian](https://qa.debian.org/developer.php?login=rbrito%40ime.usp.br)
+* [Facebook](https://facebook.com/rtbrito)
+* [Github](https://github.com/rbrito)
 * [Google Profile](http://profiles.google.com/rbrito)
 * [Google Scholar](http://scholar.google.com/citations?user=UkkCn38AAAAJ)
 * [Google+](https://plus.google.com/+RogérioBrito)
-* [Last.fm](http://last.fm/user/rbrito)
-* [Launchpad](http://launchpad.net/~rbrito)
-* [LinkedIn](http://linkedin.com/in/rtbrito)
-* [StackOverflow](http://stackoverflow.com/users/962311)
-* [Vimeo](http://vimeo.com/rbrito)
-* [YouTube](http://youtube.com/otirbr)
-* [identi.ca](http://identi.ca/rbrito)
-* [Careers 2.0](http://careers.stackoverflow.com/rbrito)
+* [Last.fm](https://last.fm/user/rbrito)
+* [Launchpad](https://launchpad.net/~rbrito)
+* [LinkedIn](https://linkedin.com/in/rtbrito)
+* [StackOverflow](https://stackoverflow.com/users/962311)
+* [Vimeo](https://vimeo.com/rbrito)
+* [YouTube](https://youtube.com/otirbr)
+* [identi.ca](https://identi.ca/rbrito)
+* [Careers 2.0](https://careers.stackoverflow.com/rbrito)
 * [Twitter](https://twitter.com/rtdbrito)
 
 <iframe src="http://githubbadge.appspot.com/badge/rbrito"
