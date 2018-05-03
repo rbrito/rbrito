@@ -30,10 +30,8 @@ have quite a few homonyms, but if you search for my complete name, then I
 only know of me.  That being said, you can find me in many places,
 including:
 
-* [Ask Debian](http://ask.debian.net/users/rbrito)
 * [Debian](http://qa.debian.org/developer.php?login=rbrito%40ime.usp.br)
 * [Facebook](http://facebook.com/rtbrito)
-* [Flickr](http://flickr.com/photos/rtbrito)
 * [Github](http://github.com/rbrito)
 * [Google Profile](http://profiles.google.com/rbrito)
 * [Google Scholar](http://scholar.google.com/citations?user=UkkCn38AAAAJ)
