@@ -31,12 +31,10 @@ have quite a few homonyms, but if you search for my complete name, then I
 only know of me.  That being said, you can find me in many places,
 including:
 
-* [Debian](https://qa.debian.org/developer.php?login=rbrito%40ime.usp.br)
+* [Debian](https://qa.debian.org/developer.php?login=rbrito%40gmail.com)
 * [Facebook](https://facebook.com/rtbrito)
 * [Github](https://github.com/rbrito)
-* [Google Profile](http://profiles.google.com/rbrito)
 * [Google Scholar](http://scholar.google.com/citations?user=UkkCn38AAAAJ)
-* [Google+](https://plus.google.com/+RogérioBrito)
 * [Last.fm](https://last.fm/user/rbrito)
 * [Launchpad](https://launchpad.net/~rbrito)
 * [LinkedIn](https://linkedin.com/in/rtbrito)
@@ -47,6 +45,3 @@ including:
 * [Careers 2.0](https://careers.stackoverflow.com/rbrito)
 * [Twitter](https://twitter.com/rtdbrito)
 * [GitLab](https://gitlab.com/rtbrito)
-
-<iframe src="http://githubbadge.appspot.com/badge/rbrito"
- style="border: 0;height: 150px;width: 200px;overflow: hidden"></iframe>
