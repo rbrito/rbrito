@@ -45,6 +45,7 @@ including:
 * [identi.ca](https://identi.ca/rbrito)
 * [Careers 2.0](https://careers.stackoverflow.com/rbrito)
 * [Twitter](https://twitter.com/rtdbrito)
+* [GitLab](https://gitlab.com/rtbrito)
 
 <iframe src="http://githubbadge.appspot.com/badge/rbrito"
  style="border: 0;height: 150px;width: 200px;overflow: hidden"></iframe>
