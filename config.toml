@@ -67,7 +67,7 @@ paginate = 10
   [privacy.googleAnalytics]
     anonymizeIP = false
     disable = false
-    respectDoNotTrack = false
+    respectDoNotTrack = true
     useSessionStorage = false
   [privacy.instagram]
     disable = false
@@ -76,7 +76,7 @@ paginate = 10
     disable = false
   [privacy.twitter]
     disable = false
-    enableDNT = false
+    enableDNT = true
   [privacy.vimeo]
     disable = false
   [privacy.youtube]
