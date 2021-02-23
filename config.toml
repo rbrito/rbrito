@@ -15,7 +15,7 @@ paginate = 10
   # Shown in the home page
   subtitle = "My collection of memories and handy tips"
   brand = "Cynic.cc"
-  googleAnalytics = "UA-34541429-1"
+  # googleAnalytics = "UA-34541429-1"
   disqus = "digitaljunkyard"
   # CSS name for highlight.js
   highlightjs = "androidstudio"
@@ -51,11 +51,11 @@ paginate = 10
   # Link your social networking accouns to the side menu
   # by entering your username or ID.
   twitter = "rtdbrito"
-  facebook = "rtbrito"
-  instagram = "rtbrito"
+  #facebook = "rtbrito"
+  #instagram = "rtbrito"
   github = "rbrito"
   stackoverflow = "962311"
-  linkedin = "rtbrito"
+  #linkedin = "rtbrito"
   lastfm = "rbrito"
   bitbucket = "rbrito"
   youtube = "otirbr"
@@ -64,14 +64,14 @@ paginate = 10
 [privacy]
   [privacy.disqus]
     disable = false
-  [privacy.googleAnalytics]
-    anonymizeIP = false
-    disable = false
-    respectDoNotTrack = true
-    useSessionStorage = false
-  [privacy.instagram]
-    disable = false
-    simple = false
+  # [privacy.googleAnalytics]
+  #   anonymizeIP = false
+  #   disable = false
+  #   respectDoNotTrack = true
+  #   useSessionStorage = false
+  # [privacy.instagram]
+  #   disable = false
+  #   simple = false
   [privacy.speakerDeck]
     disable = false
   [privacy.twitter]
