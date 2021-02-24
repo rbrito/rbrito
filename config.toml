@@ -6,6 +6,12 @@ author = "Rogério Theodoro de Brito"
 copyright = "&copy; 2000&ndash;2021. All rights reserved."
 canonifyurls = true
 paginate = 10
+math = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      katex = true
 
 [indexes]
   tag = "tags"
@@ -20,6 +26,7 @@ paginate = 10
   # CSS name for highlight.js
   highlightjs = "androidstudio"
   dateFormat = "2006-01-02, 15:04" # Check: http://fuckinggodateformat.com/
+  math = true
 
 [menu]
   # Shown in the side menu.
