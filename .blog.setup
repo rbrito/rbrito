@@ -93,11 +93,11 @@ use IkiWiki::Setup::Standard {
 	# enable rss feeds by default?
 	rss => 1,
 	# enable atom feeds by default?
-	atom => 1,
+	atom => 0,
 	# allow rss feeds to be used?
 	allowrss => 1,
 	# allow atom feeds to be used?
-	allowatom => 1,
+	allowatom => 0,
 	# urls to ping (using XML-RPC) on feed update
 	#pingurl => 'http://rpc.technorati.com/rpc/ping',
 
