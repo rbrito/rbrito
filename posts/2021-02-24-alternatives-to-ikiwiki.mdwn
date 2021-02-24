@@ -1,0 +1,45 @@
+[[!meta title="Alternatives to ikiwiki?"]]
+[[!meta date="Wed, 24 Feb 2021 05:19:00 -0300"]]
+
+It's been quite a long time since I last posted anything on this blog and I
+can say that one of the reasons for that I don't feel comfortable using
+`ikiwiki` anymore. ☹
+
+I am actively looking for alternatives to `ikiwiki` that allow me, mainly,
+to write blog posts with the following characteristics (roughly in order of
+importance):
+
+* Write in a lightweight markup language (e.g., markdown) and store what I
+  do in a git repository---some (extra?) features are needed, like creating
+  tables. I may be open to using something like restructured text, if
+  necessary, but if I don't have to change, then I'd like to keep it.
+* Create a static version of what I wrote in markdown, especially hosting it
+  with, say, GitHub pages.
+* Use mathematics, perhaps extensively, mostly copying and pasting from
+  LaTeX documents.
+  
+  This, is one **major** pain point with `ikiwiki`. Apparently almost nobody
+  cares about supporting MathJax/KaTex or similar. **Very depressing.**
+  
+  I have tried to use hugo (which we happily have packaged in Debian), but
+  configuring it is totally crazy: first, you have to decide on a theme and,
+  then, (almost?) everything that you do is tied to that theme.  This is
+  (almost) the opposite to the philosophy of LaTeX: first, write your text
+  and, only then, worry about the style/looks.
+  
+  I have more to say about hugo and I failed, but I would still like to give
+  it a try, if I don't find anything else that has the features that I'm
+  looking for.
+* Enable syntax-highlighting for code samples. I'm a Computer Scientist
+  after all, and I would love to share code.[^1]
+
+I have already converted most posts (that is, not this one ☺) with some
+python scripts to a format that I feel is a bit more format-agnostic.
+
+[^1]: I like the style of fenced blocks that GitHub used, where you prefix
+    the code with the name of the language to give a hint of how to
+    highlight the code snipped.
+
+[[!tag debian]]
+[[!tag free-software]]
+[[!tag linux]]
