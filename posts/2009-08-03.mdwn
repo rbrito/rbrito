@@ -1,6 +1,6 @@
 [[!meta  date="2009-08-03"]]
 These past days I have been
-[crushing some bugs](http://bugs.debian.org/cgi-bin/pkgreport.cgi?maint=rbrito@ime.usp.br)
+[crushing some bugs](http://bugs.debian.org/cgi-bin/pkgreport.cgi?maint=rbrito@gmail.com)
 in [Debian](http://www.debian.org/)'s
 [sid](http://www.debian.org/releases/sid).
 

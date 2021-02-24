@@ -3,7 +3,7 @@ use IkiWiki::Setup::Standard {
 	# name of the wiki
 	wikiname => 'Rogério Brito\'s Digital Junkyard',
 	# contact email for wiki
-	adminemail => 'rbrito@ime.usp.br',
+	adminemail => 'rbrito@gmail.com',
 	# users who are wiki admins
 	adminuser => [],
 	# users who are banned from the wiki
