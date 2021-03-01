@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Preliminary support for webm in youtube-dl"
 date: "2010-05-29 17:06:18"
 tags: [audio, debian, free-software, hacks, libraries, multimedia, video]

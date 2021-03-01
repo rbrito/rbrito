@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Trivial fact: convexity of polyhedra"
 date: "Wed, 11 Dec 2013 00:27:41 -0200"
 tags: [debian, math, study]

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Getting things from the iTunes Music Store without iTunes"
 date: "2009-02-24 11:11:54"
 tags: [apple, computers, itunesu, music, video]

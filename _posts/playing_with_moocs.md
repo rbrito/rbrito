@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Playing with MOOCs"
 date: "Thu, 04 Jul 2013 08:33:00 -0300"
 tags: [debian, free-software, git, mooc, python, study, education]

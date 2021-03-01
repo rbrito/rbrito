@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Uploading SICP to Youtube"
 date: "Sat, 17 Jan 2015 23:52:14 -0200"
 tags: [debian, free-software, programming, study, video]

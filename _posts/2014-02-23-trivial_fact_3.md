@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Trivial fact #3: Continued fractions via matrices"
 date: "Sun, 23 Feb 2014 23:30:30 -0300"
 tags: [debian, math, study, tex]

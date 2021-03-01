@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Another meme: The Geek test"
 date: "Thu, 01 Nov 2012 02:32:23 -0200"
 tags: [meme]

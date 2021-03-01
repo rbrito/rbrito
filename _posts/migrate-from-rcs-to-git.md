@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Migrate from RCS to git"
 date: "2010-02-11 05:39:37"
 tags: [debian, emacs, git, hacks, revision-control]

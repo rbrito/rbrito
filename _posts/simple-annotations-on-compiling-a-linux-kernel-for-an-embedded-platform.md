@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Simple Annotations on Compiling a Linux Kernel for an Embedded Platform"
 date: "2010-05-12 00:54:52"
 tags: [configuration, debian, development, embedded, free-software, hacks, kernel, kurobox, linux, powerpc]

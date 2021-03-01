@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Contact"
 date: "2018-05-03T06:02:48-03:00"
 tags: [life, study, work]

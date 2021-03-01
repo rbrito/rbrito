@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Working with CVS via Git"
 date: "Tue, 11 Jun 2013 04:49:56 -0300"
 tags: [cvs, debian, free-software, git, hacks, lame, revision-control]

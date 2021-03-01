@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "SNA Acceleration vs. UXA Acceleration"
 date: "Wed, 21 Aug 2013 13:44:19 -0300"
 tags: [debian, free-software, linux, video, xorg]

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "I am going to DebConf 10"
 date: "2010-07-18 03:34:40"
 tags: [debian, development, fonts, fonts, free-software, hacks, powerpc, web-of-trust]

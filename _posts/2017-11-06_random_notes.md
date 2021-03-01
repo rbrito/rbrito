@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Some activities of the day"
 date: "Mon, 06 Nov 2017 22:52:59 -0200"
 tags: [debian, free-software, hardware, java, life, linux, parenting]

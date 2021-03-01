@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Paco de Lucia"
 date: "Thu, 27 Feb 2014 21:48:04 -0300"
 tags: [debian, music, video]

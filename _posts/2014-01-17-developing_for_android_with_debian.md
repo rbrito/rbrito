@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Developing for Android with Debian"
 date: "Fri, 17 Jan 2014 20:18:04 -0200"
 tags: [android, debian, free-software, java]

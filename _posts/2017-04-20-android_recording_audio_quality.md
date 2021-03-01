@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Android recording audio quality"
 date: "2017-04-20 00:17:05 -0300"
 tags: [android, audio, free-software, multimedia]

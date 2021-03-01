@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Music, Group Actions, Quilt and Debian Packages"
 date: "2007-06-13 02:08:51"
 tags: [abstract-algebra, class-equation, computers, debian, group-actions, math, quilt]

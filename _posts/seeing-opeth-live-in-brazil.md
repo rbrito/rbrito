@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Seeing Opeth Live in Brazil"
 date: "2007-03-14 23:00:00"
 tags: [music, opeth, pain-of-salvation]

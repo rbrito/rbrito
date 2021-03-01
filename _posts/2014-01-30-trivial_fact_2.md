@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Trivial fact #2: Harmonic Numbers"
 date: "Thu, 30 Jan 2014 00:43:30 -0200"
 tags: [debian, math, study, tex]

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Looking for (Free) a Video Editor"
 date: "Tue, 29 Jan 2013 22:16:07 -0200"
 tags: [debian, free-software, lazyweb, multimedia, video]

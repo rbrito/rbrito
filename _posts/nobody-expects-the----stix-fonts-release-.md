@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Nobody expects the... STIX fonts release!"
 date: "2010-05-29 17:54:56"
 tags: [fonts, free-software, tex, typography]

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "The importance of flexible deadlines in MOOCs"
 date: "Fri, 04 Apr 2014 13:48:59 -0300"
 tags: [debian, life, mooc, study]

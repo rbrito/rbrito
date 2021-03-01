@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "A version of xpdf with the poppler backend available"
 date: "2010-06-10 19:46:13"
 tags: [c++, debian, development, documents, free-software, hacks, libraries, programming]

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Some new Youtube-dl functionality"
 date: "Mon, 17 Feb 2014 18:27:00 -0300"
 tags: [debian, free-software, linux, multimedia, python, study]

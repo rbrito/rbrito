@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Random Points on Group Theory"
 date: "2007-05-24 14:07:11"
 tags: [abstract-algebra, group-theory, math, quotient-groups]

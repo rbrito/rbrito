@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Comparison of JDK installation of various Linux distributions"
 date: "Thu, 02 Nov 2017 23:13:56 -0200"
 tags: [debian, free-software, java, linux, ubuntu]

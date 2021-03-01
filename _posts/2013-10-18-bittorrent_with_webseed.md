@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Quick tip #1"
 date: "Fri, 18 Oct 2013 12:49:09 -0300"
 tags: [debian, free-software, mooc, quick-tip]

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Some recent Debian activities"
 date: "Fri, 19 Apr 2013 04:29:23 -0300"
 tags: [debian, free-software, linux]

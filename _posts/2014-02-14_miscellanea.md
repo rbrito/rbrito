@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Miscellanea"
 date: "Sat, 15 Feb 2014 00:59:22 -0200"
 tags: [debian, ffmpeg, libav, linux, ubuntu]

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "First post from DebConf 10"
 date: "2010-08-03 06:09:46"
 tags: [debian, development, free-software, people]

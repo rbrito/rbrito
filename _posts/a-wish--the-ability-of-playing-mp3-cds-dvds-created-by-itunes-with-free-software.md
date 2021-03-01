@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "A Wish: The Ability of Playing MP3 CDs/DVDs created by iTunes with Free Software"
 date: "2009-02-25 20:34:09"
 tags: [apple, computers, indexed-metadata, library, mp3, music]

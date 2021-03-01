@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Some experiences with ZFS"
 date: "Sat, 08 Sep 2012 23:42:24 -0300"
 tags: [compression, debian-planet, debian, deduplication, filesystems, free-software, linux, zfs]

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "On teaching Groups before Rings in Abstract Algebra"
 date: "2007-04-22 17:46:52"
 tags: [abstract-algebra, math]

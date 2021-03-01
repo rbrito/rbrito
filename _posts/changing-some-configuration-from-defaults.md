@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Changing Some Configuration from Defaults"
 date: "2010-05-22 20:36:42"
 tags: [configuration, debian, emacs, hacks, productivity, readline]

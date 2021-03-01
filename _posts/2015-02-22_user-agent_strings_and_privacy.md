@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "User-Agent strings and privacy"
 date: "Sun, 22 Feb 2015 20:54:27 -0300"
 tags: [android, apple, browsers, debian, free-software]

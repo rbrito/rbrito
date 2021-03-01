@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "(Some) Solutions with Chromium"
 date: "2011-03-09 14:33:00"
 tags: [browsers, free-software, debian, extensions]

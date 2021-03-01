@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Trying out AdSense"
 date: "Mon, 03 Sep 2012 20:12:42 -0300"
 tags: [adsense, advertisements, debian, debian-planet, free-software, funding]

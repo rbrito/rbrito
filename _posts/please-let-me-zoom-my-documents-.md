@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Please let me zoom my documents!"
 date: "2010-05-27 11:17:00"
 tags: [bugs, debian, fonts, free-software, hacks, libraries, pdf, tex, xetex]

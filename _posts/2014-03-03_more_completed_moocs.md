@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "More completed MOOCs"
 date: "Mon, 03 Mar 2014 02:35:11 -0300"
 tags: [android, debian, java, life, mooc, study]

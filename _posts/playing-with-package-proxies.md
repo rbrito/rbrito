@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Playing with Package Proxies"
 date: "2007-03-15 23:00:00"
 tags: [approx, apt-move, computers, debian, embedded, linux, proxy, ubuntu]

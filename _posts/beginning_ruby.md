@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Beginning Ruby"
 date: "Sat, 20 Jul 2013 21:50:00 -0300"
 tags: [debian, free-software, ruby, study]

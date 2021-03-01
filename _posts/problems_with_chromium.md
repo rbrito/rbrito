@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "My problems with Chromium"
 date: "2011-02-26 11:55:06"
 tags: [browsers, free-software, debian, extensions, ubuntu, launchpad]

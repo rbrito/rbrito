@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Installing Meego on the N900"
 date: "Sun, 03 Jul 2011 03:55:50 -0300"
 tags: [debian, free-software, linux, meego, n900]

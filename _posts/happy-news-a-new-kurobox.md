@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Happy News: A new Kurobox"
 date: "2007-04-22 23:00:00"
 tags: [computers, debian, embedded, kurobox, linux, nas]

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Lack of cooperation from Ubuntu?"
 date: "Fri, 19 Apr 2013 22:46:26 -0300"
 tags: [debian, kfreebsd, free-software, linux, ubuntu]

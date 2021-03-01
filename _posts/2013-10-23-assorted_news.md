@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Assorted random notes"
 date: "Wed, 23 Oct 2013 21:08:42 -0200"
 tags: [btrfs, debian, filesystem, free-software, linux, music, python, study]

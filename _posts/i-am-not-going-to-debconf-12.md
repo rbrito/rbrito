@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "I am not going to DebConf 12"
 date: "2012-06-07 01:59:42 -0300"
 tags: [debconf, debian, development, fonts, free-software, handbrake, multimedia]

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "A Small Python Project (coursera-dl) Activites"
 date: "Sat, 16 May 2015 01:54:42 -0300"
 tags: [debian, free-software, python, software-engineering, pypi]

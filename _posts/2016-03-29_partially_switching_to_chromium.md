@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Partially switching to Chromium"
 date: "Tue, 29 Mar 2016 02:25:15 -0300"
 tags: [chromium, debian, firefox, free-software, linux]

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Debian Switching to EGLIBC"
 date: "2007-05-07 23:00:00"
 tags: [computers, debian, embedded, linux, ubuntu]

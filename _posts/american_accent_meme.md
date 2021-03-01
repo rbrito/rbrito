@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "American accent meme"
 date: "Mon, 27 Aug 2012 00:04:57 -0300"
 tags: [meme]
