@@ -29,19 +29,20 @@ For a device running API 14, we can use something like this
   https://developer.android.com/guide/topics/media/mediarecorder.html
 
 
-        private void startRecording() {
-           mRecorder = new MediaRecorder();
-           mRecorder.setAudioSource(MediaRecorder.AudioSource.MIC);
-           mRecorder.setOutputFormat(MediaRecorder.OutputFormat.MPEG_4); // other?
-           mRecorder.setOutputFile(mFileName); // end in m4a, for compatibility
-           mRecorder.setAudioEncoder(MediaRecorder.AudioEncoder.AAC); // AAC_HE, if supported
+```java
+private void startRecording() {
+    mRecorder = new MediaRecorder();
+    mRecorder.setAudioSource(MediaRecorder.AudioSource.MIC);
+    mRecorder.setOutputFormat(MediaRecorder.OutputFormat.MPEG_4); // other?
+    mRecorder.setOutputFile(mFileName); // end in m4a, for compatibility
+    mRecorder.setAudioEncoder(MediaRecorder.AudioEncoder.AAC); // AAC_HE, if supported
 
-           try {
-               mRecorder.prepare();
-           } catch (IOException e) {
-               Log.e(LOG_TAG, "prepare() failed");
-           }
+    try {
+        mRecorder.prepare();
+    } catch (IOException e) {
+        Log.e(LOG_TAG, "prepare() failed");
+    }
 
-           mRecorder.start();
-        }
-
+    mRecorder.start();
+}
+```
