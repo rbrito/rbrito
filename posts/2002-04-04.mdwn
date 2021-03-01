@@ -35,7 +35,7 @@ is available for Linux, including PPC.
 
 [[!tag  debian]]
 [[!tag  free-software]]
-[[!tag  harware]]
+[[!tag  hardware]]
 [[!tag  java]]
 [[!tag  life]]
 [[!tag  linux]]

@@ -24,7 +24,7 @@ different values of satisfaction.
 
 
 [[!tag  free-software]]
-[[!tag  harware]]
+[[!tag  hardware]]
 [[!tag  life]]
 [[!tag  linux]]
 [[!tag  powerpc]]

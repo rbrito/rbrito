@@ -25,7 +25,7 @@ Linux browsers that I tried ([Opera](http://www.opera.com/),
 
 [[!tag  debian]]
 [[!tag  free-software]]
-[[!tag  harware]]
+[[!tag  hardware]]
 [[!tag  java]]
 [[!tag  life]]
 [[!tag  linux]]
