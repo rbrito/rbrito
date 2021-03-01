@@ -1,4 +1,0 @@
-[[!meta title="pages tagged harware"]]
-
-[[!inline pages="tagged(harware)" actions="no" archive="yes"
-feedshow=10]]
