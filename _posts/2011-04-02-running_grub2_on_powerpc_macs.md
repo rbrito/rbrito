@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Running GRUB2 on PowerPC Macs"
-date: "Sat Apr  2 22:18:12 BRT 2011"
+date: "Sat, 2 Apr 2011 22:18:12 -0300"
 tags: [configuration, debian, development, free-software, hacks, ibook, kernel, linux, mac, powerpc]
 ---
 
