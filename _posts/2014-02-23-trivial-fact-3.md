@@ -26,11 +26,16 @@ and that's super nice.
 
 For the curious reader, the recurrence relations for the convergents of
 $[a_0, a_1, \ldots, a_n, \ldots]$ are:
-\[
+
+$$
+\begin{align*}
 p_n = a_n p_{n-1} + p_{n-2}\\
 q_n = a_n q_{n-1} + q_{n-2},
-\] with initial conditions ($p_{-2} = 0$, $p_{-1} = 1$, $p_0 = a_0$,
-$q_{-2} = 1$, $q_{-1} = 0$, $q_0 = 1$).
+\end{align*}
+$$
+
+with initial conditions $p_{-2} = 0$, $p_{-1} = 1$, $p_0 = a_0$,
+$q_{-2} = 1$, $q_{-1} = 0$, $q_0 = 1$.
 
 He even motivated the use of continued fractions with the golden ratio,
 which is super nice, given that I like the subject and have been writing a
