@@ -5,22 +5,30 @@ date: "Thu, 27 Feb 2014 21:48:04 -0300"
 tags: [debian, music, video]
 ---
 
-I was super sad to know that [[!wikipedia Paco de Lucia]] passed a few days
+I was super sad to know that [Paco de Lucia][paco] passed a few days
 ago. It was shocking to know that he was so young (only 66 year old, if I am
 not mistaken).
 
+[paco]: https://en.wikipedia.org/wiki/Paco_de_Luc%C3%ADa
+
 To share some of his fine work with his frequent collaborators
-[[!wikipedia John McLaughlin]] and [[!wikipedia Al Di Meola]] to people that
+[John McLaughlin][john] and [Al Di Meola][al] to people that
 may not otherwise know him or his work, I offered on a Facebook post to
 upload a bootleg of a show of the Guitar Trio (John McLaughlin, Paco De
 Lucia and Al Di Meola) with the entire performance (possibly out of order,
 as that is a bootleg, after all) ripped from a broadcast to Dutch TV
 station.
 
+[john]: https://en.wikipedia.org/wiki/John_McLaughlin_(musician)
+[al]: https://en.wikipedia.org/wiki/Al_Di_Meola
+
 This performance includes the exceptional Paco de Lucia prominently and the
-show has many songs from the "[[!wikipedia Friday Night in San Francisco]]"
+show has many songs from the "[Friday Night in San Francisco][fnisf]"
 record, including the magnificent (IMVHO)
-"[[!wikipedia Mediterranean Sundance]]".
+"[Mediterranean Sundance]".
+
+[fnisf]: https://en.wikipedia.org/wiki/Friday_Night_in_San_Francisco
+[ms]: https://en.wikipedia.org/wiki/Mediterranean_Sundance
 
 The credits of the video are, of course, of the musicians.
 
