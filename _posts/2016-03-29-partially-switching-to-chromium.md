@@ -32,4 +32,3 @@ are not that perceptible to my computer's CPU).
 So, before I go on and formally file a bug report, I would love to confirm
 if other people see the same problems that I am seeing. Do you also see
 something similar? Your input is highly welcome!
-

@@ -28,5 +28,3 @@ I only ripped, deinterlaced (remember, analog TV&mdash;it was interlaced),
 denoised, encoded, and [uploaded the video to youtube][1].
 
 [1]: http://youtu.be/0tzfUYz2t5w
-
-

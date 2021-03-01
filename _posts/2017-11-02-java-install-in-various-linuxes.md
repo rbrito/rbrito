@@ -87,4 +87,3 @@ I don't have instructions on how to install on [Gentoo][gentoo] nor on
 I now see how hard it is to cover instructions/provide software for as many
 distributions as you wish, given the multitude of package managers,
 conventions etc.
-

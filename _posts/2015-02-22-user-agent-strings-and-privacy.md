@@ -67,4 +67,3 @@ two versions: as [Firefox itself][5] and as [Fennec][6].
 
 *Edit, 2017-10-19:* Added the User-Agent string of Firefox Focus. Quite
 different from regular Firefox, as we can see.
-

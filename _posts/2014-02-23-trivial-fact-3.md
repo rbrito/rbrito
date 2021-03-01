@@ -91,4 +91,3 @@ Please, if you any errors on this, please let me know so that I can fix it.
 [0]: http://wstein.org/
 [1]: http://wstein.org/ent/
 [2]: https://plus.google.com/115360165819500279592/posts/guGv6w9jmxr
-

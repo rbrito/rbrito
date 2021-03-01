@@ -50,5 +50,3 @@ I reproduce below the message that I posted on the forums:
 > Thank you so very much for everything (including this extension!),
 >
 > Rogério Brito.
-
-

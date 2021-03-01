@@ -71,5 +71,3 @@ Of course, uploading all the videos is going to take a while and I would
 only do it if people would really benefit from them.  If you think so, let
 me know here (or if you know someone who would like the split version of the
 videos, spread the word).
-
-

@@ -79,5 +79,3 @@ Aside #2: After a *lot* of time spent converting the repository to git
 commons graph project.
 
 [9]: https://github.com/rbrito/commons-graph
-
-

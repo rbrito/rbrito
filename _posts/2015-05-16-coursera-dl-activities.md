@@ -87,4 +87,3 @@ program or [triaging some bugs][issues].
 [contact]: https://twitter.com/rtdbrito
 [fork]: https://github.com/coursera-dl/coursera#fork-destination-box
 [issues]: https://github.com/coursera-dl/coursera/issues
-
