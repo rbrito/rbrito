@@ -57,7 +57,8 @@ apparently liked, as he +1's the suggestion):
 Prove that the recurrence relation of the $p_i$'s and $q_i$'s that we
 mentioned before can be obtained via matrix multiplication. More precisely,
 prove that:
-\[
+
+$$
 \begin{bmatrix}
 a_0 & 1\\
 1 & 0
@@ -76,7 +77,8 @@ a_n & 1\\
 p_n & p_{n-1}\\
 q_n & q_{n-1}
 \end{bmatrix}.
-\]
+$$
+
 As a corollary, derive Cassini's identity for the Fibonacci Numbers.
 
 <br />
