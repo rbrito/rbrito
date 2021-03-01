@@ -24,10 +24,7 @@ I am thankful for the DebConf team sponsoring both accomodation and food.  It is
 See you in NYC! Any hints that you may happen to have are warmly welcome.
 
 [[!tag  debian]]
-[[!tag  development]]
-[[!tag  fonts]]
 [[!tag  fonts]]
 [[!tag  free-software]]
-[[!tag  hacks]]
 [[!tag  powerpc]]
 [[!tag  web-of-trust]]

@@ -67,7 +67,6 @@ above.
 [5]: http://git-scm.com/
 
 [[!tag  debian]]
+[[!tag  free-software]]
 [[!tag  emacs]]
 [[!tag  git]]
-[[!tag  hacks]]
-[[!tag  revision-control]]

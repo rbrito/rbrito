@@ -24,12 +24,8 @@ Martin's port of xpdf doesn't compile with a recent poppler, though: the library
 
 Well, to cut a long story short, after two afternoons hunting down a  version of poppler that would allow me to compile Martin's xpdf version, I got bored and tried to attack the problem.  Now I can use  this alternative version of xpdf with the poppler backend, with very little dependencies and with little memory usage on my computer. I'm keeping it for my private use, but if anybody else is interested, please let me know.
 
-[[!tag  bugs]]
 [[!tag  debian]]
 [[!tag  fonts]]
 [[!tag  free-software]]
-[[!tag  hacks]]
-[[!tag  libraries]]
 [[!tag  pdf]]
 [[!tag  tex]]
-[[!tag  xetex]]

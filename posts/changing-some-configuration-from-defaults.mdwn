@@ -69,9 +69,7 @@ DejaVu Sans Mono at the right size on my system.
 
 [1]: http://www.gnu.org/software/emacs/NEWS.23.2
 
-[[!tag  configuration]]
 [[!tag  debian]]
 [[!tag  emacs]]
-[[!tag  hacks]]
-[[!tag  productivity]]
-[[!tag  readline]]
+[[!tag  free-software]]
+[[!tag  life]]

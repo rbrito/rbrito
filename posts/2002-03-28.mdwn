@@ -8,5 +8,4 @@ subjects.
 
 
 [[!tag  life]]
-[[!tag  sadness]]
 [[!tag  study]]

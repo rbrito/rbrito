@@ -62,10 +62,7 @@ repository.
 Of course, I would prefer a simpler, leaner workflow. If you happen to have
 one, please let me know.
 
-[[!tag  cvs]]
 [[!tag  debian]]
 [[!tag  free-software]]
 [[!tag  git]]
-[[!tag  hacks]]
 [[!tag  lame]]
-[[!tag  revision-control]]

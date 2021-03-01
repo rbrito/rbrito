@@ -13,7 +13,5 @@ Exciting times in the multimedia world.
 [[!tag  audio]]
 [[!tag  debian]]
 [[!tag  free-software]]
-[[!tag  hacks]]
-[[!tag  libraries]]
 [[!tag  multimedia]]
 [[!tag  video]]

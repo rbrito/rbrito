@@ -29,5 +29,4 @@ different values of satisfaction.
 [[!tag  linux]]
 [[!tag  powerpc]]
 [[!tag  python]]
-[[!tag  sadness]]
 [[!tag  video]]

@@ -90,9 +90,7 @@ Thanks.
 
 [[!tag  c++]]
 [[!tag  debian]]
-[[!tag  development]]
 [[!tag  documents]]
 [[!tag  free-software]]
-[[!tag  hacks]]
 [[!tag  libraries]]
 [[!tag  programming]]
