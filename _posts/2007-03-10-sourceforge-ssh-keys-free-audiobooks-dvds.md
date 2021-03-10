@@ -2,7 +2,7 @@
 layout: post
 title: "Sourceforge, SSH keys, Free audiobooks, DVD's"
 date: "2007-03-10 23:00:00"
-tags: [audiobooks, computers, descartes, dvds, hashes, music, opeth, pain-of-salvation, public-domain, security, ssh]
+tags: [debian, free-software, music, video]
 ---
 
 Found out about "The Right Way (TM)" to hash an existing SSH's `known_hosts`
@@ -30,4 +30,3 @@ it is an amazing piece of music. Recommended for all fans of good music.
 [2]: http://librivox.org/
 [3]: http://www.dominiopublico.gov.br/pesquisa/DetalheObraForm.do?select_action=&amp;co_obra=2274
 [4]: http://www.dominiopublico.gov.br/
-

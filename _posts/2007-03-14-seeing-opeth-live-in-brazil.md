@@ -2,7 +2,7 @@
 layout: post
 title: "Seeing Opeth Live in Brazil"
 date: "2007-03-14 23:00:00"
-tags: [music, opeth, pain-of-salvation]
+tags: [life, music]
 ---
 The acoustic show of Pain of Salvation is really nice. I didn't have enough
 time to watch it yet, but it is an amazing thing that should be kept, as the
