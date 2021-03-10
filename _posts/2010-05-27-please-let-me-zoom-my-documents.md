@@ -2,7 +2,7 @@
 layout: post
 title: "Please let me zoom my documents!"
 date: "2010-05-27 11:17:00"
-tags: [bugs, debian, fonts, free-software, hacks, libraries, pdf, tex, xetex]
+tags: [debian, fonts, free-software, tex]
 ---
 It all started when I tried to typeset my documents with the <a href="http://en.wikipedia.org/wiki/Utopia (typeface)">Utopia</a> typeface, which is Free Software, since <a>Adobe liberated it to the TeX Users Group.</a>
 

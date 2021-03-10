@@ -2,7 +2,7 @@
 layout: post
 title: "I am not going to DebConf 12"
 date: "2012-06-07 01:59:42 -0300"
-tags: [debconf, debian, development, fonts, free-software, handbrake, multimedia]
+tags: [debian, fonts, free-software, video]
 ---
 
 Due to some real life impediments (including a beautiful one with just over
@@ -38,4 +38,3 @@ Oh, well. I guess that working at home will be the solution for some time.
 [1]: http://joeyh.name/blog/
 [2]: http://packages.debian.org/sid/parallel
 [3]: http://pkg-fonts.alioth.debian.org/
-

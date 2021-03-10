@@ -2,7 +2,7 @@
 layout: post
 title: "Preliminary support for webm in youtube-dl"
 date: "2010-05-29 17:06:18"
-tags: [audio, debian, free-software, hacks, libraries, multimedia, video]
+tags: [audio, debian, free-software, video]
 ---
 I just added some very, very preliminary support for web in <code>youtube-dl</code> which <a href="http://lists.debian.org/debian-devel-changes/2010/05/msg02694.html">I uploaded</a> to unstable some minutes ago.
 

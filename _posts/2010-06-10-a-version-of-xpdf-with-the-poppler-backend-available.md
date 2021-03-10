@@ -2,7 +2,7 @@
 layout: post
 title: "A version of xpdf with the poppler backend available"
 date: "2010-06-10 19:46:13"
-tags: [c++, debian, development, documents, free-software, hacks, libraries, programming]
+tags: [c++, debian, free-software, writing]
 ---
 
 Well, it's been some time since I last wrote here and things are quite
@@ -91,4 +91,3 @@ subscriber. I never heard back, since.
 I appreciate it if you could help spread the word.
 
 Thanks.
-

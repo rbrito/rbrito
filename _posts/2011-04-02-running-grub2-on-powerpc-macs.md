@@ -2,9 +2,8 @@
 layout: post
 title: "Running GRUB2 on PowerPC Macs"
 date: "Sat, 2 Apr 2011 22:18:12 -0300"
-tags: [configuration, debian, development, free-software, hacks, ibook, kernel, linux, mac, powerpc]
+tags: [debian, free-software, linux, mac, powerpc]
 ---
-
 
 Here I write a little bit about my experiences running GRUB2 with a PowerPC
 Mac (actually, an iBook G4), since the current documentation is lacking in
@@ -33,8 +32,8 @@ interest.
 
 For now, it just suffices to say that to get to the OF prompt in a Mac, you
 have to press a combination keys during the time that your Mac gives a chime
-when you turn it on. At that moment, you have to press (simulaneously) Cmd +
-Option + O + F. (Note: the Cmd key is the key that has an Apple drawn on it,
+when you turn it on. At that moment, you have to press (simulaneously) `Cmd +
+Option + O + F`. (Note: the `Cmd` key is the key that has an Apple drawn on it,
 usually on the side of the space bar).
 
 # Limitations of Open Firmware
@@ -271,4 +270,3 @@ not everybody who wants to use GRUB2 have to learn about its workings.
 
 Oh, of course, you can now have your kernels in ext4, btrfs, xfs
 etc. partitions without the fear that your bootloader won't load them.
-

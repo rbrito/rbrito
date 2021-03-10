@@ -2,8 +2,9 @@
 layout: post
 title: "I am going to DebConf 10"
 date: "2010-07-18 03:34:40"
-tags: [debian, development, fonts, fonts, free-software, hacks, powerpc, web-of-trust]
+tags: [debian, fonts, free-software, powerpc, web-of-trust]
 ---
+
 I just bought my tickets today to NYC and I am glady to say that I am going to Debconf 10.
 
 [caption id="attachment_55" align="aligncenter" width="200" caption="I am going to DebConf10"]<a rel="attachment wp-att-55" href="http://localhost/blog/2010/07/18/i-am-going-to-debconf-10/im_going_to_debconf10/"><img class="size-full wp-image-55 " title="im_going_to_debconf10" src="http://localhost/blog/wp-content/uploads/2010/07/im_going_to_debconf10.png" alt="I am going to DebConf10" width="200" height="101"  /></a>[/caption]
@@ -26,4 +27,3 @@ This represents a personal milestone for me, as I have many plans for the confer
 I am thankful for the DebConf team sponsoring both accomodation and food.  It is highly appreciated.
 
 See you in NYC! Any hints that you may happen to have are warmly welcome.
-

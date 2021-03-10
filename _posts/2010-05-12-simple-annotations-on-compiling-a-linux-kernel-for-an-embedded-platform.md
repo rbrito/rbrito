@@ -2,7 +2,7 @@
 layout: post
 title: "Simple Annotations on Compiling a Linux Kernel for an Embedded Platform"
 date: "2010-05-12 00:54:52"
-tags: [configuration, debian, development, embedded, free-software, hacks, kernel, kurobox, linux, powerpc]
+tags: [debian, free-software, kurobox, linux, powerpc]
 ---
 
 Here are some facts distilled from my experience with preparing kernels to
@@ -124,4 +124,3 @@ future).
   systems, usually `CONFIG_RTC_DRV_CMOS=y` is sufficient).
 
 [avr-evtd]: https://packages.debian.org/sid/avr-evtd
-

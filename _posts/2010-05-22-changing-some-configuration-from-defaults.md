@@ -2,7 +2,7 @@
 layout: post
 title: "Changing Some Configuration from Defaults"
 date: "2010-05-22 20:36:42"
-tags: [configuration, debian, emacs, hacks, productivity, readline]
+tags: [debian, free-software, life]
 ---
 
 Two of my most frequently used tools are, hands down, Emacs and bash.
@@ -72,4 +72,3 @@ to my `.Xdefaults` file did the trick and restored back the ability to use
 DejaVu Sans Mono at the right size on my system.
 
 [1]: http://www.gnu.org/software/emacs/NEWS.23.2
-

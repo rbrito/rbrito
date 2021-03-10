@@ -2,9 +2,8 @@
 layout: post
 title: "Working with CVS via Git"
 date: "Tue, 11 Jun 2013 04:49:56 -0300"
-tags: [cvs, debian, free-software, git, hacks, lame, revision-control]
+tags: [debian, free-software]
 ---
-
 
 The easiest way of using git locally to commit to a CVS repository is to
 have *both* a git clone of the CVS repository *and* a CVS checkout of your
@@ -64,4 +63,3 @@ repository.
 
 Of course, I would prefer a simpler, leaner workflow. If you happen to have
 one, please let me know.
-

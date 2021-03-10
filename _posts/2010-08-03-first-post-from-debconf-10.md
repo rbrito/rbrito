@@ -2,7 +2,7 @@
 layout: post
 title: "First post from DebConf 10"
 date: "2010-08-03 06:09:46"
-tags: [debian, development, free-software, people]
+tags: [debian, free-software, life]
 ---
 
 Even though I am late with this post, it is nice to say that I am writing
@@ -45,4 +45,3 @@ Thanks!
 
 P.S.: I just created an account on flickr that I hope to populate with some
 photos that I took here. And even with a nice squirrel. :-)
-

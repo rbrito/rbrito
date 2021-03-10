@@ -2,7 +2,7 @@
 layout: post
 title: "Packaging fonts for a Debian-based system"
 date: "Fri, 12 Nov 2010 11:23:55 -0200"
-tags: [development, documents, fonts, free-software, opentype, tex, typography]
+tags: [debian, fonts, free-software, tex, typography]
 ---
 
 Seeing now that the situation regarding Free fonts is much better than in
