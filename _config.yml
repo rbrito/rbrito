@@ -18,7 +18,7 @@ email: rbrito@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Collections of thoughts and discoveries regarding Free Software,
   Mathematics and life by Rogério Theodoro de Brito.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://cynic.cc" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rtdbrito
 github_username:  rbrito
